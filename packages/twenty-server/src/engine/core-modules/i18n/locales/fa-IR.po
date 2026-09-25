@@ -63,14 +63,17 @@ msgid "{hostnameCount} hostnames found for domain \"{domainName}\". Expect 1"
 msgstr "{hostnameCount} نام میزبان برای دامنه «{domainName}» یافت شد. انتظار ۱ است"
 
 #. js-lingui-id: dmxzg7
+msgctxt "fieldMetadata.label"
 msgid "12HRS"
 msgstr "۱۲ ساعته"
 
 #. js-lingui-id: tkDOSx
+msgctxt "fieldMetadata.label"
 msgid "24HRS"
 msgstr "۲۴ ساعته"
 
 #. js-lingui-id: RsTRse
+msgctxt "objectMetadata.description"
 msgid "A bulk email send to an audience, with delivery stats"
 msgstr "ارسال انبوه ایمیل به یک مخاطب، همراه با آمار تحویل"
 
@@ -79,6 +82,7 @@ msgid "A cache lock error occurred."
 msgstr "خطای قفل کش رخ داد."
 
 #. js-lingui-id: BdG91f
+msgctxt "objectMetadata.description"
 msgid "A calendar event target"
 msgstr "هدف رویداد تقویم"
 
@@ -91,6 +95,7 @@ msgid "A chart filter of widget \"{widgetTitle}\" has no field metadata universa
 msgstr "یک فیلتر نمودار ویجت «{widgetTitle}» شناسه جهانی فراداده فیلد ندارد"
 
 #. js-lingui-id: OaxxOp
+msgctxt "objectMetadata.description"
 msgid "A company"
 msgstr "یک شرکت"
 
@@ -103,6 +108,7 @@ msgid "A connection provider with this name already exists for this application.
 msgstr "یک ارائه‌دهنده اتصال با این نام از قبل برای این اپلیکیشن وجود دارد."
 
 #. js-lingui-id: TjN8GI
+msgctxt "objectMetadata.description"
 msgid "A dashboard"
 msgstr "یک داشبورد"
 
@@ -131,6 +137,7 @@ msgid "A function with this name already exists."
 msgstr "تابعی با این نام از قبل وجود دارد."
 
 #. js-lingui-id: AzzING
+msgctxt "objectMetadata.description"
 msgid "A hand-picked audience of people"
 msgstr "یک مخاطب گزینش‌شده از افراد"
 
@@ -147,6 +154,7 @@ msgid "A marketing email can only be sent to one recipient at a time, so each pe
 msgstr "یک ایمیل بازاریابی فقط می‌تواند در هر بار به یک گیرنده ارسال شود تا هر نفر پیوند لغو اشتراک خودش را داشته باشد."
 
 #. js-lingui-id: gnMqGV
+msgctxt "objectMetadata.description"
 msgid "A message thread target"
 msgstr "هدف رشته پیام"
 
@@ -171,10 +179,12 @@ msgid "A network error occurred while accessing calendar."
 msgstr "هنگام دسترسی به تقویم خطای شبکه رخ داد."
 
 #. js-lingui-id: B6P+4g
+msgctxt "objectMetadata.description"
 msgid "A note"
 msgstr "یک یادداشت"
 
 #. js-lingui-id: ZtpeIz
+msgctxt "objectMetadata.description"
 msgid "A note target"
 msgstr "هدف یادداشت"
 
@@ -199,10 +209,12 @@ msgid "A payment processing error occurred."
 msgstr "خطای پردازش پرداخت رخ داد."
 
 #. js-lingui-id: K1qNjB
+msgctxt "objectMetadata.description"
 msgid "A person"
 msgstr "یک شخص"
 
 #. js-lingui-id: 6EBM2x
+msgctxt "objectMetadata.description"
 msgid "A person's membership in a list"
 msgstr "عضویت یک شخص در یک فهرست"
 
@@ -219,6 +231,7 @@ msgid "A record with this value already exists."
 msgstr "رکوردی با این مقدار از قبل وجود دارد."
 
 #. js-lingui-id: 9BQITM
+msgctxt "objectMetadata.description"
 msgid "A recording of a meeting"
 msgstr "ضبط یک جلسه"
 
@@ -251,10 +264,12 @@ msgid "A standard object required to provision default relations could not be fo
 msgstr "شیء استاندارد لازم برای ایجاد روابط پیش‌فرض یافت نشد"
 
 #. js-lingui-id: VzpL85
+msgctxt "objectMetadata.description"
 msgid "A task"
 msgstr "یک وظیفه"
 
 #. js-lingui-id: OFAI1i
+msgctxt "objectMetadata.description"
 msgid "A task target"
 msgstr "هدف وظیفه"
 
@@ -339,22 +354,27 @@ msgid "A widget header action was not found"
 msgstr "اقدام سربرگ ویجت یافت نشد"
 
 #. js-lingui-id: 3VQj1J
+msgctxt "objectMetadata.description"
 msgid "A workflow"
 msgstr "یک گردش‌کار"
 
 #. js-lingui-id: ePMKG3
+msgctxt "objectMetadata.description"
 msgid "A workflow automated trigger"
 msgstr "یک محرک خودکار گردش‌کار"
 
 #. js-lingui-id: bQaMUu
+msgctxt "objectMetadata.description"
 msgid "A workflow run"
 msgstr "یک اجرای گردش‌کار"
 
 #. js-lingui-id: W6HvkH
+msgctxt "objectMetadata.description"
 msgid "A workflow version"
 msgstr "یک نسخه گردش‌کار"
 
 #. js-lingui-id: sDZaHF
+msgctxt "objectMetadata.description"
 msgid "A workspace member"
 msgstr "یک عضو فضای کاری"
 
@@ -363,6 +383,7 @@ msgid "A workspace-wide blocklist entry cannot target a workspace member."
 msgstr "ورودی فهرست مسدودسازی سراسری فضای کاری نمی‌تواند یک عضو فضای کاری را هدف قرار دهد."
 
 #. js-lingui-id: spjW+Z
+msgctxt "fieldMetadata.label"
 msgid "Accepted"
 msgstr "پذیرفته‌شده"
 
@@ -371,6 +392,7 @@ msgid "Access denied."
 msgstr "دسترسی رد شد."
 
 #. js-lingui-id: Va0+qg
+msgctxt "fieldMetadata.label"
 msgid "Access level"
 msgstr "سطح دسترسی"
 
@@ -383,18 +405,22 @@ msgid "Access token not found."
 msgstr "توکن دسترسی یافت نشد."
 
 #. js-lingui-id: 4MiH8E
+msgctxt "fieldMetadata.label"
 msgid "Account Owner"
 msgstr "مالک حساب"
 
 #. js-lingui-id: Q9JFdG
+msgctxt "fieldMetadata.description"
 msgid "Account owner for companies"
 msgstr "مالک حساب برای شرکت‌ها"
 
 #. js-lingui-id: QDpiKg
+msgctxt "fieldMetadata.label"
 msgid "Account Owner For Companies"
 msgstr "مالک حساب برای شرکت‌ها"
 
 #. js-lingui-id: YXbAfa
+msgctxt "commandMenuItem.shortLabel"
 msgid "Accounts"
 msgstr "حساب‌ها"
 
@@ -407,38 +433,47 @@ msgid "Action Needed to Set Password"
 msgstr "اقدام لازم برای تنظیم رمز عبور"
 
 #. js-lingui-id: X2aLVJ
+msgctxt "commandMenuItem.shortLabel"
 msgid "Activate"
 msgstr "فعال‌سازی"
 
 #. js-lingui-id: GJ1sW1
+msgctxt "commandMenuItem.label"
 msgid "Activate Workflow"
 msgstr "فعال‌سازی گردش‌کار"
 
 #. js-lingui-id: AnKsxx
+msgctxt "fieldMetadata.label"
 msgid "Active"
 msgstr "فعال"
 
 #. js-lingui-id: DWczfI
+msgctxt "fieldMetadata.description"
 msgid "Active Stream ID"
 msgstr "شناسه جریان فعال"
 
 #. js-lingui-id: XY2Wtf
+msgctxt "fieldMetadata.label"
 msgid "Active Stream ID"
 msgstr "شناسه جریان فعال"
 
 #. js-lingui-id: 4LperZ
+msgctxt "fieldMetadata.description"
 msgid "Actual recording end"
 msgstr "پایان واقعی ضبط"
 
 #. js-lingui-id: sYutYQ
+msgctxt "fieldMetadata.description"
 msgid "Actual recording start"
 msgstr "شروع واقعی ضبط"
 
 #. js-lingui-id: czQdYE
+msgctxt "commandMenuItem.label"
 msgid "Add a Node"
 msgstr "افزودن یک گره"
 
 #. js-lingui-id: Opy73Z
+msgctxt "commandMenuItem.shortLabel"
 msgid "Add a Node"
 msgstr "افزودن یک گره"
 
@@ -451,18 +486,22 @@ msgid "Add at least one output field to the JSON response format"
 msgstr "حداقل یک فیلد خروجی به قالب پاسخ JSON اضافه کنید"
 
 #. js-lingui-id: mwzvkz
+msgctxt "commandMenuItem.label"
 msgid "Add to Favorites"
 msgstr "افزودن به علاقه‌مندی‌ها"
 
 #. js-lingui-id: EtSC0Y
+msgctxt "fieldMetadata.label"
 msgid "Address"
 msgstr "آدرس"
 
 #. js-lingui-id: I+rK0u
+msgctxt "fieldMetadata.description"
 msgid "Address of the company"
 msgstr "آدرس شرکت"
 
 #. js-lingui-id: /fcRNd
+msgctxt "commandMenuItem.shortLabel"
 msgid "Admin Panel"
 msgstr "پنل مدیریت"
 
@@ -471,14 +510,17 @@ msgid "Admin role not found."
 msgstr "نقش مدیر یافت نشد."
 
 #. js-lingui-id: xPBilO
+msgctxt "objectMetadata.description"
 msgid "Agent chat thread"
 msgstr "رشته گفتگوی عامل"
 
 #. js-lingui-id: 05II48
+msgctxt "objectMetadata.labelSingular"
 msgid "Agent chat thread"
 msgstr "رشته گفتگوی عامل"
 
 #. js-lingui-id: d9XlI/
+msgctxt "objectMetadata.labelPlural"
 msgid "Agent chat threads"
 msgstr "رشته‌های گفتگوی عامل"
 
@@ -487,34 +529,42 @@ msgid "Agent execution failed."
 msgstr "اجرای عامل ناموفق بود."
 
 #. js-lingui-id: glf2Mi
+msgctxt "fieldMetadata.description"
 msgid "Agent ID"
 msgstr "شناسه عامل"
 
 #. js-lingui-id: s5/Bnr
+msgctxt "fieldMetadata.label"
 msgid "Agent ID"
 msgstr "شناسه عامل"
 
 #. js-lingui-id: iCdJYt
+msgctxt "objectMetadata.description"
 msgid "Agent message"
 msgstr "پیام عامل"
 
 #. js-lingui-id: kqoj9j
+msgctxt "objectMetadata.labelSingular"
 msgid "Agent message"
 msgstr "پیام عامل"
 
 #. js-lingui-id: EQKoWJ
+msgctxt "objectMetadata.description"
 msgid "Agent message part"
 msgstr "بخش پیام عامل"
 
 #. js-lingui-id: EFIY30
+msgctxt "objectMetadata.labelSingular"
 msgid "Agent message part"
 msgstr "بخش پیام عامل"
 
 #. js-lingui-id: CMkxK7
+msgctxt "objectMetadata.labelPlural"
 msgid "Agent message parts"
 msgstr "بخش‌های پیام عامل"
 
 #. js-lingui-id: JV9atg
+msgctxt "objectMetadata.labelPlural"
 msgid "Agent messages"
 msgstr "پیام‌های عامل"
 
@@ -531,26 +581,32 @@ msgid "Agent step execution failed."
 msgstr "اجرای مرحله عامل ناموفق بود."
 
 #. js-lingui-id: fX04ru
+msgctxt "objectMetadata.description"
 msgid "Agent turn"
 msgstr "نوبت عامل"
 
 #. js-lingui-id: LmIK+X
+msgctxt "objectMetadata.labelSingular"
 msgid "Agent turn"
 msgstr "نوبت عامل"
 
 #. js-lingui-id: mCEPno
+msgctxt "objectMetadata.description"
 msgid "Agent turn evaluation"
 msgstr "ارزیابی نوبت عامل"
 
 #. js-lingui-id: 8TxJ/S
+msgctxt "objectMetadata.labelSingular"
 msgid "Agent turn evaluation"
 msgstr "ارزیابی نوبت عامل"
 
 #. js-lingui-id: 8JwBHf
+msgctxt "objectMetadata.labelPlural"
 msgid "Agent turn evaluations"
 msgstr "ارزیابی‌های نوبت عامل"
 
 #. js-lingui-id: Tdydg8
+msgctxt "objectMetadata.labelPlural"
 msgid "Agent turns"
 msgstr "نوبت‌های عامل"
 
@@ -575,10 +631,12 @@ msgid "Aggregate operation is required for graph widget \"{widgetTitle}\""
 msgstr "عملیات تجمیع برای ویجت نمودار «{widgetTitle}» الزامی است"
 
 #. js-lingui-id: bKb5Ip
+msgctxt "objectMetadata.description"
 msgid "Aggregated / filtered event to be displayed on the timeline"
 msgstr "رویداد تجمیع‌شده / فیلترشده برای نمایش در تایم‌لاین"
 
 #. js-lingui-id: 9cFndZ
+msgctxt "commandMenuItem.shortLabel"
 msgid "AI"
 msgstr "هوش مصنوعی"
 
@@ -587,6 +645,7 @@ msgid "AI history record not found."
 msgstr "رکورد تاریخچه هوش مصنوعی یافت نشد."
 
 #. js-lingui-id: AtTsau
+msgctxt "view.name"
 msgid "All {objectLabelPlural}"
 msgstr "همه {objectLabelPlural}"
 
@@ -599,6 +658,7 @@ msgid "Already registered in this workspace."
 msgstr "از قبل در این فضای کاری ثبت شده است."
 
 #. js-lingui-id: hbJg5A
+msgctxt "fieldMetadata.label"
 msgid "Amount"
 msgstr "مبلغ"
 
@@ -615,6 +675,7 @@ msgid "An application timeline activity emitter must target one of its objects"
 msgstr "منتشرکننده فعالیت تایم‌لاین برنامه باید یکی از اشیای خود را هدف قرار دهد"
 
 #. js-lingui-id: VID94s
+msgctxt "objectMetadata.description"
 msgid "An attachment"
 msgstr "یک پیوست"
 
@@ -667,6 +728,7 @@ msgid "An object with this name already exists."
 msgstr "شیئی با این نام از قبل وجود دارد."
 
 #. js-lingui-id: xAF1N9
+msgctxt "objectMetadata.description"
 msgid "An opportunity"
 msgstr "یک فرصت"
 
@@ -699,6 +761,7 @@ msgid "An unknown calendar error occurred."
 msgstr "خطای ناشناخته‌ای در تقویم رخ داد."
 
 #. js-lingui-id: fNIemA
+msgctxt "fieldMetadata.label"
 msgid "Annual Revenue"
 msgstr "درآمد سالانه"
 
@@ -739,10 +802,12 @@ msgid "API key role not found."
 msgstr "نقش کلید API یافت نشد."
 
 #. js-lingui-id: zrOFFt
+msgctxt "fieldMetadata.label"
 msgid "Apostrophe and dot"
 msgstr "آپاستروف و نقطه"
 
 #. js-lingui-id: 5nw74G
+msgctxt "fieldMetadata.label"
 msgid "Application"
 msgstr "اپلیکیشن"
 
@@ -751,6 +816,7 @@ msgid "Application cleanup is still in progress. Please try again."
 msgstr "پاک‌سازی برنامه هنوز در حال انجام است. لطفاً دوباره تلاش کنید."
 
 #. js-lingui-id: 8O6Zab
+msgctxt "fieldMetadata.label"
 msgid "Application ID"
 msgstr "شناسه برنامه"
 
@@ -823,6 +889,7 @@ msgid "Approved access domain not found."
 msgstr "دامنه دسترسی تأییدشده یافت نشد."
 
 #. js-lingui-id: zMMTZj
+msgctxt "commandMenuItem.shortLabel"
 msgid "Apps"
 msgstr "اپلیکیشن‌ها"
 
@@ -831,38 +898,47 @@ msgid "April"
 msgstr "آوریل"
 
 #. js-lingui-id: u9WDFH
+msgctxt "fieldMetadata.label"
 msgid "Archive"
 msgstr "بایگانی"
 
 #. js-lingui-id: 5rUZb3
+msgctxt "fieldMetadata.label"
 msgid "Archived"
 msgstr "بایگانی‌شده"
 
 #. js-lingui-id: Uj9aPO
+msgctxt "fieldMetadata.description"
 msgid "Archived At"
 msgstr "بایگانی‌شده در"
 
 #. js-lingui-id: Lr3M0U
+msgctxt "fieldMetadata.label"
 msgid "Archived At"
 msgstr "بایگانی‌شده در"
 
 #. js-lingui-id: ITCVsf
+msgctxt "commandMenuItem.label"
 msgid "Ask AI"
 msgstr "پرسش از هوش مصنوعی"
 
 #. js-lingui-id: z2Vy8H
+msgctxt "fieldMetadata.label"
 msgid "Assigned tasks"
 msgstr "وظایف تخصیص‌یافته"
 
 #. js-lingui-id: JytrLO
+msgctxt "view.name"
 msgid "Assigned to Me"
 msgstr "تخصیص‌یافته به من"
 
 #. js-lingui-id: EqqZEp
+msgctxt "fieldMetadata.label"
 msgid "Assignee"
 msgstr "مسئول"
 
 #. js-lingui-id: 1pSE0p
+msgctxt "fieldMetadata.description"
 msgid "Associated User ID"
 msgstr "شناسه کاربر مرتبط"
 
@@ -871,74 +947,92 @@ msgid "At least one relation is required"
 msgstr "حداقل یک رابطه الزامی است"
 
 #. js-lingui-id: QAZeXE
+msgctxt "timelineActivityType.label"
 msgid "attached a file"
 msgstr "فایلی پیوست کرد"
 
 #. js-lingui-id: b1LFyn
+msgctxt "objectMetadata.labelSingular"
 msgid "Attachment"
 msgstr "پیوست"
 
 #. js-lingui-id: D+muK8
+msgctxt "fieldMetadata.description"
 msgid "Attachment file"
 msgstr "فایل پیوست"
 
 #. js-lingui-id: Yp5Kn9
+msgctxt "fieldMetadata.description"
 msgid "Attachment file category"
 msgstr "دسته فایل پیوست"
 
 #. js-lingui-id: awsWDN
+msgctxt "fieldMetadata.description"
 msgid "Attachment full path"
 msgstr "مسیر کامل پیوست"
 
 #. js-lingui-id: ZRbuaB
+msgctxt "fieldMetadata.description"
 msgid "Attachment name"
 msgstr "نام پیوست"
 
 #. js-lingui-id: CZMQSV
+msgctxt "fieldMetadata.description"
 msgid "Attachment record position"
 msgstr "موقعیت رکورد پیوست"
 
 #. js-lingui-id: nOtYs7
+msgctxt "fieldMetadata.description"
 msgid "Attachment target"
 msgstr "هدف پیوست"
 
 #. js-lingui-id: j81CIH
+msgctxt "fieldMetadata.label"
 msgid "Attachments"
 msgstr "پیوست‌ها"
 
 #. js-lingui-id: mUQTd+
+msgctxt "objectMetadata.labelPlural"
 msgid "Attachments"
 msgstr "پیوست‌ها"
 
 #. js-lingui-id: 4hKZBf
+msgctxt "fieldMetadata.description"
 msgid "Attachments linked to the company"
 msgstr "پیوست‌های مرتبط با شرکت"
 
 #. js-lingui-id: Z5N7sB
+msgctxt "fieldMetadata.description"
 msgid "Attachments linked to the contact."
 msgstr "پیوست‌های مرتبط با مخاطب."
 
 #. js-lingui-id: AY5LqB
+msgctxt "fieldMetadata.description"
 msgid "Attachments linked to the dashboard"
 msgstr "پیوست‌های مرتبط با داشبورد"
 
 #. js-lingui-id: KWwTpO
+msgctxt "fieldMetadata.description"
 msgid "Attachments linked to the opportunity"
 msgstr "پیوست‌های مرتبط با فرصت"
 
 #. js-lingui-id: GAfs9e
+msgctxt "fieldMetadata.description"
 msgid "Attachments linked to the workflow"
 msgstr "پیوست‌های مرتبط با گردش کار"
 
 #. js-lingui-id: mGHuob
+msgctxt "timelineActivityType.label"
 msgid "attended a calendar event"
 msgstr "در یک رویداد تقویم شرکت کرد"
 
 #. js-lingui-id: 0N8sVQ
+msgctxt "fieldMetadata.label"
 msgid "Audio"
 msgstr "صوتی"
 
 #. js-lingui-id: Nde4yb
+msgctxt "fieldMetadata.description"
 msgid "Audio-only recording"
 msgstr "ضبط فقط صوتی"
 
@@ -979,34 +1073,42 @@ msgid "Authentication required."
 msgstr "احراز هویت لازم است."
 
 #. js-lingui-id: hq1K5d
+msgctxt "fieldMetadata.label"
 msgid "Automated Trigger Type"
 msgstr "نوع محرک خودکار"
 
 #. js-lingui-id: g5/Q0d
+msgctxt "fieldMetadata.label"
 msgid "Automated Triggers"
 msgstr "محرک‌های خودکار"
 
 #. js-lingui-id: wDnUny
+msgctxt "fieldMetadata.label"
 msgid "Automatically assigned"
 msgstr "به‌طور خودکار تخصیص‌یافته"
 
 #. js-lingui-id: bhFnpx
+msgctxt "fieldMetadata.label"
 msgid "Avatar"
 msgstr "آواتار"
 
 #. js-lingui-id: KEsv0p
+msgctxt "fieldMetadata.label"
 msgid "Avatar File"
 msgstr "فایل آواتار"
 
 #. js-lingui-id: HYoTlQ
+msgctxt "fieldMetadata.label"
 msgid "Avatar URL"
 msgstr "آدرس URL آواتار"
 
 #. js-lingui-id: Cei2D0
+msgctxt "fieldMetadata.label"
 msgid "Bcc"
 msgstr "Bcc"
 
 #. js-lingui-id: 8mCUlb
+msgctxt "commandMenuItem.shortLabel"
 msgid "Billing"
 msgstr "صورتحساب"
 
@@ -1027,18 +1129,22 @@ msgid "Billing product not found."
 msgstr "محصول صورتحساب یافت نشد."
 
 #. js-lingui-id: /q4AFh
+msgctxt "commandMenuItem.label"
 msgid "Block Settings"
 msgstr "تنظیمات بلوک"
 
 #. js-lingui-id: IlqwEl
+msgctxt "fieldMetadata.label"
 msgid "Blocklist"
 msgstr "فهرست مسدود"
 
 #. js-lingui-id: KCzMA6
+msgctxt "objectMetadata.description"
 msgid "Blocklist"
 msgstr "فهرست مسدود"
 
 #. js-lingui-id: XVb/r9
+msgctxt "objectMetadata.labelSingular"
 msgid "Blocklist"
 msgstr "فهرست مسدود"
 
@@ -1055,6 +1161,7 @@ msgid "Blocklist item not found."
 msgstr "آیتم لیست مسدودی یافت نشد."
 
 #. js-lingui-id: pRMOjU
+msgctxt "fieldMetadata.description"
 msgid "Blocklist record position"
 msgstr "موقعیت رکورد لیست مسدودی"
 
@@ -1063,14 +1170,17 @@ msgid "Blocklist scope cannot be updated."
 msgstr "محدوده لیست مسدودی قابل به‌روزرسانی نیست."
 
 #. js-lingui-id: V2zJDX
+msgctxt "fieldMetadata.description"
 msgid "Blocklisted handles"
 msgstr "شناسه‌های مسدودشده"
 
 #. js-lingui-id: 4rVmMh
+msgctxt "objectMetadata.labelPlural"
 msgid "Blocklists"
 msgstr "لیست‌های مسدودی"
 
 #. js-lingui-id: FVjxXL
+msgctxt "fieldMetadata.label"
 msgid "Body"
 msgstr "بدنه"
 
@@ -1095,14 +1205,17 @@ msgid "Boom"
 msgstr "Boom"
 
 #. js-lingui-id: 5Xcd0y
+msgctxt "fieldMetadata.description"
 msgid "Bounced At"
 msgstr "برگشت‌خورده در"
 
 #. js-lingui-id: Ju2edC
+msgctxt "fieldMetadata.label"
 msgid "Bounced At"
 msgstr "برگشت‌خورده در"
 
 #. js-lingui-id: MUk11c
+msgctxt "fieldMetadata.label"
 msgid "Bounced count"
 msgstr "تعداد برگشتی"
 
@@ -1131,50 +1244,62 @@ msgid "Business"
 msgstr "کسب‌وکار"
 
 #. js-lingui-id: 4pIUYY
+msgctxt "viewFieldGroup.name"
 msgid "Business"
 msgstr "کسب‌وکار"
 
 #. js-lingui-id: Q6cUtT
+msgctxt "view.name"
 msgid "By Stage"
 msgstr "بر اساس مرحله"
 
 #. js-lingui-id: WluVVo
+msgctxt "view.name"
 msgid "By Status"
 msgstr "بر اساس وضعیت"
 
 #. js-lingui-id: ma0oop
+msgctxt "fieldMetadata.description"
 msgid "Cached record name"
 msgstr "نام رکورد کش‌شده"
 
 #. js-lingui-id: 48ceJ8
+msgctxt "pageLayoutTab.title"
 msgid "Calendar"
 msgstr "تقویم"
 
 #. js-lingui-id: xyfiio
+msgctxt "pageLayoutWidget.title"
 msgid "Calendar"
 msgstr "تقویم"
 
 #. js-lingui-id: sI3ixq
+msgctxt "objectMetadata.labelSingular"
 msgid "Calendar Channel Event Association"
 msgstr "ارتباط رویداد کانال تقویم"
 
 #. js-lingui-id: xE3QEV
+msgctxt "fieldMetadata.description"
 msgid "Calendar channel event association record position"
 msgstr "موقعیت رکورد ارتباط رویداد کانال تقویم"
 
 #. js-lingui-id: 8I9eQA
+msgctxt "fieldMetadata.description"
 msgid "Calendar Channel Event Associations"
 msgstr "ارتباطات رویداد کانال تقویم"
 
 #. js-lingui-id: 3DpUem
+msgctxt "fieldMetadata.label"
 msgid "Calendar Channel Event Associations"
 msgstr "ارتباطات رویداد کانال تقویم"
 
 #. js-lingui-id: HKfT9k
+msgctxt "objectMetadata.description"
 msgid "Calendar Channel Event Associations"
 msgstr "ارتباطات رویداد کانال تقویم"
 
 #. js-lingui-id: WlACUp
+msgctxt "objectMetadata.labelPlural"
 msgid "Calendar Channel Event Associations"
 msgstr "ارتباطات رویداد کانال تقویم"
 
@@ -1203,18 +1328,22 @@ msgid "Calendar end field not found"
 msgstr "فیلد پایان تقویم یافت نشد"
 
 #. js-lingui-id: D3hM1L
+msgctxt "fieldMetadata.label"
 msgid "Calendar event"
 msgstr "رویداد تقویم"
 
 #. js-lingui-id: 8brwDQ
+msgctxt "objectMetadata.labelSingular"
 msgid "Calendar event"
 msgstr "رویداد تقویم"
 
 #. js-lingui-id: sskdm3
+msgctxt "fieldMetadata.description"
 msgid "Calendar Event"
 msgstr "رویداد تقویم"
 
 #. js-lingui-id: hmqhWD
+msgctxt "fieldMetadata.label"
 msgid "Calendar Event"
 msgstr "رویداد تقویم"
 
@@ -1227,70 +1356,87 @@ msgid "Calendar event not found."
 msgstr "رویداد تقویم یافت نشد."
 
 #. js-lingui-id: /yKslt
+msgctxt "objectMetadata.labelSingular"
 msgid "Calendar event participant"
 msgstr "شرکت‌کننده رویداد تقویم"
 
 #. js-lingui-id: vBl1vC
+msgctxt "fieldMetadata.description"
 msgid "Calendar event participant record position"
 msgstr "موقعیت رکورد شرکت‌کننده رویداد تقویم"
 
 #. js-lingui-id: SKKDwB
+msgctxt "objectMetadata.description"
 msgid "Calendar event participants"
 msgstr "شرکت‌کنندگان رویداد تقویم"
 
 #. js-lingui-id: J++KJc
+msgctxt "objectMetadata.labelPlural"
 msgid "Calendar event participants"
 msgstr "شرکت‌کنندگان رویداد تقویم"
 
 #. js-lingui-id: 4H8X9C
+msgctxt "fieldMetadata.description"
 msgid "Calendar Event Participants"
 msgstr "شرکت‌کنندگان رویداد تقویم"
 
 #. js-lingui-id: 50uIQG
+msgctxt "fieldMetadata.label"
 msgid "Calendar Event Participants"
 msgstr "شرکت‌کنندگان رویداد تقویم"
 
 #. js-lingui-id: 3WE+U+
+msgctxt "fieldMetadata.description"
 msgid "Calendar event record position"
 msgstr "موقعیت رکورد رویداد تقویم"
 
 #. js-lingui-id: o5eNjt
+msgctxt "objectMetadata.labelSingular"
 msgid "Calendar Event Target"
 msgstr "هدف رویداد تقویم"
 
 #. js-lingui-id: XSZPL4
+msgctxt "fieldMetadata.description"
 msgid "Calendar event target event"
 msgstr "رویداد هدف رویداد تقویم"
 
 #. js-lingui-id: lz9OaG
+msgctxt "fieldMetadata.description"
 msgid "Calendar event targets"
 msgstr "اهداف رویداد تقویم"
 
 #. js-lingui-id: Ps7oA0
+msgctxt "objectMetadata.labelPlural"
 msgid "Calendar Event Targets"
 msgstr "اهداف رویداد تقویم"
 
 #. js-lingui-id: r20w41
+msgctxt "fieldMetadata.label"
 msgid "Calendar events"
 msgstr "رویدادهای تقویم"
 
 #. js-lingui-id: KfFFWa
+msgctxt "objectMetadata.description"
 msgid "Calendar events"
 msgstr "رویدادهای تقویم"
 
 #. js-lingui-id: qyMa3j
+msgctxt "objectMetadata.labelPlural"
 msgid "Calendar events"
 msgstr "رویدادهای تقویم"
 
 #. js-lingui-id: QfPEE0
+msgctxt "fieldMetadata.description"
 msgid "Calendar events tied to the company"
 msgstr "رویدادهای تقویم مرتبط با شرکت"
 
 #. js-lingui-id: E4Wz06
+msgctxt "fieldMetadata.description"
 msgid "Calendar events tied to the contact"
 msgstr "رویدادهای تقویم مرتبط با مخاطب"
 
 #. js-lingui-id: pyeAzD
+msgctxt "fieldMetadata.description"
 msgid "Calendar events tied to the opportunity"
 msgstr "رویدادهای تقویم مرتبط با فرصت"
 
@@ -1335,82 +1481,102 @@ msgid "Calendar view must have a calendar layout"
 msgstr "نمای تقویم باید یک چیدمان تقویم داشته باشد"
 
 #. js-lingui-id: 0U7DBn
+msgctxt "commandMenuItem.shortLabel"
 msgid "Calendars"
 msgstr "تقویم‌ها"
 
 #. js-lingui-id: WwTvrh
+msgctxt "objectMetadata.labelSingular"
 msgid "Call Recording"
 msgstr "ضبط تماس"
 
 #. js-lingui-id: bkSXCt
+msgctxt "pageLayoutTab.title"
 msgid "Call Recording"
 msgstr "ضبط تماس"
 
 #. js-lingui-id: f9u4+O
+msgctxt "fieldMetadata.description"
 msgid "Call recording record position"
 msgstr "موقعیت رکورد ضبط تماس"
 
 #. js-lingui-id: tv4sza
+msgctxt "fieldMetadata.description"
 msgid "Call Recordings"
 msgstr "ضبط‌های تماس"
 
 #. js-lingui-id: 3Xznjo
+msgctxt "fieldMetadata.label"
 msgid "Call Recordings"
 msgstr "ضبط‌های تماس"
 
 #. js-lingui-id: kkeNYX
+msgctxt "objectMetadata.labelPlural"
 msgid "Call Recordings"
 msgstr "ضبط‌های تماس"
 
 #. js-lingui-id: rqQpQX
+msgctxt "pageLayoutWidget.title"
 msgid "Call Recordings"
 msgstr "ضبط‌های تماس"
 
 #. js-lingui-id: swt/ln
+msgctxt "commandMenuItem.shortLabel"
 msgid "Campaign"
 msgstr "کمپین"
 
 #. js-lingui-id: lB2pC7
+msgctxt "fieldMetadata.label"
 msgid "Campaign"
 msgstr "کمپین"
 
 #. js-lingui-id: CLcjHT
+msgctxt "objectMetadata.labelSingular"
 msgid "Campaign"
 msgstr "کمپین"
 
 #. js-lingui-id: oYHwJH
+msgctxt "objectMetadata.labelPlural"
 msgid "Campaign deliveries"
 msgstr "تحویل‌های کمپین"
 
 #. js-lingui-id: 9CLy+1
+msgctxt "objectMetadata.description"
 msgid "Campaign delivery"
 msgstr "تحویل کمپین"
 
 #. js-lingui-id: TXz220
+msgctxt "objectMetadata.labelSingular"
 msgid "Campaign delivery"
 msgstr "تحویل کمپین"
 
 #. js-lingui-id: rghNQY
+msgctxt "fieldMetadata.description"
 msgid "Campaign ID"
 msgstr "شناسه کمپین"
 
 #. js-lingui-id: fSWDKd
+msgctxt "fieldMetadata.label"
 msgid "Campaign ID"
 msgstr "شناسه کمپین"
 
 #. js-lingui-id: BeCo7/
+msgctxt "fieldMetadata.description"
 msgid "Campaign lifecycle status"
 msgstr "وضعیت چرخه عمر کمپین"
 
 #. js-lingui-id: XD1+oL
+msgctxt "fieldMetadata.label"
 msgid "Campaigns"
 msgstr "کمپین‌ها"
 
 #. js-lingui-id: 3KT/1G
+msgctxt "objectMetadata.labelPlural"
 msgid "Campaigns"
 msgstr "کمپین‌ها"
 
 #. js-lingui-id: EWa5LG
+msgctxt "fieldMetadata.description"
 msgid "Campaigns sent to this list"
 msgstr "کمپین‌های ارسال‌شده به این لیست"
 
@@ -1423,18 +1589,22 @@ msgid "Can't impersonate user via api key"
 msgstr "امکان جعل هویت کاربر از طریق کلید api وجود ندارد"
 
 #. js-lingui-id: PpmWQv
+msgctxt "commandMenuItem.shortLabel"
 msgid "Cancel"
 msgstr "لغو"
 
 #. js-lingui-id: CYhiCW
+msgctxt "commandMenuItem.label"
 msgid "Cancel Campaign"
 msgstr "لغو کمپین"
 
 #. js-lingui-id: 7g3N+g
+msgctxt "commandMenuItem.label"
 msgid "Cancel Edition"
 msgstr "لغو ویرایش"
 
 #. js-lingui-id: JrNGiU
+msgctxt "fieldMetadata.label"
 msgid "Canceled"
 msgstr "لغوشده"
 
@@ -1587,14 +1757,17 @@ msgid "Cannot update standard skill properties (only activation/deactivation all
 msgstr "نمی‌توان ویژگی‌های مهارت استاندارد را به‌روزرسانی کرد (فقط فعال‌سازی/غیرفعال‌سازی مجاز است)"
 
 #. js-lingui-id: YIzGJ8
+msgctxt "fieldMetadata.label"
 msgid "Cc"
 msgstr "Cc"
 
 #. js-lingui-id: +4WR+J
+msgctxt "fieldMetadata.description"
 msgid "Channel ID"
 msgstr "شناسه کانال"
 
 #. js-lingui-id: azOBF6
+msgctxt "fieldMetadata.label"
 msgid "Channel ID"
 msgstr "شناسه کانال"
 
@@ -1643,18 +1816,22 @@ msgid "Circular dependency detected in view filter group hierarchy"
 msgstr "وابستگی حلقوی در سلسله‌مراتب گروه فیلتر نما تشخیص داده شد"
 
 #. js-lingui-id: NdOL9Z
+msgctxt "fieldMetadata.description"
 msgid "Claim Expires At"
 msgstr "انقضای ادعا در"
 
 #. js-lingui-id: bj3jul
+msgctxt "fieldMetadata.label"
 msgid "Claim Expires At"
 msgstr "انقضای ادعا در"
 
 #. js-lingui-id: H+dfXj
+msgctxt "fieldMetadata.description"
 msgid "Claim Token"
 msgstr "توکن ادعا"
 
 #. js-lingui-id: S8cDJf
+msgctxt "fieldMetadata.label"
 msgid "Claim Token"
 msgstr "توکن ادعا"
 
@@ -1667,6 +1844,7 @@ msgid "Client credentials are not configured for this OAuth provider."
 msgstr "اطلاعات اعتباری کلاینت برای این ارائه‌دهنده OAuth پیکربندی نشده است."
 
 #. js-lingui-id: VkdiTS
+msgctxt "fieldMetadata.label"
 msgid "Close date"
 msgstr "تاریخ بستن"
 
@@ -1679,6 +1857,7 @@ msgid "Code step execution failed."
 msgstr "اجرای مرحله کد ناموفق بود."
 
 #. js-lingui-id: xp3jG9
+msgctxt "fieldMetadata.label"
 msgid "Color Scheme"
 msgstr "طرح رنگ"
 
@@ -1707,50 +1886,62 @@ msgid "Command menu item with same universal identifier already exists"
 msgstr "آیتم منوی فرمان با همان شناسه جهانی از قبل وجود دارد"
 
 #. js-lingui-id: /SzXf6
+msgctxt "fieldMetadata.label"
 msgid "Commas and dot"
 msgstr "ویرگول و نقطه"
 
 #. js-lingui-id: CqQgUE
+msgctxt "fieldMetadata.description"
 msgid "Comment"
 msgstr "نظر"
 
 #. js-lingui-id: 3lgJNW
+msgctxt "fieldMetadata.label"
 msgid "Comment"
 msgstr "نظر"
 
 #. js-lingui-id: snetsR
+msgctxt "commandMenuItem.shortLabel"
 msgid "Community"
 msgstr "انجمن"
 
 #. js-lingui-id: UMn+XF
+msgctxt "objectMetadata.labelPlural"
 msgid "Companies"
 msgstr "شرکت‌ها"
 
 #. js-lingui-id: aNUhqB
+msgctxt "fieldMetadata.label"
 msgid "Company"
 msgstr "شرکت"
 
 #. js-lingui-id: Jk7iDd
+msgctxt "objectMetadata.labelSingular"
 msgid "Company"
 msgstr "شرکت"
 
 #. js-lingui-id: FAPLrc
+msgctxt "pageLayoutWidget.title"
 msgid "Company"
 msgstr "شرکت"
 
 #. js-lingui-id: zK+Ntk
+msgctxt "fieldMetadata.description"
 msgid "Company record position"
 msgstr "موقعیت رکورد شرکت"
 
 #. js-lingui-id: ORLytm
+msgctxt "fieldMetadata.description"
 msgid "Complained At"
 msgstr "شکایت‌شده در"
 
 #. js-lingui-id: 9bCz2D
+msgctxt "fieldMetadata.label"
 msgid "Complained At"
 msgstr "شکایت‌شده در"
 
 #. js-lingui-id: UdSbpW
+msgctxt "fieldMetadata.label"
 msgid "Complained count"
 msgstr "تعداد شکایت"
 
@@ -1759,18 +1950,22 @@ msgid "Complete File Upload"
 msgstr "تکمیل بارگذاری فایل"
 
 #. js-lingui-id: DjvRWr
+msgctxt "fieldMetadata.label"
 msgid "Completed"
 msgstr "تکمیل‌شده"
 
 #. js-lingui-id: a9mYsP
+msgctxt "commandMenuItem.shortLabel"
 msgid "Compose"
 msgstr "نوشتن"
 
 #. js-lingui-id: +TR7Gb
+msgctxt "commandMenuItem.label"
 msgid "Compose Campaign"
 msgstr "نوشتن کمپین"
 
 #. js-lingui-id: 6Kufr1
+msgctxt "commandMenuItem.label"
 msgid "Compose Email"
 msgstr "نوشتن ایمیل"
 
@@ -1779,10 +1974,12 @@ msgid "Composite type not found."
 msgstr "نوع ترکیبی یافت نشد."
 
 #. js-lingui-id: hNJ1TI
+msgctxt "fieldMetadata.description"
 msgid "Conference Solution"
 msgstr "راه‌حل کنفرانس"
 
 #. js-lingui-id: hRloGP
+msgctxt "fieldMetadata.label"
 msgid "Conference Solution"
 msgstr "راه‌حل کنفرانس"
 
@@ -1915,38 +2112,47 @@ msgid "Contact"
 msgstr "مخاطب"
 
 #. js-lingui-id: JEcSer
+msgctxt "viewFieldGroup.name"
 msgid "Contact"
 msgstr "مخاطب"
 
 #. js-lingui-id: WXjfKi
+msgctxt "fieldMetadata.description"
 msgid "Contact's avatar"
 msgstr "آواتار مخاطب"
 
 #. js-lingui-id: bJZ2Tj
+msgctxt "fieldMetadata.description"
 msgid "Contact's avatar file"
 msgstr "فایل آواتار مخاطب"
 
 #. js-lingui-id: Pjih6W
+msgctxt "fieldMetadata.description"
 msgid "Contact's company"
 msgstr "شرکت مخاطب"
 
 #. js-lingui-id: SKkz1Y
+msgctxt "fieldMetadata.description"
 msgid "Contact's Emails"
 msgstr "ایمیل‌های مخاطب"
 
 #. js-lingui-id: eX6v+/
+msgctxt "fieldMetadata.description"
 msgid "Contact's job title"
 msgstr "عنوان شغلی مخاطب"
 
 #. js-lingui-id: RS0wew
+msgctxt "fieldMetadata.description"
 msgid "Contact's Linkedin account"
 msgstr "حساب Linkedin مخاطب"
 
 #. js-lingui-id: 1F/w2I
+msgctxt "fieldMetadata.description"
 msgid "Contact's name"
 msgstr "نام مخاطب"
 
 #. js-lingui-id: aNDPqw
+msgctxt "fieldMetadata.description"
 msgid "Contact's phone numbers"
 msgstr "شماره‌های تلفن مخاطب"
 
@@ -1959,10 +2165,12 @@ msgid "Content contains a URL with a dangerous protocol."
 msgstr "محتوا شامل URL با پروتکل خطرناک است."
 
 #. js-lingui-id: dFtfEl
+msgctxt "fieldMetadata.description"
 msgid "Context Window Tokens"
 msgstr "توکن‌های پنجره زمینه"
 
 #. js-lingui-id: PN+oDC
+msgctxt "fieldMetadata.label"
 msgid "Context Window Tokens"
 msgstr "توکن‌های پنجره زمینه"
 
@@ -1971,18 +2179,22 @@ msgid "Contradicting field permissions have been detected on a relation field."
 msgstr "مجوزهای فیلد متناقض روی یک فیلد رابطه تشخیص داده شده است."
 
 #. js-lingui-id: RW9MzK
+msgctxt "fieldMetadata.description"
 msgid "Conversation Size"
 msgstr "اندازه گفتگو"
 
 #. js-lingui-id: Gi4NBy
+msgctxt "fieldMetadata.label"
 msgid "Conversation Size"
 msgstr "اندازه گفتگو"
 
 #. js-lingui-id: X/ryFh
+msgctxt "fieldMetadata.label"
 msgid "Core workflow id"
 msgstr "شناسه گردش کار اصلی"
 
 #. js-lingui-id: WkctC4
+msgctxt "fieldMetadata.label"
 msgid "Core workflow version id"
 msgstr "شناسه نسخه گردش کار اصلی"
 
@@ -2051,10 +2263,12 @@ msgid "Create"
 msgstr "ایجاد"
 
 #. js-lingui-id: emlHP+
+msgctxt "commandMenuItem.shortLabel"
 msgid "Create"
 msgstr "ایجاد"
 
 #. js-lingui-id: bRKUIg
+msgctxt "commandMenuItem.label"
 msgid "Create {objectLabelSingular}"
 msgstr "ایجاد {objectLabelSingular}"
 
@@ -2063,6 +2277,7 @@ msgid "Create Calendar Event"
 msgstr "ایجاد رویداد تقویم"
 
 #. js-lingui-id: jiBdgw
+msgctxt "commandMenuItem.label"
 msgid "Create Campaign"
 msgstr "ایجاد کمپین"
 
@@ -2071,22 +2286,27 @@ msgid "Create File Upload"
 msgstr "ایجاد بارگذاری فایل"
 
 #. js-lingui-id: oh0oix
+msgctxt "commandMenuItem.label"
 msgid "Create View"
 msgstr "ایجاد نما"
 
 #. js-lingui-id: 0ij6VP
+msgctxt "commandMenuItem.shortLabel"
 msgid "Create View"
 msgstr "ایجاد نما"
 
 #. js-lingui-id: 4lG6GV
+msgctxt "fieldMetadata.description"
 msgid "Created At"
 msgstr "ایجادشده در"
 
 #. js-lingui-id: ZA1xqP
+msgctxt "fieldMetadata.label"
 msgid "Created At"
 msgstr "ایجادشده در"
 
 #. js-lingui-id: V+Pnck
+msgctxt "fieldMetadata.label"
 msgid "Created by"
 msgstr "ایجادشده توسط"
 
@@ -2099,22 +2319,27 @@ msgid "Creating a record of a private object requires the shareWith argument"
 msgstr "ایجاد رکورد از شیء خصوصی به آرگومان shareWith نیاز دارد"
 
 #. js-lingui-id: ezEYQZ
+msgctxt "fieldMetadata.description"
 msgid "Creation date"
 msgstr "تاریخ ایجاد"
 
 #. js-lingui-id: MZxGED
+msgctxt "fieldMetadata.label"
 msgid "Creation date"
 msgstr "تاریخ ایجاد"
 
 #. js-lingui-id: w943Kr
+msgctxt "fieldMetadata.description"
 msgid "Creation DateTime"
 msgstr "تاریخ و زمان ایجاد"
 
 #. js-lingui-id: QW92VW
+msgctxt "fieldMetadata.label"
 msgid "Creation DateTime"
 msgstr "تاریخ و زمان ایجاد"
 
 #. js-lingui-id: +zmk0f
+msgctxt "pageLayout.name"
 msgid "Creation Form"
 msgstr "فرم ایجاد"
 
@@ -2131,6 +2356,7 @@ msgid "Credit grant not found."
 msgstr "اعطای اعتبار یافت نشد."
 
 #. js-lingui-id: OZIOad
+msgctxt "fieldMetadata.label"
 msgid "Cron"
 msgstr "Cron"
 
@@ -2159,14 +2385,17 @@ msgid "Custom timeline activity type cannot be reset to default."
 msgstr "نوع فعالیت تایم‌لاین سفارشی را نمی‌توان به پیش‌فرض بازنشانی کرد."
 
 #. js-lingui-id: 34/Ymp
+msgctxt "fieldMetadata.label"
 msgid "Customer"
 msgstr "مشتری"
 
 #. js-lingui-id: gmoxtb
+msgctxt "fieldMetadata.label"
 msgid "Dashboard"
 msgstr "داشبورد"
 
 #. js-lingui-id: ha71hz
+msgctxt "objectMetadata.labelSingular"
 msgid "Dashboard"
 msgstr "داشبورد"
 
@@ -2175,22 +2404,27 @@ msgid "Dashboard not found."
 msgstr "داشبورد یافت نشد."
 
 #. js-lingui-id: sELqwL
+msgctxt "fieldMetadata.description"
 msgid "Dashboard page layout"
 msgstr "چیدمان صفحه داشبورد"
 
 #. js-lingui-id: aaw408
+msgctxt "fieldMetadata.description"
 msgid "Dashboard record Position"
 msgstr "موقعیت رکورد داشبورد"
 
 #. js-lingui-id: tks5qw
+msgctxt "fieldMetadata.description"
 msgid "Dashboard title"
 msgstr "عنوان داشبورد"
 
 #. js-lingui-id: SdwgrQ
+msgctxt "objectMetadata.labelPlural"
 msgid "Dashboards"
 msgstr "داشبوردها"
 
 #. js-lingui-id: zU5mL2
+msgctxt "commandMenuItem.shortLabel"
 msgid "Data Model"
 msgstr "مدل داده"
 
@@ -2203,30 +2437,37 @@ msgid "Database configuration is disabled."
 msgstr "پیکربندی پایگاه داده غیرفعال است."
 
 #. js-lingui-id: U+zQxx
+msgctxt "fieldMetadata.label"
 msgid "Database Event"
 msgstr "رویداد پایگاه داده"
 
 #. js-lingui-id: IakS6+
+msgctxt "fieldMetadata.label"
 msgid "Date format"
 msgstr "قالب تاریخ"
 
 #. js-lingui-id: bCL+CN
+msgctxt "fieldMetadata.description"
 msgid "Date when the record was deleted"
 msgstr "تاریخ حذف رکورد"
 
 #. js-lingui-id: Ln7ys4
+msgctxt "fieldMetadata.label"
 msgid "Day First"
 msgstr "روز اول"
 
 #. js-lingui-id: bpGbAD
+msgctxt "commandMenuItem.shortLabel"
 msgid "Deactivate"
 msgstr "غیرفعال‌سازی"
 
 #. js-lingui-id: lPFYWf
+msgctxt "commandMenuItem.label"
 msgid "Deactivate Workflow"
 msgstr "غیرفعال‌سازی گردش کار"
 
 #. js-lingui-id: GuGzWG
+msgctxt "fieldMetadata.label"
 msgid "Deactivated"
 msgstr "غیرفعال‌شده"
 
@@ -2235,18 +2476,22 @@ msgid "Deal"
 msgstr "معامله"
 
 #. js-lingui-id: mX3ym7
+msgctxt "viewFieldGroup.name"
 msgid "Deal"
 msgstr "معامله"
 
 #. js-lingui-id: NdYXIK
+msgctxt "pageLayoutWidget.title"
 msgid "Deal value created this month"
 msgstr "ارزش معاملات ایجادشده در این ماه"
 
 #. js-lingui-id: 0WblB4
+msgctxt "pageLayoutWidget.title"
 msgid "Deals by Company"
 msgstr "معاملات بر اساس شرکت"
 
 #. js-lingui-id: s2T4KU
+msgctxt "pageLayoutWidget.title"
 msgid "Deals created this month"
 msgstr "معاملات ایجادشده در این ماه"
 
@@ -2255,70 +2500,87 @@ msgid "December"
 msgstr "دسامبر"
 
 #. js-lingui-id: Db+5dv
+msgctxt "fieldMetadata.label"
 msgid "Declined"
 msgstr "رد شده"
 
 #. js-lingui-id: RbQaAF
+msgctxt "pageLayout.name"
 msgid "Default Blocklist Layout"
 msgstr "چیدمان پیش‌فرض لیست مسدودی"
 
 #. js-lingui-id: Quk4RZ
+msgctxt "pageLayout.name"
 msgid "Default Calendar Channel Event Association Layout"
 msgstr "چیدمان پیش‌فرض ارتباط رویداد کانال تقویم"
 
 #. js-lingui-id: krxpzA
+msgctxt "pageLayout.name"
 msgid "Default Calendar Event Layout"
 msgstr "چیدمان پیش‌فرض رویداد تقویم"
 
 #. js-lingui-id: WiNZD1
+msgctxt "pageLayout.name"
 msgid "Default Calendar Event Participant Layout"
 msgstr "چیدمان پیش‌فرض شرکت‌کننده رویداد تقویم"
 
 #. js-lingui-id: UKFDwW
+msgctxt "pageLayout.name"
 msgid "Default Call Recording Layout"
 msgstr "چیدمان پیش‌فرض ضبط تماس"
 
 #. js-lingui-id: 2BTedV
+msgctxt "pageLayout.name"
 msgid "Default Campaign Layout"
 msgstr "چیدمان پیش‌فرض کمپین"
 
 #. js-lingui-id: aBOgPF
+msgctxt "pageLayout.name"
 msgid "Default Company Layout"
 msgstr "چیدمان پیش‌فرض شرکت"
 
 #. js-lingui-id: if0x7I
+msgctxt "pageLayout.name"
 msgid "Default List Layout"
 msgstr "چیدمان پیش‌فرض لیست"
 
 #. js-lingui-id: HZYS1p
+msgctxt "pageLayout.name"
 msgid "Default Message Channel Message Association Layout"
 msgstr "چیدمان پیش‌فرض ارتباط پیام کانال پیام"
 
 #. js-lingui-id: Yvew2T
+msgctxt "pageLayout.name"
 msgid "Default Message Channel Message Association Message Folder Layout"
 msgstr "چیدمان پیش‌فرض پوشه پیام ارتباط پیام کانال پیام"
 
 #. js-lingui-id: DkpJaY
+msgctxt "pageLayout.name"
 msgid "Default Message Layout"
 msgstr "چیدمان پیش‌فرض پیام"
 
 #. js-lingui-id: jmaSDc
+msgctxt "pageLayout.name"
 msgid "Default Message Participant Layout"
 msgstr "چیدمان پیش‌فرض شرکت‌کننده پیام"
 
 #. js-lingui-id: jasdD2
+msgctxt "pageLayout.name"
 msgid "Default Message Thread Layout"
 msgstr "چیدمان پیش‌فرض رشته پیام"
 
 #. js-lingui-id: WWmatL
+msgctxt "pageLayout.name"
 msgid "Default Note Layout"
 msgstr "چیدمان پیش‌فرض یادداشت"
 
 #. js-lingui-id: 994EW7
+msgctxt "pageLayout.name"
 msgid "Default Opportunity Layout"
 msgstr "چیدمان پیش‌فرض فرصت"
 
 #. js-lingui-id: offvgc
+msgctxt "pageLayout.name"
 msgid "Default Person Layout"
 msgstr "چیدمان پیش‌فرض شخص"
 
@@ -2327,6 +2589,7 @@ msgid "Default role not found."
 msgstr "نقش پیش‌فرض یافت نشد."
 
 #. js-lingui-id: oiqUFe
+msgctxt "pageLayout.name"
 msgid "Default Task Layout"
 msgstr "چیدمان پیش‌فرض وظیفه"
 
@@ -2351,18 +2614,22 @@ msgid "Default values must be unique"
 msgstr "مقادیر پیش‌فرض باید یکتا باشند"
 
 #. js-lingui-id: iE+St0
+msgctxt "pageLayout.name"
 msgid "Default Workflow Automated Trigger Layout"
 msgstr "چیدمان پیش‌فرض محرک خودکار گردش کار"
 
 #. js-lingui-id: xCnoll
+msgctxt "pageLayout.name"
 msgid "Default Workflow Layout"
 msgstr "چیدمان پیش‌فرض گردش کار"
 
 #. js-lingui-id: hhRoz2
+msgctxt "pageLayout.name"
 msgid "Default Workflow Run Layout"
 msgstr "چیدمان پیش‌فرض اجرای گردش کار"
 
 #. js-lingui-id: 2rlDLU
+msgctxt "pageLayout.name"
 msgid "Default Workflow Version Layout"
 msgstr "چیدمان پیش‌فرض نسخه گردش کار"
 
@@ -2371,38 +2638,47 @@ msgid "Delete"
 msgstr "حذف"
 
 #. js-lingui-id: R+Pipg
+msgctxt "commandMenuItem.shortLabel"
 msgid "Delete"
 msgstr "حذف"
 
 #. js-lingui-id: 7xc88z
+msgctxt "commandMenuItem.label"
 msgid "Delete {objectLabel}"
 msgstr "حذف {objectLabel}"
 
 #. js-lingui-id: pYUji4
+msgctxt "commandMenuItem.shortLabel"
 msgid "Deleted {objectLabelPlural}"
 msgstr "{objectLabelPlural} حذف‌شده"
 
 #. js-lingui-id: Sf3H2K
+msgctxt "fieldMetadata.label"
 msgid "Deleted at"
 msgstr "حذف‌شده در"
 
 #. js-lingui-id: l+MMBR
+msgctxt "fieldMetadata.description"
 msgid "Deleted At"
 msgstr "حذف‌شده در"
 
 #. js-lingui-id: Lu8j/6
+msgctxt "fieldMetadata.label"
 msgid "Deleted At"
 msgstr "حذف‌شده در"
 
 #. js-lingui-id: wm2sD+
+msgctxt "fieldMetadata.description"
 msgid "Delivered At"
 msgstr "تحویل‌شده در"
 
 #. js-lingui-id: LswjjG
+msgctxt "fieldMetadata.label"
 msgid "Delivered At"
 msgstr "تحویل‌شده در"
 
 #. js-lingui-id: bMSh++
+msgctxt "fieldMetadata.label"
 msgid "Delivered count"
 msgstr "تعداد تحویل‌شده"
 
@@ -2411,18 +2687,22 @@ msgid "denied"
 msgstr "رد شده"
 
 #. js-lingui-id: Dx5QXJ
+msgctxt "fieldMetadata.description"
 msgid "Description"
 msgstr "توضیحات"
 
 #. js-lingui-id: m+O/bO
+msgctxt "fieldMetadata.label"
 msgid "Description"
 msgstr "توضیحات"
 
 #. js-lingui-id: ufaNs2
+msgctxt "commandMenuItem.shortLabel"
 msgid "Design"
 msgstr "طراحی"
 
 #. js-lingui-id: BlbMIB
+msgctxt "commandMenuItem.shortLabel"
 msgid "Destroy"
 msgstr "تخریب"
 
@@ -2431,22 +2711,27 @@ msgid "Direct upload is not supported for this file type."
 msgstr "بارگذاری مستقیم برای این نوع فایل پشتیبانی نمی‌شود."
 
 #. js-lingui-id: yg6ThG
+msgctxt "fieldMetadata.label"
 msgid "Direction"
 msgstr "جهت"
 
 #. js-lingui-id: T/2cxH
+msgctxt "commandMenuItem.label"
 msgid "Discard Draft"
 msgstr "دور انداختن پیش‌نویس"
 
 #. js-lingui-id: HCcqwM
+msgctxt "commandMenuItem.shortLabel"
 msgid "Discard Draft"
 msgstr "دور انداختن پیش‌نویس"
 
 #. js-lingui-id: N4sZ6H
+msgctxt "fieldMetadata.description"
 msgid "Display Name"
 msgstr "نام نمایشی"
 
 #. js-lingui-id: G58vIN
+msgctxt "fieldMetadata.label"
 msgid "Display Name"
 msgstr "نام نمایشی"
 
@@ -2463,22 +2748,27 @@ msgid "Domain is already registered as public domain"
 msgstr "دامنه از قبل به‌عنوان دامنه عمومی ثبت شده است"
 
 #. js-lingui-id: NViwRM
+msgctxt "fieldMetadata.label"
 msgid "Domain Name"
 msgstr "نام دامنه"
 
 #. js-lingui-id: Vhbzaf
+msgctxt "commandMenuItem.shortLabel"
 msgid "Domains"
 msgstr "دامنه‌ها"
 
 #. js-lingui-id: uyJle/
+msgctxt "fieldMetadata.label"
 msgid "Done"
 msgstr "انجام شد"
 
 #. js-lingui-id: WvWTez
+msgctxt "fieldMetadata.label"
 msgid "Dots and comma"
 msgstr "نقطه و ویرگول"
 
 #. js-lingui-id: Hw0zHo
+msgctxt "fieldMetadata.label"
 msgid "Draft"
 msgstr "پیش‌نویس"
 
@@ -2491,22 +2781,27 @@ msgid "Draft Email"
 msgstr "پیش‌نویس ایمیل"
 
 #. js-lingui-id: V9yV1R
+msgctxt "fieldMetadata.label"
 msgid "Due Date"
 msgstr "تاریخ سررسید"
 
 #. js-lingui-id: pcd2n0
+msgctxt "commandMenuItem.shortLabel"
 msgid "Duplicate"
 msgstr "تکثیر"
 
 #. js-lingui-id: uv/ryv
+msgctxt "commandMenuItem.label"
 msgid "Duplicate Campaign"
 msgstr "تکثیر کمپین"
 
 #. js-lingui-id: zC/oFa
+msgctxt "commandMenuItem.label"
 msgid "Duplicate Dashboard"
 msgstr "تکثیر داشبورد"
 
 #. js-lingui-id: Sr1mqj
+msgctxt "commandMenuItem.label"
 msgid "Duplicate List"
 msgstr "تکثیر فهرست"
 
@@ -2515,6 +2810,7 @@ msgid "Duplicate root resolver found. Each root resolver can only be called once
 msgstr "ریзолور ریشه تکراری یافت شد. هر ریزولور ریشه فقط یک‌بار در هر سند قابل فراخوانی است."
 
 #. js-lingui-id: pGyA0g
+msgctxt "commandMenuItem.label"
 msgid "Duplicate Workflow"
 msgstr "تکثیر گردش‌کار"
 
@@ -2527,18 +2823,22 @@ msgid "Each shareWith entry must target exactly one of workspaceMemberId, roleId
 msgstr "هر ورودی shareWith باید دقیقاً یکی از workspaceMemberId، roleId یا everyone را هدف قرار دهد"
 
 #. js-lingui-id: zhhpvr
+msgctxt "commandMenuItem.shortLabel"
 msgid "Edit"
 msgstr "ویرایش"
 
 #. js-lingui-id: AEhPtE
+msgctxt "commandMenuItem.label"
 msgid "Edit Dashboard"
 msgstr "ویرایش داشبورد"
 
 #. js-lingui-id: 0YMUrV
+msgctxt "commandMenuItem.label"
 msgid "Edit Layout"
 msgstr "ویرایش چیدمان"
 
 #. js-lingui-id: O+Be8v
+msgctxt "commandMenuItem.shortLabel"
 msgid "Edit Layout"
 msgstr "ویرایش چیدمان"
 
@@ -2551,18 +2851,22 @@ msgid "Either workflow version or front component is required."
 msgstr "نسخه گردش‌کار یا فرانت کامپوننت الزامی است."
 
 #. js-lingui-id: BgYg6s
+msgctxt "pageLayoutTab.title"
 msgid "Email"
 msgstr "ایمیل"
 
 #. js-lingui-id: bFP5hd
+msgctxt "pageLayoutWidget.title"
 msgid "Email"
 msgstr "ایمیل"
 
 #. js-lingui-id: VwGMv8
+msgctxt "fieldMetadata.description"
 msgid "Email Address"
 msgstr "آدرس ایمیل"
 
 #. js-lingui-id: NH74YE
+msgctxt "fieldMetadata.label"
 msgid "Email Address"
 msgstr "آدرس ایمیل"
 
@@ -2575,10 +2879,12 @@ msgid "Email already verified."
 msgstr "ایمیل از قبل تأیید شده است."
 
 #. js-lingui-id: tPOpjI
+msgctxt "fieldMetadata.description"
 msgid "Email body sent to recipients"
 msgstr "متن ایمیل ارسال‌شده به گیرندگان"
 
 #. js-lingui-id: kUdj5v
+msgctxt "fieldMetadata.description"
 msgid "Email campaign record position"
 msgstr "موقعیت رکورد کمپین ایمیل"
 
@@ -2627,6 +2933,7 @@ msgid "Email is unchanged."
 msgstr "ایمیل بدون تغییر است."
 
 #. js-lingui-id: su92Mw
+msgctxt "fieldMetadata.description"
 msgid "Email subject line"
 msgstr "موضوع ایمیل"
 
@@ -2643,18 +2950,22 @@ msgid "Email verification not required."
 msgstr "تأیید ایمیل الزامی نیست."
 
 #. js-lingui-id: zhPcjs
+msgctxt "commandMenuItem.shortLabel"
 msgid "Emails"
 msgstr "ایمیل‌ها"
 
 #. js-lingui-id: nWIjgD
+msgctxt "fieldMetadata.label"
 msgid "Emails"
 msgstr "ایمیل‌ها"
 
 #. js-lingui-id: oJEIzr
+msgctxt "pageLayoutTab.title"
 msgid "Emails"
 msgstr "ایمیل‌ها"
 
 #. js-lingui-id: idGnsb
+msgctxt "pageLayoutWidget.title"
 msgid "Emails"
 msgstr "ایمیل‌ها"
 
@@ -2671,14 +2982,17 @@ msgid "Enable two-factor authentication in your current workspace to manage serv
 msgstr "برای مدیریت مدیران سرور، احراز هویت دومرحله‌ای را در فضای کاری فعلی خود فعال کنید."
 
 #. js-lingui-id: YPuX9P
+msgctxt "fieldMetadata.description"
 msgid "End Date"
 msgstr "تاریخ پایان"
 
 #. js-lingui-id: Ey+Eyp
+msgctxt "fieldMetadata.label"
 msgid "End Date"
 msgstr "تاریخ پایان"
 
 #. js-lingui-id: BECIbc
+msgctxt "fieldMetadata.label"
 msgid "Ended At"
 msgstr "پایان در"
 
@@ -2691,6 +3005,7 @@ msgid "engineComponentKey is required"
 msgstr "engineComponentKey الزامی است"
 
 #. js-lingui-id: q4irFa
+msgctxt "fieldMetadata.label"
 msgid "Enqueued"
 msgstr "در صف"
 
@@ -2719,90 +3034,112 @@ msgid "Error"
 msgstr "خطا"
 
 #. js-lingui-id: rG9Fzz
+msgctxt "fieldMetadata.description"
 msgid "Error Details"
 msgstr "جزئیات خطا"
 
 #. js-lingui-id: vDV0oc
+msgctxt "fieldMetadata.label"
 msgid "Error Details"
 msgstr "جزئیات خطا"
 
 #. js-lingui-id: MO6hxC
+msgctxt "fieldMetadata.description"
 msgid "Error Message"
 msgstr "پیام خطا"
 
 #. js-lingui-id: z/ADSK
+msgctxt "fieldMetadata.label"
 msgid "Error Message"
 msgstr "پیام خطا"
 
 #. js-lingui-id: dFBOz1
+msgctxt "fieldMetadata.description"
 msgid "Evaluations"
 msgstr "ارزیابی‌ها"
 
 #. js-lingui-id: e8MefK
+msgctxt "fieldMetadata.label"
 msgid "Evaluations"
 msgstr "ارزیابی‌ها"
 
 #. js-lingui-id: ++Dmjj
+msgctxt "fieldMetadata.label"
 msgid "Event details"
 msgstr "جزئیات رویداد"
 
 #. js-lingui-id: q7l89c
+msgctxt "fieldMetadata.description"
 msgid "Event external ID"
 msgstr "شناسه خارجی رویداد"
 
 #. js-lingui-id: 8OyqfS
+msgctxt "fieldMetadata.label"
 msgid "Event external ID"
 msgstr "شناسه خارجی رویداد"
 
 #. js-lingui-id: vkvP/1
+msgctxt "fieldMetadata.description"
 msgid "Event ID"
 msgstr "شناسه رویداد"
 
 #. js-lingui-id: Gq6aJw
+msgctxt "fieldMetadata.label"
 msgid "Event ID"
 msgstr "شناسه رویداد"
 
 #. js-lingui-id: irEsRo
+msgctxt "fieldMetadata.description"
 msgid "Event Participants"
 msgstr "شرکت‌کنندگان رویداد"
 
 #. js-lingui-id: n44hqG
+msgctxt "fieldMetadata.label"
 msgid "Event Participants"
 msgstr "شرکت‌کنندگان رویداد"
 
 #. js-lingui-id: lr7Nsq
+msgctxt "fieldMetadata.description"
 msgid "Event target"
 msgstr "هدف رویداد"
 
 #. js-lingui-id: KUIRIR
+msgctxt "fieldMetadata.label"
 msgid "Event type"
 msgstr "نوع رویداد"
 
 #. js-lingui-id: NZy2VR
+msgctxt "fieldMetadata.description"
 msgid "Event workspace member"
 msgstr "عضو فضای کاری رویداد"
 
 #. js-lingui-id: XuTq0a
+msgctxt "fieldMetadata.label"
 msgid "Events"
 msgstr "رویدادها"
 
 #. js-lingui-id: QghriB
+msgctxt "fieldMetadata.description"
 msgid "Events linked to the campaign"
 msgstr "رویدادهای مرتبط با کمپین"
 
 #. js-lingui-id: 1evldO
+msgctxt "fieldMetadata.description"
 msgid "Events linked to the list"
 msgstr "رویدادهای مرتبط با فهرست"
 
 #. js-lingui-id: 0EMDOm
+msgctxt "fieldMetadata.description"
 msgid "Events linked to the person"
 msgstr "رویدادهای مرتبط با شخص"
 
 #. js-lingui-id: lYf9yG
+msgctxt "fieldMetadata.description"
 msgid "Events linked to the workspace member"
 msgstr "رویدادهای مرتبط با عضو فضای کاری"
 
 #. js-lingui-id: fVkHAH
+msgctxt "fieldMetadata.label"
 msgid "Everyone"
 msgstr "همه"
 
@@ -2811,6 +3148,7 @@ msgid "Exactly one of \"groups\" or \"fields\" must be provided"
 msgstr "دقیقاً یکی از «groups» یا «fields» باید ارائه شود"
 
 #. js-lingui-id: CrwP9A
+msgctxt "fieldMetadata.label"
 msgid "Executed by"
 msgstr "اجراشده توسط"
 
@@ -2819,14 +3157,17 @@ msgid "Expected the same constraint fields to be used consistently across all op
 msgstr "انتظار می‌رود فیلدهای محدودیت یکسانی به‌طور یکنواخت در همه عملیات برای {connectFieldName} استفاده شوند."
 
 #. js-lingui-id: Xu8Qin
+msgctxt "commandMenuItem.shortLabel"
 msgid "Experience"
 msgstr "تجربه"
 
 #. js-lingui-id: PCGpYB
+msgctxt "commandMenuItem.shortLabel"
 msgid "Export"
 msgstr "خروجی گرفتن"
 
 #. js-lingui-id: 7fdI39
+msgctxt "commandMenuItem.label"
 msgid "Export {objectLabel}"
 msgstr "خروجی گرفتن از {objectLabel}"
 
@@ -2835,26 +3176,32 @@ msgid "Export not found."
 msgstr "خروجی یافت نشد."
 
 #. js-lingui-id: xvfw7w
+msgctxt "commandMenuItem.label"
 msgid "Export to PDF"
 msgstr "خروجی PDF"
 
 #. js-lingui-id: c5P53s
+msgctxt "commandMenuItem.label"
 msgid "Export View"
 msgstr "خروجی نما"
 
 #. js-lingui-id: jCBIuc
+msgctxt "fieldMetadata.label"
 msgid "External Bot ID"
 msgstr "شناسه ربات خارجی"
 
 #. js-lingui-id: UUFPvo
+msgctxt "fieldMetadata.label"
 msgid "External Recording ID"
 msgstr "شناسه ضبط خارجی"
 
 #. js-lingui-id: K9t/v4
+msgctxt "fieldMetadata.label"
 msgid "Failed"
 msgstr "ناموفق"
 
 #. js-lingui-id: JZUzbz
+msgctxt "fieldMetadata.label"
 msgid "Failed count"
 msgstr "تعداد ناموفق"
 
@@ -2943,10 +3290,12 @@ msgid "Failed to upsert record."
 msgstr "درج یا به‌روزرسانی رکورد ناموفق بود."
 
 #. js-lingui-id: mvb5Gn
+msgctxt "fieldMetadata.description"
 msgid "Failure Reason"
 msgstr "دلیل شکست"
 
 #. js-lingui-id: vFgy1G
+msgctxt "fieldMetadata.label"
 msgid "Failure Reason"
 msgstr "دلیل شکست"
 
@@ -3111,6 +3460,7 @@ msgid "Field used for full-text search"
 msgstr "فیلد استفاده‌شده برای جستجوی تمام‌متنی"
 
 #. js-lingui-id: pcBMew
+msgctxt "fieldMetadata.description"
 msgid "Field used for full-text search"
 msgstr "فیلد استفاده‌شده برای جستجوی تمام‌متنی"
 
@@ -3143,10 +3493,12 @@ msgid "fieldMetadataId or fieldMetadataUniversalIdentifier must be provided"
 msgstr "fieldMetadataId یا fieldMetadataUniversalIdentifier باید ارائه شود"
 
 #. js-lingui-id: R/u+r2
+msgctxt "pageLayoutTab.title"
 msgid "Fields"
 msgstr "فیلدها"
 
 #. js-lingui-id: GFC6Lh
+msgctxt "pageLayoutWidget.title"
 msgid "Fields"
 msgstr "فیلدها"
 
@@ -3163,6 +3515,7 @@ msgid "Fields widget not found"
 msgstr "ویجت فیلدها یافت نشد"
 
 #. js-lingui-id: NELxnm
+msgctxt "fieldMetadata.label"
 msgid "File"
 msgstr "فایل"
 
@@ -3179,22 +3532,27 @@ msgid "File {fileId} was not uploaded for this field. Please re-upload the file.
 msgstr "فایل {fileId} برای این فیلد آپلود نشده است. لطفاً فایل را دوباره آپلود کنید."
 
 #. js-lingui-id: iPSuof
+msgctxt "fieldMetadata.label"
 msgid "File category"
 msgstr "دسته‌بندی فایل"
 
 #. js-lingui-id: iE7BL4
+msgctxt "fieldMetadata.description"
 msgid "File Filename"
 msgstr "نام فایل"
 
 #. js-lingui-id: K7OlYw
+msgctxt "fieldMetadata.label"
 msgid "File Filename"
 msgstr "نام فایل"
 
 #. js-lingui-id: vgJ2Zz
+msgctxt "fieldMetadata.description"
 msgid "File ID"
 msgstr "شناسه فایل"
 
 #. js-lingui-id: 84M/VT
+msgctxt "fieldMetadata.label"
 msgid "File ID"
 msgstr "شناسه فایل"
 
@@ -3219,10 +3577,12 @@ msgid "Filename must have an extension"
 msgstr "نام فایل باید پسوند داشته باشد"
 
 #. js-lingui-id: 9xwSh5
+msgctxt "pageLayoutTab.title"
 msgid "Files"
 msgstr "فایل‌ها"
 
 #. js-lingui-id: 07HtKu
+msgctxt "pageLayoutWidget.title"
 msgid "Files"
 msgstr "فایل‌ها"
 
@@ -3263,10 +3623,12 @@ msgid "First friendly message"
 msgstr "اولین پیام دوستانه"
 
 #. js-lingui-id: BUBVGN
+msgctxt "pageLayoutTab.title"
 msgid "Flow"
 msgstr "جریان"
 
 #. js-lingui-id: wMVBTa
+msgctxt "pageLayoutWidget.title"
 msgid "Flow"
 msgstr "جریان"
 
@@ -3295,10 +3657,12 @@ msgid "Friday"
 msgstr "جمعه"
 
 #. js-lingui-id: BuFYaR
+msgctxt "fieldMetadata.label"
 msgid "From"
 msgstr "از"
 
 #. js-lingui-id: F4T0xg
+msgctxt "fieldMetadata.label"
 msgid "From address"
 msgstr "آدرس فرستنده"
 
@@ -3351,10 +3715,12 @@ msgid "frontComponentId must not be set when engineComponentKey is TRIGGER_WORKF
 msgstr "وقتی engineComponentKey برابر TRIGGER_WORKFLOW_VERSION است، نباید frontComponentId تنظیم شود"
 
 #. js-lingui-id: mbshN9
+msgctxt "fieldMetadata.label"
 msgid "Full"
 msgstr "کامل"
 
 #. js-lingui-id: DnqPI8
+msgctxt "fieldMetadata.label"
 msgid "Full path"
 msgstr "مسیر کامل"
 
@@ -3399,10 +3765,12 @@ msgid "General"
 msgstr "عمومی"
 
 #. js-lingui-id: xCHHEH
+msgctxt "commandMenuItem.shortLabel"
 msgid "General"
 msgstr "عمومی"
 
 #. js-lingui-id: Ddadau
+msgctxt "viewFieldGroup.name"
 msgid "General"
 msgstr "عمومی"
 
@@ -3419,74 +3787,92 @@ msgid "GitHub authentication failed. Try connecting your GitHub account again."
 msgstr "احراز هویت GitHub ناموفق بود. دوباره حساب GitHub خود را متصل کنید."
 
 #. js-lingui-id: crn/PJ
+msgctxt "commandMenuItem.label"
 msgid "Go to {objectLabelPlural}"
 msgstr "رفتن به {objectLabelPlural}"
 
 #. js-lingui-id: LZngY5
+msgctxt "commandMenuItem.label"
 msgid "Go to Accounts Settings"
 msgstr "رفتن به تنظیمات حساب‌ها"
 
 #. js-lingui-id: tKVJbL
+msgctxt "commandMenuItem.label"
 msgid "Go to Admin Panel Settings"
 msgstr "رفتن به تنظیمات پنل مدیریت"
 
 #. js-lingui-id: iLqs3S
+msgctxt "commandMenuItem.label"
 msgid "Go to AI Settings"
 msgstr "رفتن به تنظیمات هوش مصنوعی"
 
 #. js-lingui-id: 60o/+J
+msgctxt "commandMenuItem.label"
 msgid "Go to Apps Settings"
 msgstr "رفتن به تنظیمات اپلیکیشن‌ها"
 
 #. js-lingui-id: tlIbgN
+msgctxt "commandMenuItem.label"
 msgid "Go to Billing Settings"
 msgstr "رفتن به تنظیمات صورتحساب"
 
 #. js-lingui-id: BKhayt
+msgctxt "commandMenuItem.label"
 msgid "Go to Calendars Settings"
 msgstr "رفتن به تنظیمات تقویم‌ها"
 
 #. js-lingui-id: u5u/QJ
+msgctxt "commandMenuItem.label"
 msgid "Go to Community Settings"
 msgstr "رفتن به تنظیمات جامعه"
 
 #. js-lingui-id: dZPXqH
+msgctxt "commandMenuItem.label"
 msgid "Go to Data Model Settings"
 msgstr "رفتن به تنظیمات مدل داده"
 
 #. js-lingui-id: OLopIl
+msgctxt "commandMenuItem.label"
 msgid "Go to Domains Settings"
 msgstr "رفتن به تنظیمات دامنه‌ها"
 
 #. js-lingui-id: gawQTB
+msgctxt "commandMenuItem.label"
 msgid "Go to Emails Settings"
 msgstr "رفتن به تنظیمات ایمیل‌ها"
 
 #. js-lingui-id: 46ZD9h
+msgctxt "commandMenuItem.label"
 msgid "Go to Experience Settings"
 msgstr "رفتن به تنظیمات تجربه"
 
 #. js-lingui-id: gfZlPy
+msgctxt "commandMenuItem.label"
 msgid "Go to General Settings"
 msgstr "رفتن به تنظیمات عمومی"
 
 #. js-lingui-id: 1EPmDp
+msgctxt "commandMenuItem.label"
 msgid "Go to MCP & APIs Settings"
 msgstr "رفتن به تنظیمات MCP و APIها"
 
 #. js-lingui-id: vPl+B/
+msgctxt "commandMenuItem.label"
 msgid "Go to Members Settings"
 msgstr "رفتن به تنظیمات اعضا"
 
 #. js-lingui-id: qN3wNQ
+msgctxt "commandMenuItem.label"
 msgid "Go to Roles Settings"
 msgstr "رفتن به تنظیمات نقش‌ها"
 
 #. js-lingui-id: xAAHTC
+msgctxt "commandMenuItem.label"
 msgid "Go to Security Settings"
 msgstr "رفتن به تنظیمات امنیت"
 
 #. js-lingui-id: Rrvufq
+msgctxt "commandMenuItem.label"
 msgid "Go to Settings"
 msgstr "رفتن به تنظیمات"
 
@@ -3507,10 +3893,12 @@ msgid "Group by field is required for pie chart widget \"{widgetTitle}\""
 msgstr "فیلد گروه‌بندی برای ویجت نمودار دایره‌ای «{widgetTitle}» الزامی است"
 
 #. js-lingui-id: M3UdIL
+msgctxt "fieldMetadata.description"
 msgid "Handle"
 msgstr "شناسه"
 
 #. js-lingui-id: 86G6IW
+msgctxt "fieldMetadata.label"
 msgid "Handle"
 msgstr "شناسه"
 
@@ -3527,18 +3915,22 @@ msgid "handlerName must be a valid JavaScript identifier or dotted path"
 msgstr "handlerName باید یک شناسه معتبر JavaScript یا مسیر نقطه‌دار باشد"
 
 #. js-lingui-id: 9jN+JX
+msgctxt "fieldMetadata.label"
 msgid "Header message ID"
 msgstr "شناسه پیام هدر"
 
 #. js-lingui-id: YXvdC2
+msgctxt "commandMenuItem.shortLabel"
 msgid "Hide deleted"
 msgstr "پنهان کردن حذف‌شده‌ها"
 
 #. js-lingui-id: rLnr2R
+msgctxt "commandMenuItem.label"
 msgid "Hide deleted {objectLabelPlural}"
 msgstr "پنهان کردن {objectLabelPlural} حذف‌شده"
 
 #. js-lingui-id: 52iQDS
+msgctxt "pageLayoutTab.title"
 msgid "Home"
 msgstr "خانه"
 
@@ -3547,18 +3939,22 @@ msgid "HTTP Request"
 msgstr "درخواست HTTP"
 
 #. js-lingui-id: 9fdUrJ
+msgctxt "fieldMetadata.description"
 msgid "iCal UID"
 msgstr "شناسه iCal"
 
 #. js-lingui-id: VHNm8n
+msgctxt "fieldMetadata.label"
 msgid "iCal UID"
 msgstr "شناسه iCal"
 
 #. js-lingui-id: OtYhMx
+msgctxt "fieldMetadata.description"
 msgid "ID"
 msgstr "شناسه"
 
 #. js-lingui-id: dB826o
+msgctxt "fieldMetadata.label"
 msgid "ID"
 msgstr "شناسه"
 
@@ -3575,22 +3971,27 @@ msgid "If defined default value must contain at least one value"
 msgstr "در صورت تعریف، مقدار پیش‌فرض باید حداقل یک مقدار داشته باشد"
 
 #. js-lingui-id: FPbf64
+msgctxt "fieldMetadata.label"
 msgid "Image"
 msgstr "تصویر"
 
 #. js-lingui-id: jTDnNG
+msgctxt "commandMenuItem.shortLabel"
 msgid "Import"
 msgstr "ورود"
 
 #. js-lingui-id: k5fVFW
+msgctxt "commandMenuItem.label"
 msgid "Import {objectLabelPlural}"
 msgstr "وارد کردن {objectLabelPlural}"
 
 #. js-lingui-id: QPcp0k
+msgctxt "fieldMetadata.label"
 msgid "In progress"
 msgstr "در حال انجام"
 
 #. js-lingui-id: iffSt5
+msgctxt "fieldMetadata.label"
 msgid "Incoming"
 msgstr "ورودی"
 
@@ -3635,6 +4036,7 @@ msgid "Input is too short."
 msgstr "ورودی خیلی کوتاه است."
 
 #. js-lingui-id: VUEkq2
+msgctxt "fieldMetadata.description"
 msgid "Installed source app that manages or ingested this recording"
 msgstr "اپلیکیشن منبع نصب‌شده‌ای که این ضبط را مدیریت یا دریافت کرده است"
 
@@ -3651,10 +4053,12 @@ msgid "Insufficient permissions."
 msgstr "مجوز کافی وجود ندارد."
 
 #. js-lingui-id: dE2rg+
+msgctxt "fieldMetadata.label"
 msgid "Interface Scale"
 msgstr "مقیاس رابط"
 
 #. js-lingui-id: 9vWP4H
+msgctxt "fieldMetadata.description"
 msgid "Internal name of the campaign"
 msgstr "نام داخلی کمپین"
 
@@ -4283,38 +4687,47 @@ msgid "Invalid workflow version."
 msgstr "نسخه گردش‌کار نامعتبر است."
 
 #. js-lingui-id: KJBRRe
+msgctxt "fieldMetadata.description"
 msgid "Is canceled"
 msgstr "لغو شده"
 
 #. js-lingui-id: LphwoX
+msgctxt "fieldMetadata.label"
 msgid "Is canceled"
 msgstr "لغو شده"
 
 #. js-lingui-id: kGg4O3
+msgctxt "fieldMetadata.label"
 msgid "Is draft"
 msgstr "پیش‌نویس است"
 
 #. js-lingui-id: 9mlimr
+msgctxt "fieldMetadata.description"
 msgid "Is Full Day"
 msgstr "تمام‌روز است"
 
 #. js-lingui-id: l4w5Vo
+msgctxt "fieldMetadata.label"
 msgid "Is Full Day"
 msgstr "تمام‌روز است"
 
 #. js-lingui-id: tiNFAr
+msgctxt "fieldMetadata.description"
 msgid "Is Hidden"
 msgstr "پنهان است"
 
 #. js-lingui-id: q42yQK
+msgctxt "fieldMetadata.label"
 msgid "Is Hidden"
 msgstr "پنهان است"
 
 #. js-lingui-id: fenRdq
+msgctxt "fieldMetadata.description"
 msgid "Is Organizer"
 msgstr "برگزارکننده است"
 
 #. js-lingui-id: zqVFya
+msgctxt "fieldMetadata.label"
 msgid "Is Organizer"
 msgstr "برگزارکننده است"
 
@@ -4327,6 +4740,7 @@ msgid "January"
 msgstr "ژانویه"
 
 #. js-lingui-id: Xg3NMP
+msgctxt "fieldMetadata.label"
 msgid "Job Title"
 msgstr "عنوان شغلی"
 
@@ -4335,6 +4749,7 @@ msgid "Join column name is required."
 msgstr "نام ستون join الزامی است."
 
 #. js-lingui-id: qKYG4b
+msgctxt "objectMetadata.description"
 msgid "Join table linking message channel message associations to message folders"
 msgstr "جدول پیوندی که ارتباط‌های پیام کانال پیام را به پوشه‌های پیام وصل می‌کند"
 
@@ -4343,14 +4758,17 @@ msgid "Join your team on Twenty"
 msgstr "به تیم خود در Twenty بپیوندید"
 
 #. js-lingui-id: +KEn4d
+msgctxt "fieldMetadata.label"
 msgid "Joining"
 msgstr "در حال پیوستن"
 
 #. js-lingui-id: SPutbd
+msgctxt "fieldMetadata.description"
 msgid "JSON object to provide steps"
 msgstr "شیء JSON برای ارائه مراحل"
 
 #. js-lingui-id: aXjVR4
+msgctxt "fieldMetadata.description"
 msgid "JSON object to provide trigger"
 msgstr "شیء JSON برای ارائه راه‌انداز"
 
@@ -4359,6 +4777,7 @@ msgid "JSON response format requires a schema"
 msgstr "فرمت پاسخ JSON به یک طرحواره نیاز دارد"
 
 #. js-lingui-id: Bg1xen
+msgctxt "fieldMetadata.description"
 msgid "JSON value for event details"
 msgstr "مقدار JSON برای جزئیات رویداد"
 
@@ -4419,6 +4838,7 @@ msgid "Key is required"
 msgstr "کلید الزامی است"
 
 #. js-lingui-id: 6hoCbx
+msgctxt "fieldMetadata.description"
 msgid "Kind of principal receiving the access"
 msgstr "نوع اصلی که دسترسی را دریافت می‌کند"
 
@@ -4467,26 +4887,32 @@ msgid "Label must not contain a comma"
 msgstr "برچسب نباید شامل ویرگول باشد"
 
 #. js-lingui-id: bs1xxW
+msgctxt "fieldMetadata.label"
 msgid "Language"
 msgstr "زبان"
 
 #. js-lingui-id: qqD3aX
+msgctxt "fieldMetadata.label"
 msgid "Last published Version ID"
 msgstr "شناسه آخرین نسخه منتشرشده"
 
 #. js-lingui-id: 2zq4LZ
+msgctxt "fieldMetadata.description"
 msgid "Last Stream Error"
 msgstr "آخرین خطای جریان"
 
 #. js-lingui-id: 9/jQvG
+msgctxt "fieldMetadata.label"
 msgid "Last Stream Error"
 msgstr "آخرین خطای جریان"
 
 #. js-lingui-id: OBGY97
+msgctxt "fieldMetadata.description"
 msgid "Last time the record was changed"
 msgstr "آخرین باری که رکورد تغییر کرد"
 
 #. js-lingui-id: hzBM8U
+msgctxt "fieldMetadata.label"
 msgid "Last update"
 msgstr "آخرین به‌روزرسانی"
 
@@ -4503,10 +4929,12 @@ msgid "Limits scoped below the workspace require the Organization plan."
 msgstr "محدودیت‌های با دامنه پایین‌تر از فضای کاری به طرح Organization نیاز دارند."
 
 #. js-lingui-id: sAG9OB
+msgctxt "timelineActivityType.label"
 msgid "linked a related note"
 msgstr "یک یادداشت مرتبط را پیوند داد"
 
 #. js-lingui-id: ecrchg
+msgctxt "timelineActivityType.label"
 msgid "linked a related task"
 msgstr "یک وظیفه مرتبط را پیوند داد"
 
@@ -4515,26 +4943,32 @@ msgid "Linked and unlinked timeline activity emitters require a target relation"
 msgstr "ارسال‌کننده‌های فعالیت خط زمانی پیوندشده و لغو پیوند به یک رابطه مقصد نیاز دارند"
 
 #. js-lingui-id: q/aQnl
+msgctxt "fieldMetadata.description"
 msgid "Linked Object Metadata ID"
 msgstr "شناسه فراداده شیء پیوندشده"
 
 #. js-lingui-id: mx/sVd
+msgctxt "fieldMetadata.label"
 msgid "Linked Object Metadata ID"
 msgstr "شناسه فراداده شیء پیوندشده"
 
 #. js-lingui-id: Vo3NrU
+msgctxt "fieldMetadata.label"
 msgid "Linked Record cached name"
 msgstr "نام کش‌شده رکورد پیوندشده"
 
 #. js-lingui-id: RczJQq
+msgctxt "fieldMetadata.description"
 msgid "Linked Record id"
 msgstr "شناسه رکورد پیوندشده"
 
 #. js-lingui-id: wj0hmG
+msgctxt "fieldMetadata.label"
 msgid "Linked Record id"
 msgstr "شناسه رکورد پیوندشده"
 
 #. js-lingui-id: z+srLp
+msgctxt "fieldMetadata.label"
 msgid "Linkedin"
 msgstr "Linkedin"
 
@@ -4543,26 +4977,32 @@ msgid "Links field type must be either a url or a domain"
 msgstr "نوع فیلد پیوندها باید یا url یا دامنه باشد"
 
 #. js-lingui-id: ++iNv7
+msgctxt "fieldMetadata.label"
 msgid "List"
 msgstr "فهرست"
 
 #. js-lingui-id: 7xBvLT
+msgctxt "objectMetadata.labelSingular"
 msgid "List"
 msgstr "فهرست"
 
 #. js-lingui-id: i/ifeM
+msgctxt "objectMetadata.labelSingular"
 msgid "List Member"
 msgstr "عضو فهرست"
 
 #. js-lingui-id: CxYc3X
+msgctxt "fieldMetadata.description"
 msgid "List member record position"
 msgstr "موقعیت رکورد عضو فهرست"
 
 #. js-lingui-id: TJGiwQ
+msgctxt "objectMetadata.labelPlural"
 msgid "List Members"
 msgstr "اعضای فهرست"
 
 #. js-lingui-id: SGXb+l
+msgctxt "view.name"
 msgid "List Members Table"
 msgstr "جدول اعضای فهرست"
 
@@ -4571,34 +5011,42 @@ msgid "List not found."
 msgstr "فهرست یافت نشد."
 
 #. js-lingui-id: GRxWmN
+msgctxt "fieldMetadata.description"
 msgid "List of opportunities for which that person is the point of contact"
 msgstr "فهرست فرصت‌هایی که آن شخص نقطه تماس آن‌هاست"
 
 #. js-lingui-id: Lgr7Gd
+msgctxt "fieldMetadata.description"
 msgid "List record position"
 msgstr "موقعیت رکورد فهرست"
 
 #. js-lingui-id: R6I0Oa
+msgctxt "fieldMetadata.label"
 msgid "Lists"
 msgstr "فهرست‌ها"
 
 #. js-lingui-id: 1SgH8v
+msgctxt "objectMetadata.labelPlural"
 msgid "Lists"
 msgstr "فهرست‌ها"
 
 #. js-lingui-id: F91dYi
+msgctxt "pageLayoutWidget.title"
 msgid "Lists"
 msgstr "فهرست‌ها"
 
 #. js-lingui-id: Ib2gge
+msgctxt "fieldMetadata.description"
 msgid "Lists the contact belongs to"
 msgstr "فهرست‌هایی که مخاطب به آن‌ها تعلق دارد"
 
 #. js-lingui-id: 01sScH
+msgctxt "fieldMetadata.description"
 msgid "Location"
 msgstr "موقعیت"
 
 #. js-lingui-id: SejVAR
+msgctxt "fieldMetadata.label"
 msgid "Location"
 msgstr "موقعیت"
 
@@ -4631,10 +5079,12 @@ msgid "Logic function with same universal identifier already exists"
 msgstr "تابع منطقی با همان شناسه جهانی از قبل وجود دارد"
 
 #. js-lingui-id: paJTob
+msgctxt "fieldMetadata.label"
 msgid "Manual"
 msgstr "دستی"
 
 #. js-lingui-id: dgxlIJ
+msgctxt "fieldMetadata.label"
 msgid "Manually assigned"
 msgstr "به‌صورت دستی اختصاص داده شده"
 
@@ -4675,46 +5125,57 @@ msgid "May"
 msgstr "مه"
 
 #. js-lingui-id: E+ckGV
+msgctxt "commandMenuItem.shortLabel"
 msgid "MCP & APIs"
 msgstr "MCP و APIها"
 
 #. js-lingui-id: DICk6O
+msgctxt "fieldMetadata.description"
 msgid "Meet Link"
 msgstr "پیوند Meet"
 
 #. js-lingui-id: MK876/
+msgctxt "fieldMetadata.label"
 msgid "Meet Link"
 msgstr "پیوند Meet"
 
 #. js-lingui-id: dTYtQr
+msgctxt "fieldMetadata.label"
 msgid "Meeting"
 msgstr "جلسه"
 
 #. js-lingui-id: BV/hGy
+msgctxt "fieldMetadata.description"
 msgid "Meeting title from the calendar event"
 msgstr "عنوان جلسه از رویداد تقویم"
 
 #. js-lingui-id: sMsvyG
+msgctxt "commandMenuItem.shortLabel"
 msgid "Members"
 msgstr "اعضا"
 
 #. js-lingui-id: 3cvUac
+msgctxt "fieldMetadata.label"
 msgid "Members"
 msgstr "اعضا"
 
 #. js-lingui-id: DbgpIO
+msgctxt "pageLayoutTab.title"
 msgid "Members"
 msgstr "اعضا"
 
 #. js-lingui-id: CBMkZg
+msgctxt "pageLayoutWidget.title"
 msgid "Members"
 msgstr "اعضا"
 
 #. js-lingui-id: uHk5U2
+msgctxt "commandMenuItem.shortLabel"
 msgid "Merge"
 msgstr "ادغام"
 
 #. js-lingui-id: PvCGwJ
+msgctxt "commandMenuItem.label"
 msgid "Merge {objectLabelPlural}"
 msgstr "ادغام {objectLabelPlural}"
 
@@ -4723,62 +5184,77 @@ msgid "Merging blocklist entries is not allowed."
 msgstr "ادغام ورودی‌های فهرست مسدود مجاز نیست."
 
 #. js-lingui-id: T+v4U0
+msgctxt "fieldMetadata.description"
 msgid "Message"
 msgstr "پیام"
 
 #. js-lingui-id: 7B5mQ7
+msgctxt "fieldMetadata.label"
 msgid "Message"
 msgstr "پیام"
 
 #. js-lingui-id: EmFJ+H
+msgctxt "objectMetadata.description"
 msgid "Message"
 msgstr "پیام"
 
 #. js-lingui-id: cOI7+n
+msgctxt "objectMetadata.labelSingular"
 msgid "Message"
 msgstr "پیام"
 
 #. js-lingui-id: tMSida
+msgctxt "fieldMetadata.label"
 msgid "Message Channel Association"
 msgstr "ارتباط کانال پیام"
 
 #. js-lingui-id: PyXSki
+msgctxt "fieldMetadata.description"
 msgid "Message Channel ID"
 msgstr "شناسه کانال پیام"
 
 #. js-lingui-id: W7U+3U
+msgctxt "fieldMetadata.label"
 msgid "Message Channel ID"
 msgstr "شناسه کانال پیام"
 
 #. js-lingui-id: pFC0xF
+msgctxt "fieldMetadata.description"
 msgid "Message Channel Message Association"
 msgstr "ارتباط پیام کانال پیام"
 
 #. js-lingui-id: ARd2n6
+msgctxt "fieldMetadata.label"
 msgid "Message Channel Message Association"
 msgstr "ارتباط پیام کانال پیام"
 
 #. js-lingui-id: xFQ9H7
+msgctxt "objectMetadata.labelSingular"
 msgid "Message Channel Message Association"
 msgstr "ارتباط پیام کانال پیام"
 
 #. js-lingui-id: iXSQGo
+msgctxt "objectMetadata.labelSingular"
 msgid "Message Channel Message Association Message Folder"
 msgstr "پوشه پیام ارتباط پیام کانال پیام"
 
 #. js-lingui-id: lKiUxC
+msgctxt "fieldMetadata.description"
 msgid "Message channel message association message folder record position"
 msgstr "موقعیت رکورد پوشه پیام ارتباط پیام کانال پیام"
 
 #. js-lingui-id: L7/nko
+msgctxt "objectMetadata.labelPlural"
 msgid "Message Channel Message Association Message Folders"
 msgstr "پوشه‌های پیام ارتباط پیام کانال پیام"
 
 #. js-lingui-id: 30wIOs
+msgctxt "fieldMetadata.description"
 msgid "Message channel message association record position"
 msgstr "موقعیت رکورد ارتباط پیام کانال پیام"
 
 #. js-lingui-id: TxgEcG
+msgctxt "objectMetadata.labelPlural"
 msgid "Message Channel Message Associations"
 msgstr "ارتباط‌های پیام کانال پیام"
 
@@ -4787,18 +5263,22 @@ msgid "Message channel not found."
 msgstr "کانال پیام یافت نشد."
 
 #. js-lingui-id: TkRloV
+msgctxt "fieldMetadata.description"
 msgid "Message Direction"
 msgstr "جهت پیام"
 
 #. js-lingui-id: 0tU+QX
+msgctxt "fieldMetadata.label"
 msgid "Message External ID"
 msgstr "شناسه خارجی پیام"
 
 #. js-lingui-id: 4+wqNB
+msgctxt "fieldMetadata.description"
 msgid "Message Folder"
 msgstr "پوشه پیام"
 
 #. js-lingui-id: Sg7rcs
+msgctxt "fieldMetadata.label"
 msgid "Message Folder"
 msgstr "پوشه پیام"
 
@@ -4807,158 +5287,197 @@ msgid "Message folder not found."
 msgstr "پوشه پیام یافت نشد."
 
 #. js-lingui-id: fCIz/F
+msgctxt "fieldMetadata.label"
 msgid "Message Folders"
 msgstr "پوشه‌های پیام"
 
 #. js-lingui-id: OEtZB5
+msgctxt "fieldMetadata.description"
 msgid "Message Folders (supports multiple folders/labels)"
 msgstr "پوشه‌های پیام (پشتیبانی از چندین پوشه/برچسب)"
 
 #. js-lingui-id: NVb3dF
+msgctxt "fieldMetadata.description"
 msgid "Message ID"
 msgstr "شناسه پیام"
 
 #. js-lingui-id: R9kqg9
+msgctxt "fieldMetadata.label"
 msgid "Message ID"
 msgstr "شناسه پیام"
 
 #. js-lingui-id: u/Q/SE
+msgctxt "fieldMetadata.description"
 msgid "Message id from the message header"
 msgstr "شناسه پیام از سرآیند پیام"
 
 #. js-lingui-id: qiWAf+
+msgctxt "fieldMetadata.description"
 msgid "Message id from the messaging provider"
 msgstr "شناسه پیام از ارائه‌دهنده پیام‌رسانی"
 
 #. js-lingui-id: qfdnRM
+msgctxt "objectMetadata.labelSingular"
 msgid "Message Participant"
 msgstr "شرکت‌کننده پیام"
 
 #. js-lingui-id: X2bZC4
+msgctxt "fieldMetadata.description"
 msgid "Message Participant record position"
 msgstr "موقعیت رکورد شرکت‌کننده پیام"
 
 #. js-lingui-id: yzSIu/
+msgctxt "fieldMetadata.description"
 msgid "Message Participants"
 msgstr "شرکت‌کنندگان پیام"
 
 #. js-lingui-id: OVVthS
+msgctxt "fieldMetadata.label"
 msgid "Message Participants"
 msgstr "شرکت‌کنندگان پیام"
 
 #. js-lingui-id: eMh4C2
+msgctxt "objectMetadata.description"
 msgid "Message Participants"
 msgstr "شرکت‌کنندگان پیام"
 
 #. js-lingui-id: OY58EQ
+msgctxt "objectMetadata.labelPlural"
 msgid "Message Participants"
 msgstr "شرکت‌کنندگان پیام"
 
 #. js-lingui-id: kypFzo
+msgctxt "fieldMetadata.description"
 msgid "Message record position"
 msgstr "موقعیت رکورد پیام"
 
 #. js-lingui-id: E09MF5
+msgctxt "objectMetadata.description"
 msgid "Message suppression"
 msgstr "سرکوب پیام"
 
 #. js-lingui-id: mIsdys
+msgctxt "objectMetadata.labelSingular"
 msgid "Message suppression"
 msgstr "سرکوب پیام"
 
 #. js-lingui-id: 7KgWx1
+msgctxt "objectMetadata.labelPlural"
 msgid "Message suppressions"
 msgstr "سرکوب‌های پیام"
 
 #. js-lingui-id: IyZnrr
+msgctxt "objectMetadata.description"
 msgid "Message Synced with a Message Channel"
 msgstr "پیام همگام‌شده با یک کانال پیام"
 
 #. js-lingui-id: JZIhQu
+msgctxt "fieldMetadata.label"
 msgid "Message thread"
 msgstr "رشته پیام"
 
 #. js-lingui-id: MLNdvD
+msgctxt "objectMetadata.description"
 msgid "Message Thread"
 msgstr "رشته پیام"
 
 #. js-lingui-id: 9JKJzc
+msgctxt "objectMetadata.labelSingular"
 msgid "Message Thread"
 msgstr "رشته پیام"
 
 #. js-lingui-id: HgIhjm
+msgctxt "fieldMetadata.description"
 msgid "Message Thread ID"
 msgstr "شناسه رشته پیام"
 
 #. js-lingui-id: EUVVrl
+msgctxt "fieldMetadata.label"
 msgid "Message Thread ID"
 msgstr "شناسه رشته پیام"
 
 #. js-lingui-id: qgC2Dq
+msgctxt "fieldMetadata.description"
 msgid "Message Thread record position"
 msgstr "موقعیت رکورد رشته پیام"
 
 #. js-lingui-id: frnvp/
+msgctxt "objectMetadata.labelSingular"
 msgid "Message Thread Target"
 msgstr "مقصد رشته پیام"
 
 #. js-lingui-id: 8VG+FR
+msgctxt "fieldMetadata.description"
 msgid "Message thread target thread"
 msgstr "رشته مقصد رشته پیام"
 
 #. js-lingui-id: VHCKNR
+msgctxt "fieldMetadata.description"
 msgid "Message thread targets"
 msgstr "مقاصد رشته پیام"
 
 #. js-lingui-id: q03DOY
+msgctxt "objectMetadata.labelPlural"
 msgid "Message Thread Targets"
 msgstr "مقاصد رشته پیام"
 
 #. js-lingui-id: icQX0H
+msgctxt "objectMetadata.labelPlural"
 msgid "Message Threads"
 msgstr "رشته‌های پیام"
 
 #. js-lingui-id: mKjuch
+msgctxt "fieldMetadata.description"
 msgid "Message threads tied to the company"
 msgstr "رشته‌های پیام مرتبط با شرکت"
 
 #. js-lingui-id: WGjTJT
+msgctxt "fieldMetadata.description"
 msgid "Message threads tied to the contact"
 msgstr "رشته‌های پیام مرتبط با مخاطب"
 
 #. js-lingui-id: Z+Jdwp
+msgctxt "fieldMetadata.description"
 msgid "Message threads tied to the opportunity"
 msgstr "رشته‌های پیام مرتبط با فرصت"
 
 #. js-lingui-id: S6Ztef
+msgctxt "fieldMetadata.label"
 msgid "MessageCampaign"
 msgstr "MessageCampaign"
 
 #. js-lingui-id: j5w8z0
+msgctxt "fieldMetadata.label"
 msgid "MessageList"
 msgstr "MessageList"
 
 #. js-lingui-id: bDTY0A
+msgctxt "fieldMetadata.description"
 msgid "Messages"
 msgstr "پیام‌ها"
 
 #. js-lingui-id: KocG+N
+msgctxt "fieldMetadata.label"
 msgid "Messages"
 msgstr "پیام‌ها"
 
 #. js-lingui-id: I+2uUa
+msgctxt "objectMetadata.labelPlural"
 msgid "Messages"
 msgstr "پیام‌ها"
 
 #. js-lingui-id: PLP882
+msgctxt "fieldMetadata.description"
 msgid "Messages from the channel."
 msgstr "پیام‌های کانال."
 
 #. js-lingui-id: fbDfth
+msgctxt "fieldMetadata.description"
 msgid "Messages from the thread."
 msgstr "پیام‌های رشته."
 
 #. js-lingui-id: YPsYLa
+msgctxt "fieldMetadata.description"
 msgid "Messages sent as part of this campaign"
 msgstr "پیام‌های ارسال‌شده به‌عنوان بخشی از این کمپین"
 
@@ -5007,6 +5526,7 @@ msgid "Monday"
 msgstr "دوشنبه"
 
 #. js-lingui-id: mEl3m6
+msgctxt "fieldMetadata.label"
 msgid "Month First"
 msgstr "ابتدا ماه"
 
@@ -5027,10 +5547,12 @@ msgid "Multiple subscriptions found where one was expected."
 msgstr "چندین اشتراک یافت شد در حالی که یکی انتظار می‌رفت."
 
 #. js-lingui-id: egii0n
+msgctxt "pageLayout.name"
 msgid "My First Dashboard"
 msgstr "اولین داشبورد من"
 
 #. js-lingui-id: WFhVi3
+msgctxt "fieldMetadata.label"
 msgid "Name"
 msgstr "نام"
 
@@ -5067,6 +5589,7 @@ msgid "Name must be in camelCase format."
 msgstr "نام باید در قالب camelCase باشد."
 
 #. js-lingui-id: X8wvUh
+msgctxt "fieldMetadata.description"
 msgid "Name of the workflow run"
 msgstr "نام اجرای گردش کار"
 
@@ -5079,10 +5602,12 @@ msgid "Navigate App"
 msgstr "پیمایش برنامه"
 
 #. js-lingui-id: GxRBGY
+msgctxt "commandMenuItem.label"
 msgid "Navigate to next {objectLabelSingular}"
 msgstr "رفتن به {objectLabelSingular} بعدی"
 
 #. js-lingui-id: GjtAeJ
+msgctxt "commandMenuItem.label"
 msgid "Navigate to previous {objectLabelSingular}"
 msgstr "رفتن به {objectLabelSingular} قبلی"
 
@@ -5119,10 +5644,12 @@ msgid "Navigation target object not found"
 msgstr "شیء مقصد ناوبری یافت نشد"
 
 #. js-lingui-id: B/prgH
+msgctxt "fieldMetadata.label"
 msgid "Needs Action"
 msgstr "نیاز به اقدام"
 
 #. js-lingui-id: 1NsPsQ
+msgctxt "fieldMetadata.label"
 msgid "New"
 msgstr "جدید"
 
@@ -5211,6 +5738,7 @@ msgid "No verified sending domain matches this from address."
 msgstr "هیچ دامنه ارسال تأییدشده‌ای با این نشانی فرستنده مطابقت ندارد."
 
 #. js-lingui-id: a78k8n
+msgctxt "fieldMetadata.description"
 msgid "Normalized diarized transcript"
 msgstr "رونوشت نرمال‌شده با تشخیص گوینده"
 
@@ -5223,6 +5751,7 @@ msgid "Not found"
 msgstr "یافت نشد"
 
 #. js-lingui-id: WunOam
+msgctxt "fieldMetadata.label"
 msgid "Not recorded"
 msgstr "ثبت نشده"
 
@@ -5231,90 +5760,112 @@ msgid "Not Set"
 msgstr "تنظیم نشده"
 
 #. js-lingui-id: H1P40W
+msgctxt "fieldMetadata.label"
 msgid "Not started"
 msgstr "شروع نشده"
 
 #. js-lingui-id: O2bgDc
+msgctxt "fieldMetadata.label"
 msgid "Note"
 msgstr "یادداشت"
 
 #. js-lingui-id: wkRCkw
+msgctxt "objectMetadata.labelSingular"
 msgid "Note"
 msgstr "یادداشت"
 
 #. js-lingui-id: OtOiYC
+msgctxt "pageLayoutTab.title"
 msgid "Note"
 msgstr "یادداشت"
 
 #. js-lingui-id: OPF12/
+msgctxt "pageLayoutWidget.title"
 msgid "Note"
 msgstr "یادداشت"
 
 #. js-lingui-id: wmdbyt
+msgctxt "fieldMetadata.description"
 msgid "Note attachments"
 msgstr "پیوست‌های یادداشت"
 
 #. js-lingui-id: uK5bNo
+msgctxt "fieldMetadata.description"
 msgid "Note body"
 msgstr "متن یادداشت"
 
 #. js-lingui-id: PomaQP
+msgctxt "fieldMetadata.description"
 msgid "Note record position"
 msgstr "موقعیت رکورد یادداشت"
 
 #. js-lingui-id: mFjkYL
+msgctxt "objectMetadata.labelSingular"
 msgid "Note Target"
 msgstr "مقصد یادداشت"
 
 #. js-lingui-id: iDDe0p
+msgctxt "fieldMetadata.description"
 msgid "Note targets"
 msgstr "مقاصد یادداشت"
 
 #. js-lingui-id: OkXmyu
+msgctxt "objectMetadata.labelPlural"
 msgid "Note Targets"
 msgstr "مقاصد یادداشت"
 
 #. js-lingui-id: yGCc6d
+msgctxt "fieldMetadata.description"
 msgid "Note title"
 msgstr "عنوان یادداشت"
 
 #. js-lingui-id: es5DkC
+msgctxt "fieldMetadata.label"
 msgid "Notes"
 msgstr "یادداشت‌ها"
 
 #. js-lingui-id: uYdN1N
+msgctxt "objectMetadata.labelPlural"
 msgid "Notes"
 msgstr "یادداشت‌ها"
 
 #. js-lingui-id: birhbY
+msgctxt "pageLayoutTab.title"
 msgid "Notes"
 msgstr "یادداشت‌ها"
 
 #. js-lingui-id: Uacq0M
+msgctxt "pageLayoutWidget.title"
 msgid "Notes"
 msgstr "یادداشت‌ها"
 
 #. js-lingui-id: PB/rtA
+msgctxt "fieldMetadata.description"
 msgid "Notes tied to the company"
 msgstr "یادداشت‌های مرتبط با شرکت"
 
 #. js-lingui-id: te+g0b
+msgctxt "fieldMetadata.description"
 msgid "Notes tied to the contact"
 msgstr "یادداشت‌های مرتبط با مخاطب"
 
 #. js-lingui-id: z1WJHw
+msgctxt "fieldMetadata.description"
 msgid "Notes tied to the opportunity"
 msgstr "یادداشت‌های مرتبط با فرصت"
 
 #. js-lingui-id: swFcOd
+msgctxt "fieldMetadata.description"
 msgid "NoteTarget note"
 msgstr "یادداشت NoteTarget"
 
 #. js-lingui-id: tcYYlR
+msgctxt "fieldMetadata.description"
 msgid "NoteTarget record position"
 msgstr "موقعیت رکورد NoteTarget"
 
 #. js-lingui-id: 9Waa3Q
+msgctxt "fieldMetadata.description"
 msgid "NoteTarget target"
 msgstr "مقصد NoteTarget"
 
@@ -5323,30 +5874,37 @@ msgid "November"
 msgstr "نوامبر"
 
 #. js-lingui-id: 4WLHxu
+msgctxt "fieldMetadata.label"
 msgid "Number format"
 msgstr "قالب عدد"
 
 #. js-lingui-id: xaKXLa
+msgctxt "fieldMetadata.description"
 msgid "Number of emails confirmed delivered"
 msgstr "تعداد ایمیل‌های تأییدشده به‌عنوان تحویل‌شده"
 
 #. js-lingui-id: Y/owFW
+msgctxt "fieldMetadata.description"
 msgid "Number of emails sent"
 msgstr "تعداد ایمیل‌های ارسال‌شده"
 
 #. js-lingui-id: unOidh
+msgctxt "fieldMetadata.description"
 msgid "Number of emails that bounced"
 msgstr "تعداد ایمیل‌هایی که برگشت خوردند"
 
 #. js-lingui-id: rfTW6d
+msgctxt "fieldMetadata.description"
 msgid "Number of emails that failed to send"
 msgstr "تعداد ایمیل‌هایی که ارسال نشدند"
 
 #. js-lingui-id: JUyrVC
+msgctxt "fieldMetadata.description"
 msgid "Number of recipients skipped without being emailed"
 msgstr "تعداد گیرندگانی که بدون ارسال ایمیل رد شدند"
 
 #. js-lingui-id: bgG8mY
+msgctxt "fieldMetadata.description"
 msgid "Number of spam complaints received"
 msgstr "تعداد شکایات هرزنامه دریافت‌شده"
 
@@ -5383,6 +5941,7 @@ msgid "Object label is too short"
 msgstr "برچسب شیء خیلی کوتاه است"
 
 #. js-lingui-id: gB0eae
+msgctxt "fieldMetadata.label"
 msgid "Object metadata ID"
 msgstr "شناسه فراداده شیء"
 
@@ -5399,6 +5958,7 @@ msgid "Object not found."
 msgstr "شیء یافت نشد."
 
 #. js-lingui-id: zWTotA
+msgctxt "fieldMetadata.description"
 msgid "Object of the shared record"
 msgstr "شیء رکورد اشتراک‌گذاری‌شده"
 
@@ -5527,6 +6087,7 @@ msgid "Only the person who created this workflow can change who sees it"
 msgstr "فقط شخصی که این گردش کار را ایجاد کرده می‌تواند تعیین کند چه کسانی آن را ببینند"
 
 #. js-lingui-id: lWLaJ5
+msgctxt "fieldMetadata.label"
 msgid "Open Records In"
 msgstr "باز کردن رکوردها در"
 
@@ -5547,62 +6108,77 @@ msgid "Operand \"{rawOperand}\" of a chart filter of widget \"{widgetTitle}\" is
 msgstr "عملوند «{rawOperand}» از فیلتر نمودار ویجت «{widgetTitle}» روی نوع فیلد «{effectiveFieldType}» پشتیبانی نمی‌شود. عملوندهای پشتیبانی‌شده: {allowedOperandsText}."
 
 #. js-lingui-id: LXazcQ
+msgctxt "fieldMetadata.label"
 msgid "Opportunities"
 msgstr "فرصت‌ها"
 
 #. js-lingui-id: aflzUo
+msgctxt "objectMetadata.labelPlural"
 msgid "Opportunities"
 msgstr "فرصت‌ها"
 
 #. js-lingui-id: WV1dio
+msgctxt "pageLayoutWidget.title"
 msgid "Opportunities"
 msgstr "فرصت‌ها"
 
 #. js-lingui-id: vo/CmK
+msgctxt "pageLayoutWidget.title"
 msgid "Opportunities by Owner"
 msgstr "فرصت‌ها بر اساس مالک"
 
 #. js-lingui-id: x31eoV
+msgctxt "fieldMetadata.description"
 msgid "Opportunities linked to the company."
 msgstr "فرصت‌های پیوندشده به شرکت."
 
 #. js-lingui-id: I77mP4
+msgctxt "fieldMetadata.description"
 msgid "Opportunities owned by the workspace member"
 msgstr "فرصت‌های متعلق به عضو فضای کاری"
 
 #. js-lingui-id: JpA/cO
+msgctxt "fieldMetadata.label"
 msgid "Opportunity"
 msgstr "فرصت"
 
 #. js-lingui-id: 98euLh
+msgctxt "objectMetadata.labelSingular"
 msgid "Opportunity"
 msgstr "فرصت"
 
 #. js-lingui-id: yEL+R4
+msgctxt "fieldMetadata.description"
 msgid "Opportunity amount"
 msgstr "مبلغ فرصت"
 
 #. js-lingui-id: 0zQFQ1
+msgctxt "fieldMetadata.description"
 msgid "Opportunity close date"
 msgstr "تاریخ بستن فرصت"
 
 #. js-lingui-id: bm66XQ
+msgctxt "fieldMetadata.description"
 msgid "Opportunity company"
 msgstr "شرکت فرصت"
 
 #. js-lingui-id: 3rJRbD
+msgctxt "fieldMetadata.description"
 msgid "Opportunity owner"
 msgstr "مالک فرصت"
 
 #. js-lingui-id: vqM7BR
+msgctxt "fieldMetadata.description"
 msgid "Opportunity point of contact"
 msgstr "نقطه تماس فرصت"
 
 #. js-lingui-id: ATrBjm
+msgctxt "fieldMetadata.description"
 msgid "Opportunity record position"
 msgstr "موقعیت رکورد فرصت"
 
 #. js-lingui-id: GvmK2O
+msgctxt "fieldMetadata.description"
 msgid "Opportunity stage"
 msgstr "مرحله فرصت"
 
@@ -5663,14 +6239,17 @@ msgid "Options are required for enum fields"
 msgstr "گزینه‌ها برای فیلدهای enum الزامی هستند"
 
 #. js-lingui-id: piAYqn
+msgctxt "fieldMetadata.description"
 msgid "Order Index"
 msgstr "شاخص ترتیب"
 
 #. js-lingui-id: /dzBSj
+msgctxt "fieldMetadata.label"
 msgid "Order Index"
 msgstr "شاخص ترتیب"
 
 #. js-lingui-id: r4t1DT
+msgctxt "fieldMetadata.label"
 msgid "Other"
 msgstr "سایر"
 
@@ -5679,6 +6258,7 @@ msgid "Other error"
 msgstr "خطای دیگر"
 
 #. js-lingui-id: CN5Up3
+msgctxt "fieldMetadata.label"
 msgid "Outgoing"
 msgstr "خروجی"
 
@@ -5691,22 +6271,27 @@ msgid "Output field names must use only letters, numbers, underscores, dots or h
 msgstr "نام فیلدهای خروجی باید فقط از حروف، اعداد، زیرخط، نقطه یا خط تیره استفاده کند و حداکثر ۶۴ نویسه باشد: {0}"
 
 #. js-lingui-id: Bxs7Ar
+msgctxt "fieldMetadata.label"
 msgid "Owned opportunities"
 msgstr "فرصت‌های تحت مالکیت"
 
 #. js-lingui-id: l/RVZK
+msgctxt "fieldMetadata.label"
 msgid "Owner"
 msgstr "مالک"
 
 #. js-lingui-id: fOmUO9
+msgctxt "pageLayoutWidget.title"
 msgid "Owner"
 msgstr "مالک"
 
 #. js-lingui-id: ZeJb73
+msgctxt "fieldMetadata.description"
 msgid "Owner, sharing rule or application that granted the access"
 msgstr "مالک، قانون اشتراک‌گذاری یا برنامه‌ای که دسترسی را اعطا کرده است"
 
 #. js-lingui-id: s3wAxw
+msgctxt "fieldMetadata.label"
 msgid "Page Layout ID"
 msgstr "شناسه چیدمان صفحه"
 
@@ -5783,14 +6368,17 @@ msgid "Parent view filter group not found"
 msgstr "گروه فیلتر نمای والد یافت نشد"
 
 #. js-lingui-id: Yp8zt3
+msgctxt "pageLayoutWidget.title"
 msgid "Participants"
 msgstr "شرکت‌کنندگان"
 
 #. js-lingui-id: mZg7qC
+msgctxt "fieldMetadata.description"
 msgid "Parts"
 msgstr "بخش‌ها"
 
 #. js-lingui-id: eDJpwf
+msgctxt "fieldMetadata.label"
 msgid "Parts"
 msgstr "بخش‌ها"
 
@@ -5815,38 +6403,47 @@ msgid "Payload must contain a path"
 msgstr "Payload باید شامل یک مسیر باشد"
 
 #. js-lingui-id: +1y7ep
+msgctxt "fieldMetadata.description"
 msgid "Pending Question Message ID"
 msgstr "شناسه پیام سؤال در انتظار"
 
 #. js-lingui-id: 9j/qct
+msgctxt "fieldMetadata.label"
 msgid "Pending Question Message ID"
 msgstr "شناسه پیام سؤال در انتظار"
 
 #. js-lingui-id: iJh5U7
+msgctxt "fieldMetadata.label"
 msgid "People"
 msgstr "افراد"
 
 #. js-lingui-id: CJTgMk
+msgctxt "objectMetadata.labelPlural"
 msgid "People"
 msgstr "افراد"
 
 #. js-lingui-id: w9vY/A
+msgctxt "pageLayoutWidget.title"
 msgid "People"
 msgstr "افراد"
 
 #. js-lingui-id: nAcEw6
+msgctxt "fieldMetadata.description"
 msgid "People in this list"
 msgstr "افراد در این فهرست"
 
 #. js-lingui-id: FfjqDg
+msgctxt "fieldMetadata.description"
 msgid "People linked to the company."
 msgstr "افراد پیوندشده به شرکت."
 
 #. js-lingui-id: wHLbpa
+msgctxt "fieldMetadata.description"
 msgid "Per-step observability payload (token usage, tool calls, log entries)"
 msgstr "payload مشاهده‌پذیری در هر مرحله (مصرف توکن، فراخوانی ابزار، ورودی‌های گزارش)"
 
 #. js-lingui-id: 2TPvIG
+msgctxt "commandMenuItem.label"
 msgid "Permanently destroy {objectLabel}"
 msgstr "نابودی دائمی {objectLabel}"
 
@@ -5927,30 +6524,37 @@ msgid "Permission not found."
 msgstr "مجوز یافت نشد."
 
 #. js-lingui-id: 7Ud2p0
+msgctxt "fieldMetadata.description"
 msgid "Person"
 msgstr "شخص"
 
 #. js-lingui-id: F8wyAu
+msgctxt "fieldMetadata.label"
 msgid "Person"
 msgstr "شخص"
 
 #. js-lingui-id: n+OC6R
+msgctxt "objectMetadata.labelSingular"
 msgid "Person"
 msgstr "شخص"
 
 #. js-lingui-id: PDXnH6
+msgctxt "fieldMetadata.description"
 msgid "Person ID"
 msgstr "شناسه شخص"
 
 #. js-lingui-id: Ojc/oN
+msgctxt "fieldMetadata.label"
 msgid "Person ID"
 msgstr "شناسه شخص"
 
 #. js-lingui-id: qAQDfe
+msgctxt "fieldMetadata.description"
 msgid "Person record Position"
 msgstr "موقعیت رکورد شخص"
 
 #. js-lingui-id: JrteyL
+msgctxt "fieldMetadata.label"
 msgid "Phones"
 msgstr "تلفن‌ها"
 
@@ -5967,6 +6571,7 @@ msgid "Pick at least one field for the index."
 msgstr "حداقل یک فیلد برای ایندکس انتخاب کنید."
 
 #. js-lingui-id: cggtYH
+msgctxt "pageLayoutWidget.title"
 msgid "Pipeline Value by Stage"
 msgstr "ارزش پایپ‌لاین بر اساس مرحله"
 
@@ -6015,14 +6620,17 @@ msgid "Please use single sign-on to authenticate."
 msgstr "لطفاً برای احراز هویت از ورود یکپارچه استفاده کنید."
 
 #. js-lingui-id: pxTMbt
+msgctxt "fieldMetadata.label"
 msgid "Point of Contact"
 msgstr "نقطه تماس"
 
 #. js-lingui-id: oX1zsX
+msgctxt "pageLayoutWidget.title"
 msgid "Point of Contact"
 msgstr "نقطه تماس"
 
 #. js-lingui-id: rLOFsu
+msgctxt "fieldMetadata.label"
 msgid "Position"
 msgstr "موقعیت"
 
@@ -6047,22 +6655,27 @@ msgid "Predicate value is not valid for this operand"
 msgstr "مقدار گزاره برای این عملوند معتبر نیست"
 
 #. js-lingui-id: /h13bI
+msgctxt "fieldMetadata.description"
 msgid "Preferred color scheme"
 msgstr "طرح رنگ ترجیحی"
 
 #. js-lingui-id: 8BEhOO
+msgctxt "fieldMetadata.description"
 msgid "Preferred interface scale"
 msgstr "مقیاس رابط ترجیحی"
 
 #. js-lingui-id: wg/hr/
+msgctxt "fieldMetadata.description"
 msgid "Preferred language"
 msgstr "زبان ترجیحی"
 
 #. js-lingui-id: 1TLh3X
+msgctxt "fieldMetadata.label"
 msgid "Presentation"
 msgstr "ارائه"
 
 #. js-lingui-id: ysRzX6
+msgctxt "commandMenuItem.shortLabel"
 msgid "Previous AI Chats"
 msgstr "گفتگوهای قبلی هوش مصنوعی"
 
@@ -6083,22 +6696,27 @@ msgid "Primary axis group by field is required for line chart widget \"{widgetTi
 msgstr "فیلد گروه‌بندی محور اصلی برای ویجت نمودار خطی «{widgetTitle}» الزامی است"
 
 #. js-lingui-id: RY0T63
+msgctxt "fieldMetadata.label"
 msgid "Principal ID"
 msgstr "شناسه اصلی"
 
 #. js-lingui-id: OGUlI6
+msgctxt "fieldMetadata.label"
 msgid "Principal type"
 msgstr "نوع اصلی"
 
 #. js-lingui-id: 5BFz2t
+msgctxt "fieldMetadata.description"
 msgid "Processed At"
 msgstr "پردازش‌شده در"
 
 #. js-lingui-id: 8fgev4
+msgctxt "fieldMetadata.label"
 msgid "Processed At"
 msgstr "پردازش‌شده در"
 
 #. js-lingui-id: cTz6/1
+msgctxt "fieldMetadata.label"
 msgid "Processing"
 msgstr "در حال پردازش"
 
@@ -6111,6 +6729,7 @@ msgid "Property {property} is required for role"
 msgstr "ویژگی {property} برای نقش الزامی است"
 
 #. js-lingui-id: IBJ/4j
+msgctxt "fieldMetadata.label"
 msgid "Proposal"
 msgstr "پیشنهاد"
 
@@ -6131,34 +6750,42 @@ msgid "Provided phone number is invalid {number}"
 msgstr "شماره تلفن ارائه‌شده نامعتبر است {number}"
 
 #. js-lingui-id: NZ0bSR
+msgctxt "fieldMetadata.description"
 msgid "Provider Event ID"
 msgstr "شناسه رویداد ارائه‌دهنده"
 
 #. js-lingui-id: g/4oFF
+msgctxt "fieldMetadata.label"
 msgid "Provider Event ID"
 msgstr "شناسه رویداد ارائه‌دهنده"
 
 #. js-lingui-id: XRbtVv
+msgctxt "fieldMetadata.description"
 msgid "Provider Executed"
 msgstr "ارائه‌دهنده اجرا شد"
 
 #. js-lingui-id: +Y6AEU
+msgctxt "fieldMetadata.label"
 msgid "Provider Executed"
 msgstr "ارائه‌دهنده اجرا شد"
 
 #. js-lingui-id: 9pFDVh
+msgctxt "fieldMetadata.description"
 msgid "Provider Message ID"
 msgstr "شناسه پیام ارائه‌دهنده"
 
 #. js-lingui-id: bJgvow
+msgctxt "fieldMetadata.label"
 msgid "Provider Message ID"
 msgstr "شناسه پیام ارائه‌دهنده"
 
 #. js-lingui-id: ApKRV5
+msgctxt "fieldMetadata.description"
 msgid "Provider Metadata"
 msgstr "فراداده ارائه‌دهنده"
 
 #. js-lingui-id: 3/Bns9
+msgctxt "fieldMetadata.label"
 msgid "Provider Metadata"
 msgstr "فراداده ارائه‌دهنده"
 
@@ -6199,46 +6826,57 @@ msgid "Raw SQL queries are not allowed."
 msgstr "کوئری‌های خام SQL مجاز نیستند."
 
 #. js-lingui-id: 0PWREF
+msgctxt "fieldMetadata.label"
 msgid "Read"
 msgstr "خواندن"
 
 #. js-lingui-id: ZsNi6Y
+msgctxt "fieldMetadata.label"
 msgid "Read and write"
 msgstr "خواندن و نوشتن"
 
 #. js-lingui-id: xrwkkT
+msgctxt "fieldMetadata.description"
 msgid "Reason"
 msgstr "دلیل"
 
 #. js-lingui-id: QHL400
+msgctxt "fieldMetadata.label"
 msgid "Reason"
 msgstr "دلیل"
 
 #. js-lingui-id: UkccBI
+msgctxt "fieldMetadata.description"
 msgid "Reasoning Content"
 msgstr "محتوای استدلال"
 
 #. js-lingui-id: wmpjJK
+msgctxt "fieldMetadata.label"
 msgid "Reasoning Content"
 msgstr "محتوای استدلال"
 
 #. js-lingui-id: KX0Su8
+msgctxt "fieldMetadata.label"
 msgid "Received At"
 msgstr "دریافت‌شده در"
 
 #. js-lingui-id: qiBYnd
+msgctxt "fieldMetadata.description"
 msgid "Recipient Email"
 msgstr "ایمیل گیرنده"
 
 #. js-lingui-id: jtaUxI
+msgctxt "fieldMetadata.label"
 msgid "Recipient Email"
 msgstr "ایمیل گیرنده"
 
 #. js-lingui-id: ND12UB
+msgctxt "fieldMetadata.label"
 msgid "Recipients"
 msgstr "گیرندگان"
 
 #. js-lingui-id: 3Zd7P4
+msgctxt "pageLayoutWidget.title"
 msgid "Recipients"
 msgstr "گیرندگان"
 
@@ -6247,6 +6885,7 @@ msgid "Record does not satisfy security constraints."
 msgstr "رکورد محدودیت‌های امنیتی را برآورده نمی‌کند."
 
 #. js-lingui-id: a2mBTT
+msgctxt "fieldMetadata.label"
 msgid "Record ID"
 msgstr "شناسه رکورد"
 
@@ -6255,14 +6894,17 @@ msgid "Record not found."
 msgstr "رکورد یافت نشد."
 
 #. js-lingui-id: 9ZMtCZ
+msgctxt "objectMetadata.labelSingular"
 msgid "Record share"
 msgstr "اشتراک رکورد"
 
 #. js-lingui-id: 806WTv
+msgctxt "fieldMetadata.description"
 msgid "Record share position"
 msgstr "موقعیت اشتراک رکورد"
 
 #. js-lingui-id: d7Q0Lz
+msgctxt "objectMetadata.labelPlural"
 msgid "Record shares"
 msgstr "اشتراک‌های رکورد"
 
@@ -6275,34 +6917,42 @@ msgid "Record table widget not found"
 msgstr "ویجت جدول رکورد یافت نشد"
 
 #. js-lingui-id: tsYhp1
+msgctxt "fieldMetadata.label"
 msgid "Recording"
 msgstr "ضبط"
 
 #. js-lingui-id: lTGIDF
+msgctxt "fieldMetadata.description"
 msgid "Recording lifecycle status"
 msgstr "وضعیت چرخه عمر ضبط"
 
 #. js-lingui-id: 9+tIiJ
+msgctxt "fieldMetadata.description"
 msgid "Recording request status"
 msgstr "وضعیت درخواست ضبط"
 
 #. js-lingui-id: JWCRoS
+msgctxt "fieldMetadata.description"
 msgid "Recording summary"
 msgstr "خلاصه ضبط"
 
 #. js-lingui-id: TPccfi
+msgctxt "fieldMetadata.description"
 msgid "Recurring Event ID"
 msgstr "شناسه رویداد تکرارشونده"
 
 #. js-lingui-id: 5hxu+5
+msgctxt "fieldMetadata.label"
 msgid "Recurring Event ID"
 msgstr "شناسه رویداد تکرارشونده"
 
 #. js-lingui-id: zEHtXk
+msgctxt "fieldMetadata.description"
 msgid "Reference to the core workflow row"
 msgstr "ارجاع به ردیف گردش کار هسته"
 
 #. js-lingui-id: avBuTv
+msgctxt "fieldMetadata.description"
 msgid "Reference to the core workflowVersion row"
 msgstr "ارجاع به ردیف workflowVersion هسته"
 
@@ -6315,10 +6965,12 @@ msgid "Registered by another workspace."
 msgstr "توسط فضای کاری دیگری ثبت شده است."
 
 #. js-lingui-id: iIm98l
+msgctxt "fieldMetadata.description"
 msgid "Rejected At"
 msgstr "ردشده در"
 
 #. js-lingui-id: d3PF7k
+msgctxt "fieldMetadata.label"
 msgid "Rejected At"
 msgstr "ردشده در"
 
@@ -6327,6 +6979,7 @@ msgid "Related record not found."
 msgstr "رکورد مرتبط یافت نشد."
 
 #. js-lingui-id: 9LL5PC
+msgctxt "fieldMetadata.description"
 msgid "Related user email address"
 msgstr "آدرس ایمیل کاربر مرتبط"
 
@@ -6363,10 +7016,12 @@ msgid "Relations"
 msgstr "روابط"
 
 #. js-lingui-id: 9ur990
+msgctxt "fieldMetadata.label"
 msgid "Relations"
 msgstr "روابط"
 
 #. js-lingui-id: /deTOT
+msgctxt "viewFieldGroup.name"
 msgid "Relations"
 msgstr "روابط"
 
@@ -6379,6 +7034,7 @@ msgid "Remote objects are not supported yet"
 msgstr "اشیای راه دور هنوز پشتیبانی نمی‌شوند"
 
 #. js-lingui-id: mFYgps
+msgctxt "commandMenuItem.label"
 msgid "Remove from Favorites"
 msgstr "حذف از علاقه‌مندی‌ها"
 
@@ -6387,26 +7043,32 @@ msgid "Remove this permission from all roles before deleting it"
 msgstr "قبل از حذف، این مجوز را از همه نقش‌ها حذف کنید"
 
 #. js-lingui-id: bf8Nhj
+msgctxt "timelineActivityType.label"
 msgid "removed an attachment"
 msgstr "یک پیوست را حذف کرد"
 
 #. js-lingui-id: rwpwIw
+msgctxt "fieldMetadata.description"
 msgid "Rendering Failed At"
 msgstr "شکست در رندر در"
 
 #. js-lingui-id: L9MGVo
+msgctxt "fieldMetadata.label"
 msgid "Rendering Failed At"
 msgstr "شکست در رندر در"
 
 #. js-lingui-id: U4APCE
+msgctxt "commandMenuItem.label"
 msgid "Reply"
 msgstr "پاسخ"
 
 #. js-lingui-id: 2LlOmm
+msgctxt "commandMenuItem.shortLabel"
 msgid "Reply"
 msgstr "پاسخ"
 
 #. js-lingui-id: v1QfnP
+msgctxt "fieldMetadata.label"
 msgid "Reply To"
 msgstr "پاسخ به"
 
@@ -6415,10 +7077,12 @@ msgid "Request has expired, please try again."
 msgstr "درخواست منقضی شده است، لطفاً دوباره تلاش کنید."
 
 #. js-lingui-id: GFNLkz
+msgctxt "fieldMetadata.label"
 msgid "Request Status"
 msgstr "وضعیت درخواست"
 
 #. js-lingui-id: 2ydSiw
+msgctxt "fieldMetadata.label"
 msgid "Requested"
 msgstr "درخواست‌شده"
 
@@ -6475,38 +7139,47 @@ msgid "Response format with type \"text\" should not include a schema"
 msgstr "قالب پاسخ با نوع \"text\" نباید شامل schema باشد"
 
 #. js-lingui-id: kQqVjw
+msgctxt "fieldMetadata.description"
 msgid "Response Status"
 msgstr "وضعیت پاسخ"
 
 #. js-lingui-id: QmxyXN
+msgctxt "fieldMetadata.label"
 msgid "Response Status"
 msgstr "وضعیت پاسخ"
 
 #. js-lingui-id: Zdd8u/
+msgctxt "commandMenuItem.shortLabel"
 msgid "Restore"
 msgstr "بازیابی"
 
 #. js-lingui-id: u8G1rR
+msgctxt "commandMenuItem.label"
 msgid "Restore {objectLabel}"
 msgstr "بازیابی {objectLabel}"
 
 #. js-lingui-id: xKCu0t
+msgctxt "commandMenuItem.label"
 msgid "Retry"
 msgstr "تلاش مجدد"
 
 #. js-lingui-id: Q5lxQn
+msgctxt "commandMenuItem.shortLabel"
 msgid "Retry"
 msgstr "تلاش مجدد"
 
 #. js-lingui-id: NP2/a6
+msgctxt "pageLayoutWidget.title"
 msgid "Revenue Timeline"
 msgstr "خط زمانی درآمد"
 
 #. js-lingui-id: DBEHo4
+msgctxt "fieldMetadata.description"
 msgid "Role"
 msgstr "نقش"
 
 #. js-lingui-id: YHMiZJ
+msgctxt "fieldMetadata.label"
 msgid "Role"
 msgstr "نقش"
 
@@ -6579,6 +7252,7 @@ msgid "Role target with this universal identifier already exists"
 msgstr "هدف نقش با این شناسه جهانی از قبل وجود دارد"
 
 #. js-lingui-id: EeAlta
+msgctxt "commandMenuItem.shortLabel"
 msgid "Roles"
 msgstr "نقش‌ها"
 
@@ -6599,6 +7273,7 @@ msgid "Route path already exists."
 msgstr "مسیر route از قبل وجود دارد."
 
 #. js-lingui-id: dFzdKL
+msgctxt "fieldMetadata.label"
 msgid "Row cause"
 msgstr "علت ردیف"
 
@@ -6651,18 +7326,22 @@ msgid "Row level permission predicate with this universal identifier already exi
 msgstr "پیش‌شرط مجوز سطح ردیف با این شناسه جهانی از قبل وجود دارد"
 
 #. js-lingui-id: 2feo6q
+msgctxt "fieldMetadata.label"
 msgid "Rule"
 msgstr "قانون"
 
 #. js-lingui-id: F1qT/F
+msgctxt "fieldMetadata.label"
 msgid "Running"
 msgstr "در حال اجرا"
 
 #. js-lingui-id: 6ZqFBn
+msgctxt "fieldMetadata.label"
 msgid "Runs"
 msgstr "اجراها"
 
 #. js-lingui-id: smyL3I
+msgctxt "view.name"
 msgid "Runs"
 msgstr "اجراها"
 
@@ -6671,6 +7350,7 @@ msgid "Saturday"
 msgstr "شنبه"
 
 #. js-lingui-id: 8gi8vY
+msgctxt "commandMenuItem.shortLabel"
 msgid "Save"
 msgstr "ذخیره"
 
@@ -6679,30 +7359,37 @@ msgid "Save Campaign"
 msgstr "ذخیره کمپین"
 
 #. js-lingui-id: Zi3Ych
+msgctxt "commandMenuItem.label"
 msgid "Save Dashboard"
 msgstr "ذخیره داشبورد"
 
 #. js-lingui-id: gqz/Jf
+msgctxt "fieldMetadata.label"
 msgid "Scheduled"
 msgstr "زمان‌بندی‌شده"
 
 #. js-lingui-id: jYVtFG
+msgctxt "fieldMetadata.label"
 msgid "Scheduled at"
 msgstr "زمان‌بندی‌شده در"
 
 #. js-lingui-id: V1y7Hg
+msgctxt "fieldMetadata.label"
 msgid "Scope"
 msgstr "محدوده"
 
 #. js-lingui-id: rhC6Nh
+msgctxt "fieldMetadata.description"
 msgid "Score"
 msgstr "امتیاز"
 
 #. js-lingui-id: F2sVun
+msgctxt "fieldMetadata.label"
 msgid "Score"
 msgstr "امتیاز"
 
 #. js-lingui-id: SiXwZL
+msgctxt "fieldMetadata.label"
 msgid "Screening"
 msgstr "غربالگری"
 
@@ -6715,10 +7402,12 @@ msgid "Search"
 msgstr "جستجو"
 
 #. js-lingui-id: DZ9raS
+msgctxt "commandMenuItem.label"
 msgid "Search"
 msgstr "جستجو"
 
 #. js-lingui-id: LVKOhh
+msgctxt "commandMenuItem.shortLabel"
 msgid "Search"
 msgstr "جستجو"
 
@@ -6751,6 +7440,7 @@ msgid "Search vector"
 msgstr "بردار جستجو"
 
 #. js-lingui-id: Zuw7oP
+msgctxt "fieldMetadata.label"
 msgid "Search vector"
 msgstr "بردار جستجو"
 
@@ -6767,50 +7457,62 @@ msgid "Search vector field not found"
 msgstr "فیلد بردار جستجو یافت نشد"
 
 #. js-lingui-id: 0Hcw3b
+msgctxt "commandMenuItem.shortLabel"
 msgid "Security"
 msgstr "امنیت"
 
 #. js-lingui-id: BCRQC8
+msgctxt "commandMenuItem.label"
 msgid "See deleted {objectLabelPlural}"
 msgstr "مشاهده {objectLabelPlural} حذف‌شده"
 
 #. js-lingui-id: VGVS7x
+msgctxt "commandMenuItem.label"
 msgid "See Runs"
 msgstr "مشاهده اجراها"
 
 #. js-lingui-id: iWhqvt
+msgctxt "commandMenuItem.shortLabel"
 msgid "See Runs"
 msgstr "مشاهده اجراها"
 
 #. js-lingui-id: pRQO5R
+msgctxt "commandMenuItem.label"
 msgid "See Version"
 msgstr "مشاهده نسخه"
 
 #. js-lingui-id: onFkTP
+msgctxt "commandMenuItem.shortLabel"
 msgid "See Version"
 msgstr "مشاهده نسخه"
 
 #. js-lingui-id: cyovqN
+msgctxt "commandMenuItem.shortLabel"
 msgid "See Versions"
 msgstr "مشاهده نسخه‌ها"
 
 #. js-lingui-id: VsCNJG
+msgctxt "commandMenuItem.label"
 msgid "See Versions History"
 msgstr "مشاهده تاریخچه نسخه‌ها"
 
 #. js-lingui-id: gIacCF
+msgctxt "commandMenuItem.label"
 msgid "See Workflow"
 msgstr "مشاهده گردش‌کار"
 
 #. js-lingui-id: kRmDjY
+msgctxt "commandMenuItem.shortLabel"
 msgid "See Workflow"
 msgstr "مشاهده گردش‌کار"
 
 #. js-lingui-id: dj45uB
+msgctxt "commandMenuItem.shortLabel"
 msgid "Send"
 msgstr "ارسال"
 
 #. js-lingui-id: w7dUdB
+msgctxt "commandMenuItem.label"
 msgid "Send Campaign"
 msgstr "ارسال کمپین"
 
@@ -6819,38 +7521,47 @@ msgid "Send Email"
 msgstr "ارسال ایمیل"
 
 #. js-lingui-id: 38I6bM
+msgctxt "commandMenuItem.label"
 msgid "Send Email"
 msgstr "ارسال ایمیل"
 
 #. js-lingui-id: obQsic
+msgctxt "commandMenuItem.shortLabel"
 msgid "Send Email"
 msgstr "ارسال ایمیل"
 
 #. js-lingui-id: +dLR8z
+msgctxt "commandMenuItem.label"
 msgid "Send Test Email"
 msgstr "ارسال ایمیل آزمایشی"
 
 #. js-lingui-id: nzBQFi
+msgctxt "fieldMetadata.description"
 msgid "Sender address for the campaign"
 msgstr "آدرس فرستنده برای کمپین"
 
 #. js-lingui-id: I09mUl
+msgctxt "fieldMetadata.description"
 msgid "Sender application ID"
 msgstr "شناسه برنامه فرستنده"
 
 #. js-lingui-id: QiMOFe
+msgctxt "fieldMetadata.label"
 msgid "Sender application ID"
 msgstr "شناسه برنامه فرستنده"
 
 #. js-lingui-id: kfnrYJ
+msgctxt "fieldMetadata.description"
 msgid "Sender workspace membership ID"
 msgstr "شناسه عضویت فضای‌کاری فرستنده"
 
 #. js-lingui-id: YDV32g
+msgctxt "fieldMetadata.label"
 msgid "Sender workspace membership ID"
 msgstr "شناسه عضویت فضای‌کاری فرستنده"
 
 #. js-lingui-id: ZYK68w
+msgctxt "fieldMetadata.label"
 msgid "Sending"
 msgstr "در حال ارسال"
 
@@ -6867,30 +7578,37 @@ msgid "Sending is currently suspended for this email domain."
 msgstr "ارسال در حال حاضر برای این دامنه ایمیل معلق شده است."
 
 #. js-lingui-id: qo/IO1
+msgctxt "fieldMetadata.label"
 msgid "Sent"
 msgstr "ارسال‌شده"
 
 #. js-lingui-id: 7Zqw3n
+msgctxt "fieldMetadata.label"
 msgid "Sent at"
 msgstr "ارسال‌شده در"
 
 #. js-lingui-id: qgum12
+msgctxt "fieldMetadata.description"
 msgid "Sent At"
 msgstr "ارسال‌شده در"
 
 #. js-lingui-id: Ac1/Xj
+msgctxt "fieldMetadata.label"
 msgid "Sent At"
 msgstr "ارسال‌شده در"
 
 #. js-lingui-id: M8jvbm
+msgctxt "fieldMetadata.label"
 msgid "Sent count"
 msgstr "تعداد ارسال‌شده"
 
 #. js-lingui-id: ttuub1
+msgctxt "timelineActivityType.label"
 msgid "sent or received an email"
 msgstr "ایمیلی ارسال یا دریافت کرد"
 
 #. js-lingui-id: CMPgl1
+msgctxt "fieldMetadata.label"
 msgid "Sent with errors"
 msgstr "ارسال‌شده با خطا"
 
@@ -6923,10 +7641,12 @@ msgid "Set up two-factor authentication before impersonating users in another wo
 msgstr "قبل از جعل هویت کاربران در فضای‌کاری دیگر، احراز هویت دو مرحله‌ای را راه‌اندازی کنید."
 
 #. js-lingui-id: vGWuPM
+msgctxt "commandMenuItem.shortLabel"
 msgid "Settings"
 msgstr "تنظیمات"
 
 #. js-lingui-id: S97dl8
+msgctxt "fieldMetadata.label"
 msgid "Settings"
 msgstr "تنظیمات"
 
@@ -6963,6 +7683,7 @@ msgid "Settings menu item title is required"
 msgstr "عنوان آیتم منوی تنظیمات الزامی است"
 
 #. js-lingui-id: yS/zBf
+msgctxt "fieldMetadata.description"
 msgid "Shared record"
 msgstr "رکورد اشتراکی"
 
@@ -7003,14 +7724,17 @@ msgid "Skill with name \"{name}\" already exists"
 msgstr "مهارت با نام «{name}» از قبل وجود دارد"
 
 #. js-lingui-id: M49+N5
+msgctxt "fieldMetadata.description"
 msgid "Skip Reason"
 msgstr "دلیل رد شدن"
 
 #. js-lingui-id: OgTx4x
+msgctxt "fieldMetadata.label"
 msgid "Skip Reason"
 msgstr "دلیل رد شدن"
 
 #. js-lingui-id: 9KFM/B
+msgctxt "fieldMetadata.label"
 msgid "Skipped count"
 msgstr "تعداد ردشده"
 
@@ -7019,6 +7743,7 @@ msgid "Social"
 msgstr "اجتماعی"
 
 #. js-lingui-id: NmDrpO
+msgctxt "viewFieldGroup.name"
 msgid "Social"
 msgstr "اجتماعی"
 
@@ -7047,18 +7772,22 @@ msgid "Something went wrong. Please try again."
 msgstr "مشکلی پیش آمد. لطفاً دوباره تلاش کنید."
 
 #. js-lingui-id: N47B7j
+msgctxt "fieldMetadata.description"
 msgid "Source"
 msgstr "منبع"
 
 #. js-lingui-id: H7M9xQ
+msgctxt "fieldMetadata.label"
 msgid "Source"
 msgstr "منبع"
 
 #. js-lingui-id: SoRH5/
+msgctxt "fieldMetadata.description"
 msgid "Source app bot/session id, when the source supports bots"
 msgstr "شناسه ربات/نشست برنامه مبدأ، وقتی مبدأ از ربات‌ها پشتیبانی می‌کند"
 
 #. js-lingui-id: xkRCzV
+msgctxt "fieldMetadata.description"
 msgid "Source app recording id, when present"
 msgstr "شناسه ضبط برنامه مبدأ، در صورت وجود"
 
@@ -7071,34 +7800,42 @@ msgid "Source component path is invalid"
 msgstr "مسیر کامپوننت مبدأ نامعتبر است"
 
 #. js-lingui-id: J//Oe5
+msgctxt "fieldMetadata.description"
 msgid "Source Document Filename"
 msgstr "نام فایل سند مبدأ"
 
 #. js-lingui-id: N0mz5F
+msgctxt "fieldMetadata.label"
 msgid "Source Document Filename"
 msgstr "نام فایل سند مبدأ"
 
 #. js-lingui-id: K5eDSi
+msgctxt "fieldMetadata.description"
 msgid "Source Document Media Type"
 msgstr "نوع رسانه سند مبدأ"
 
 #. js-lingui-id: t0U3qf
+msgctxt "fieldMetadata.label"
 msgid "Source Document Media Type"
 msgstr "نوع رسانه سند مبدأ"
 
 #. js-lingui-id: d6uYtO
+msgctxt "fieldMetadata.description"
 msgid "Source Document Source ID"
 msgstr "شناسه منبع سند مبدأ"
 
 #. js-lingui-id: ZxgXEV
+msgctxt "fieldMetadata.label"
 msgid "Source Document Source ID"
 msgstr "شناسه منبع سند مبدأ"
 
 #. js-lingui-id: 5cu4d7
+msgctxt "fieldMetadata.description"
 msgid "Source Document Title"
 msgstr "عنوان سند مبدأ"
 
 #. js-lingui-id: cVO6/z
+msgctxt "fieldMetadata.label"
 msgid "Source Document Title"
 msgstr "عنوان سند مبدأ"
 
@@ -7107,6 +7844,7 @@ msgid "Source handler path is invalid"
 msgstr "مسیر handler مبدأ نامعتبر است"
 
 #. js-lingui-id: kQeWQ3
+msgctxt "fieldMetadata.label"
 msgid "Source ID"
 msgstr "شناسه مبدأ"
 
@@ -7115,34 +7853,42 @@ msgid "Source object cannot be the target object"
 msgstr "شیء مبدأ نمی‌تواند همان شیء هدف باشد"
 
 #. js-lingui-id: pdLYF5
+msgctxt "fieldMetadata.description"
 msgid "Source URL Source ID"
 msgstr "شناسه منبع URL مبدأ"
 
 #. js-lingui-id: j9l+zA
+msgctxt "fieldMetadata.label"
 msgid "Source URL Source ID"
 msgstr "شناسه منبع URL مبدأ"
 
 #. js-lingui-id: XqRRm3
+msgctxt "fieldMetadata.description"
 msgid "Source URL Title"
 msgstr "عنوان URL مبدأ"
 
 #. js-lingui-id: AlMHVf
+msgctxt "fieldMetadata.label"
 msgid "Source URL Title"
 msgstr "عنوان URL مبدأ"
 
 #. js-lingui-id: k0DblP
+msgctxt "fieldMetadata.description"
 msgid "Source URL URL"
 msgstr "آدرس URL مبدأ"
 
 #. js-lingui-id: eS+U4K
+msgctxt "fieldMetadata.label"
 msgid "Source URL URL"
 msgstr "آدرس URL مبدأ"
 
 #. js-lingui-id: Qc2uwm
+msgctxt "fieldMetadata.label"
 msgid "Spaces and comma"
 msgstr "فاصله و ویرگول"
 
 #. js-lingui-id: rWCYgN
+msgctxt "fieldMetadata.label"
 msgid "Spreadsheet"
 msgstr "صفحه‌گسترده"
 
@@ -7155,6 +7901,7 @@ msgid "SSO is disabled."
 msgstr "SSO غیرفعال است."
 
 #. js-lingui-id: drcYgn
+msgctxt "fieldMetadata.label"
 msgid "Stage"
 msgstr "مرحله"
 
@@ -7175,46 +7922,57 @@ msgid "Standard skills cannot be modified."
 msgstr "مهارت‌های استاندارد قابل تغییر نیستند."
 
 #. js-lingui-id: ndAwoq
+msgctxt "fieldMetadata.description"
 msgid "Start Date"
 msgstr "تاریخ شروع"
 
 #. js-lingui-id: SHZsn1
+msgctxt "fieldMetadata.label"
 msgid "Start Date"
 msgstr "تاریخ شروع"
 
 #. js-lingui-id: /N2VrL
+msgctxt "fieldMetadata.label"
 msgid "Start of the week"
 msgstr "شروع هفته"
 
 #. js-lingui-id: tCbiO2
+msgctxt "fieldMetadata.label"
 msgid "Started At"
 msgstr "شروع‌شده در"
 
 #. js-lingui-id: j0P/LV
+msgctxt "fieldMetadata.description"
 msgid "State"
 msgstr "ایالت/استان"
 
 #. js-lingui-id: WlLRwh
+msgctxt "fieldMetadata.label"
 msgid "State"
 msgstr "ایالت/استان"
 
 #. js-lingui-id: Ec/Q9n
+msgctxt "fieldMetadata.description"
 msgid "State of the workflow run"
 msgstr "وضعیت اجرای گردش‌کار"
 
 #. js-lingui-id: +Ekld4
+msgctxt "viewFieldGroup.name"
 msgid "Stats"
 msgstr "آمار"
 
 #. js-lingui-id: 45wQns
+msgctxt "fieldMetadata.description"
 msgid "Status"
 msgstr "وضعیت"
 
 #. js-lingui-id: a1tUtz
+msgctxt "fieldMetadata.label"
 msgid "Status"
 msgstr "وضعیت"
 
 #. js-lingui-id: 0j9QWW
+msgctxt "fieldMetadata.label"
 msgid "Statuses"
 msgstr "وضعیت‌ها"
 
@@ -7227,26 +7985,32 @@ msgid "Step is not a form"
 msgstr "گام یک فرم نیست"
 
 #. js-lingui-id: 9vB6Yo
+msgctxt "fieldMetadata.label"
 msgid "Step logs"
 msgstr "لاگ‌های گام"
 
 #. js-lingui-id: bfWCbe
+msgctxt "pageLayoutWidget.title"
 msgid "Stock market (Iframe)"
 msgstr "بازار سهام (Iframe)"
 
 #. js-lingui-id: jBXpZT
+msgctxt "commandMenuItem.label"
 msgid "Stop"
 msgstr "توقف"
 
 #. js-lingui-id: 9nbPBZ
+msgctxt "commandMenuItem.shortLabel"
 msgid "Stop"
 msgstr "توقف"
 
 #. js-lingui-id: oupUKG
+msgctxt "fieldMetadata.label"
 msgid "Stopped"
 msgstr "متوقف‌شده"
 
 #. js-lingui-id: BksDhG
+msgctxt "fieldMetadata.label"
 msgid "Stopping"
 msgstr "در حال توقف"
 
@@ -7255,10 +8019,12 @@ msgid "Subdomain not found."
 msgstr "زیردامنه یافت نشد."
 
 #. js-lingui-id: 2OlYO4
+msgctxt "fieldMetadata.description"
 msgid "Subject"
 msgstr "موضوع"
 
 #. js-lingui-id: hr1Spc
+msgctxt "fieldMetadata.label"
 msgid "Subject"
 msgstr "موضوع"
 
@@ -7279,14 +8045,17 @@ msgid "Subscription phase not found."
 msgstr "فاز اشتراک یافت نشد."
 
 #. js-lingui-id: RUXdNM
+msgctxt "fieldMetadata.label"
 msgid "Summary"
 msgstr "خلاصه"
 
 #. js-lingui-id: 2n/OzT
+msgctxt "pageLayoutTab.title"
 msgid "Summary"
 msgstr "خلاصه"
 
 #. js-lingui-id: f6BBGv
+msgctxt "pageLayoutWidget.title"
 msgid "Summary"
 msgstr "خلاصه"
 
@@ -7299,10 +8068,12 @@ msgid "System"
 msgstr "سیستم"
 
 #. js-lingui-id: 7jCAIC
+msgctxt "fieldMetadata.label"
 msgid "System"
 msgstr "سیستم"
 
 #. js-lingui-id: pxZPo7
+msgctxt "viewFieldGroup.name"
 msgid "System"
 msgstr "سیستم"
 
@@ -7331,6 +8102,7 @@ msgid "System objects cannot be updated directly. Use overrides for cosmetic cha
 msgstr "اشیای سیستمی نمی‌توانند مستقیماً به‌روزرسانی شوند. برای تغییرات ظاهری از override استفاده کنید."
 
 #. js-lingui-id: llR7hT
+msgctxt "pageLayoutTab.title"
 msgid "Tab 1"
 msgstr "تب ۱"
 
@@ -7355,10 +8127,12 @@ msgid "Target object not found"
 msgstr "شیء هدف یافت نشد"
 
 #. js-lingui-id: iVwZ6H
+msgctxt "fieldMetadata.description"
 msgid "Target record"
 msgstr "رکورد هدف"
 
 #. js-lingui-id: nTzzR8
+msgctxt "fieldMetadata.description"
 msgid "Target record position"
 msgstr "موقعیت رکورد هدف"
 
@@ -7383,98 +8157,122 @@ msgid "Target view not found"
 msgstr "نمای هدف یافت نشد"
 
 #. js-lingui-id: g6X4T4
+msgctxt "fieldMetadata.label"
 msgid "Task"
 msgstr "وظیفه"
 
 #. js-lingui-id: +KxhfJ
+msgctxt "objectMetadata.labelSingular"
 msgid "Task"
 msgstr "وظیفه"
 
 #. js-lingui-id: 7V9t6v
+msgctxt "pageLayoutWidget.title"
 msgid "Task"
 msgstr "وظیفه"
 
 #. js-lingui-id: uwL5YM
+msgctxt "fieldMetadata.description"
 msgid "Task assignee"
 msgstr "مسئول وظیفه"
 
 #. js-lingui-id: 8/hqGh
+msgctxt "fieldMetadata.description"
 msgid "Task attachments"
 msgstr "پیوست‌های وظیفه"
 
 #. js-lingui-id: icnMQl
+msgctxt "fieldMetadata.description"
 msgid "Task body"
 msgstr "متن وظیفه"
 
 #. js-lingui-id: DSmmKK
+msgctxt "fieldMetadata.description"
 msgid "Task due date"
 msgstr "تاریخ سررسید وظیفه"
 
 #. js-lingui-id: TUF4YU
+msgctxt "fieldMetadata.description"
 msgid "Task record position"
 msgstr "موقعیت رکورد وظیفه"
 
 #. js-lingui-id: lGa+Pw
+msgctxt "fieldMetadata.description"
 msgid "Task status"
 msgstr "وضعیت وظیفه"
 
 #. js-lingui-id: nuFzWZ
+msgctxt "objectMetadata.labelSingular"
 msgid "Task Target"
 msgstr "هدف وظیفه"
 
 #. js-lingui-id: PRKxNT
+msgctxt "fieldMetadata.description"
 msgid "Task targets"
 msgstr "اهداف وظیفه"
 
 #. js-lingui-id: W5E1kS
+msgctxt "objectMetadata.labelPlural"
 msgid "Task Targets"
 msgstr "اهداف وظیفه"
 
 #. js-lingui-id: tznZvd
+msgctxt "fieldMetadata.description"
 msgid "Task title"
 msgstr "عنوان وظیفه"
 
 #. js-lingui-id: gir8T5
+msgctxt "fieldMetadata.label"
 msgid "Tasks"
 msgstr "وظایف"
 
 #. js-lingui-id: 1MBLO9
+msgctxt "objectMetadata.labelPlural"
 msgid "Tasks"
 msgstr "وظایف"
 
 #. js-lingui-id: 67YsL7
+msgctxt "pageLayoutTab.title"
 msgid "Tasks"
 msgstr "وظایف"
 
 #. js-lingui-id: fDI+nJ
+msgctxt "pageLayoutWidget.title"
 msgid "Tasks"
 msgstr "وظایف"
 
 #. js-lingui-id: T+m2GO
+msgctxt "fieldMetadata.description"
 msgid "Tasks assigned to the workspace member"
 msgstr "وظایف اختصاص‌یافته به عضو فضای‌کاری"
 
 #. js-lingui-id: cq5JGr
+msgctxt "fieldMetadata.description"
 msgid "Tasks tied to the company"
 msgstr "وظایف مرتبط با شرکت"
 
 #. js-lingui-id: lPd6aN
+msgctxt "fieldMetadata.description"
 msgid "Tasks tied to the contact"
 msgstr "وظایف مرتبط با مخاطب"
 
 #. js-lingui-id: rFV9W+
+msgctxt "fieldMetadata.description"
 msgid "Tasks tied to the opportunity"
 msgstr "وظایف مرتبط با فرصت"
 
 #. js-lingui-id: LElbiP
+msgctxt "fieldMetadata.description"
 msgid "TaskTarget record position"
 msgstr "موقعیت رکورد TaskTarget"
 
 #. js-lingui-id: RkVX/l
+msgctxt "fieldMetadata.description"
 msgid "TaskTarget target"
 msgstr "هدف TaskTarget"
 
 #. js-lingui-id: dYZHjd
+msgctxt "fieldMetadata.description"
 msgid "TaskTarget task"
 msgstr "وظیفه TaskTarget"
 
@@ -7483,10 +8281,12 @@ msgid "Temporary file cannot be downloaded."
 msgstr "فایل موقت قابل دانلود نیست."
 
 #. js-lingui-id: zGMIAQ
+msgctxt "fieldMetadata.label"
 msgid "Tentative"
 msgstr "موقت"
 
 #. js-lingui-id: qIIg23
+msgctxt "commandMenuItem.shortLabel"
 msgid "Test"
 msgstr "آزمایش"
 
@@ -7499,26 +8299,32 @@ msgid "Test user friendly message"
 msgstr "پیام کاربرپسند آزمایشی"
 
 #. js-lingui-id: 71MK9Q
+msgctxt "commandMenuItem.label"
 msgid "Test Workflow"
 msgstr "آزمایش گردش‌کار"
 
 #. js-lingui-id: 1bQnL5
+msgctxt "fieldMetadata.description"
 msgid "Text"
 msgstr "متن"
 
 #. js-lingui-id: A/01NQ
+msgctxt "fieldMetadata.label"
 msgid "Text"
 msgstr "متن"
 
 #. js-lingui-id: WFWRnl
+msgctxt "fieldMetadata.description"
 msgid "Text Content"
 msgstr "محتوای متنی"
 
 #. js-lingui-id: yv2Pj4
+msgctxt "fieldMetadata.label"
 msgid "Text Content"
 msgstr "محتوای متنی"
 
 #. js-lingui-id: gaHTjP
+msgctxt "fieldMetadata.label"
 msgid "Text Document"
 msgstr "سند متنی"
 
@@ -7567,26 +8373,32 @@ msgid "The calendar provider rejected the event creation request."
 msgstr "ارائه‌دهنده تقویم درخواست ایجاد رویداد را رد کرد."
 
 #. js-lingui-id: 2zDT7o
+msgctxt "fieldMetadata.description"
 msgid "The campaign this message was sent as part of"
 msgstr "کمپینی که این پیام به‌عنوان بخشی از آن ارسال شد"
 
 #. js-lingui-id: T3eIlb
+msgctxt "fieldMetadata.description"
 msgid "The campaign this participant was a recipient of"
 msgstr "کمپینی که این شرکت‌کننده گیرنده آن بود"
 
 #. js-lingui-id: JKjfHC
+msgctxt "fieldMetadata.description"
 msgid "The company Linkedin account"
 msgstr "حساب LinkedIn شرکت"
 
 #. js-lingui-id: YYF6YH
+msgctxt "fieldMetadata.description"
 msgid "The company name"
 msgstr "نام شرکت"
 
 #. js-lingui-id: /hS43l
+msgctxt "fieldMetadata.description"
 msgid "The company website URL. We use this url to fetch the company icon"
 msgstr "آدرس وب‌سایت شرکت. از این آدرس برای دریافت آیکون شرکت استفاده می‌کنیم"
 
 #. js-lingui-id: J8ljUF
+msgctxt "fieldMetadata.description"
 msgid "The company's total annual revenue"
 msgstr "کل درآمد سالانه شرکت"
 
@@ -7595,14 +8407,17 @@ msgid "The connection-provider manifest is missing required fields."
 msgstr "مانیفست ارائه‌دهنده اتصال فاقد فیلدهای الزامی است."
 
 #. js-lingui-id: WhUgpA
+msgctxt "fieldMetadata.description"
 msgid "The creator of the record"
 msgstr "ایجادکننده رکورد"
 
 #. js-lingui-id: F8Sp1a
+msgctxt "fieldMetadata.description"
 msgid "The current statuses of the workflow versions"
 msgstr "وضعیت‌های فعلی نسخه‌های گردش‌کار"
 
 #. js-lingui-id: Jx3FUl
+msgctxt "fieldMetadata.description"
 msgid "The date the message was received"
 msgstr "تاریخی که پیام دریافت شد"
 
@@ -7627,6 +8442,7 @@ msgid "The domain does not match your email domain."
 msgstr "دامنه با دامنه ایمیل شما مطابقت ندارد."
 
 #. js-lingui-id: hY1mx5
+msgctxt "fieldMetadata.description"
 msgid "The executor of the workflow"
 msgstr "اجراکننده گردش‌کار"
 
@@ -7699,14 +8515,17 @@ msgid "The initial version of a workflow can not be deleted"
 msgstr "نسخه اولیه یک گردش‌کار قابل حذف نیست"
 
 #. js-lingui-id: s8R9ou
+msgctxt "fieldMetadata.description"
 msgid "The list name"
 msgstr "نام لیست"
 
 #. js-lingui-id: mxlR2g
+msgctxt "fieldMetadata.description"
 msgid "The list the person belongs to"
 msgstr "لیستی که شخص به آن تعلق دارد"
 
 #. js-lingui-id: MW8RsI
+msgctxt "fieldMetadata.description"
 msgid "The list this campaign was sent to"
 msgstr "لیستی که این کمپین به آن ارسال شد"
 
@@ -7759,6 +8578,7 @@ msgid "The object you are trying to set permissions for could not be found. It m
 msgstr "شیئی که می‌خواهید برای آن مجوز تنظیم کنید یافت نشد. ممکن است حذف شده باشد."
 
 #. js-lingui-id: jgWZQ6
+msgctxt "fieldMetadata.description"
 msgid "The opportunity name"
 msgstr "نام فرصت"
 
@@ -7767,10 +8587,12 @@ msgid "The package registry could not be reached to verify the package provenanc
 msgstr "برای تأیید منشأ بسته، به رجیستری بسته دسترسی نبود. بعداً دوباره تلاش کنید."
 
 #. js-lingui-id: IMF5Er
+msgctxt "fieldMetadata.description"
 msgid "The people this campaign was sent to"
 msgstr "افرادی که این کمپین به آن‌ها ارسال شد"
 
 #. js-lingui-id: HvJTSR
+msgctxt "fieldMetadata.description"
 msgid "The person in the list"
 msgstr "شخص در لیست"
 
@@ -7855,6 +8677,7 @@ msgid "The trigger fields used by this timeline activity type are not available"
 msgstr "فیلدهای تریگر استفاده‌شده توسط این نوع فعالیت خط زمانی در دسترس نیستند"
 
 #. js-lingui-id: J1prza
+msgctxt "fieldMetadata.description"
 msgid "The unsubscribe topic this campaign was sent under"
 msgstr "موضوع لغو اشتراکی که این کمپین تحت آن ارسال شد"
 
@@ -7879,30 +8702,37 @@ msgid "The webhook subscription could not be managed for this account."
 msgstr "اشتراک webhook برای این حساب مدیریت نشد."
 
 #. js-lingui-id: Y7dW06
+msgctxt "fieldMetadata.description"
 msgid "The workflow automated trigger settings"
 msgstr "تنظیمات تریگر خودکار گردش‌کار"
 
 #. js-lingui-id: VIRlXt
+msgctxt "fieldMetadata.description"
 msgid "The workflow automated trigger type"
 msgstr "نوع تریگر خودکار گردش‌کار"
 
 #. js-lingui-id: ilJZDO
+msgctxt "fieldMetadata.description"
 msgid "The workflow last published version id"
 msgstr "شناسه آخرین نسخه منتشرشده گردش‌کار"
 
 #. js-lingui-id: ffNEb6
+msgctxt "fieldMetadata.description"
 msgid "The workflow name"
 msgstr "نام گردش‌کار"
 
 #. js-lingui-id: 3uACdY
+msgctxt "fieldMetadata.description"
 msgid "The workflow version name"
 msgstr "نام نسخه گردش‌کار"
 
 #. js-lingui-id: KJxGJb
+msgctxt "fieldMetadata.description"
 msgid "The workflow version status"
 msgstr "وضعیت نسخه گردش‌کار"
 
 #. js-lingui-id: AiP86c
+msgctxt "fieldMetadata.description"
 msgid "The workspace member who last updated the record"
 msgstr "عضو فضای‌کاری که آخرین‌بار رکورد را به‌روزرسانی کرد"
 
@@ -8395,22 +9225,27 @@ msgid "This workspace's upgrade state could not be determined. Please try again 
 msgstr "وضعیت ارتقای این فضای کاری مشخص نشد. لطفاً پس از اتمام ارتقا دوباره تلاش کنید."
 
 #. js-lingui-id: P3L/tZ
+msgctxt "fieldMetadata.description"
 msgid "Thread"
 msgstr "رشته"
 
 #. js-lingui-id: KJ4+gp
+msgctxt "fieldMetadata.label"
 msgid "Thread"
 msgstr "رشته"
 
 #. js-lingui-id: YBkEbP
+msgctxt "pageLayoutWidget.title"
 msgid "Thread"
 msgstr "رشته"
 
 #. js-lingui-id: cVSzoa
+msgctxt "fieldMetadata.label"
 msgid "Thread External ID"
 msgstr "شناسه خارجی رشته"
 
 #. js-lingui-id: lMbT9y
+msgctxt "fieldMetadata.description"
 msgid "Thread id from the messaging provider"
 msgstr "شناسه رشته از ارائه‌دهنده پیام‌رسانی"
 
@@ -8419,74 +9254,92 @@ msgid "Thursday"
 msgstr "پنجشنبه"
 
 #. js-lingui-id: g9BupG
+msgctxt "commandMenuItem.shortLabel"
 msgid "Tidy up"
 msgstr "مرتب‌سازی"
 
 #. js-lingui-id: l+VvdV
+msgctxt "commandMenuItem.label"
 msgid "Tidy up Workflow"
 msgstr "مرتب‌سازی گردش‌کار"
 
 #. js-lingui-id: SEdApj
+msgctxt "fieldMetadata.label"
 msgid "Time format"
 msgstr "قالب زمان"
 
 #. js-lingui-id: 3TjusZ
+msgctxt "fieldMetadata.label"
 msgid "Time zone"
 msgstr "منطقه زمانی"
 
 #. js-lingui-id: CB6eF8
+msgctxt "pageLayoutTab.title"
 msgid "Timeline"
 msgstr "خط زمانی"
 
 #. js-lingui-id: uNfOVo
+msgctxt "pageLayoutWidget.title"
 msgid "Timeline"
 msgstr "خط زمانی"
 
 #. js-lingui-id: Jeb8PZ
+msgctxt "fieldMetadata.label"
 msgid "Timeline Activities"
 msgstr "فعالیت‌های تایم‌لاین"
 
 #. js-lingui-id: qH6+tl
+msgctxt "objectMetadata.labelPlural"
 msgid "Timeline Activities"
 msgstr "فعالیت‌های تایم‌لاین"
 
 #. js-lingui-id: +HfL4V
+msgctxt "fieldMetadata.description"
 msgid "Timeline Activities linked to the company"
 msgstr "فعالیت‌های تایم‌لاین مرتبط با شرکت"
 
 #. js-lingui-id: g+92VU
+msgctxt "fieldMetadata.description"
 msgid "Timeline activities linked to the dashboard"
 msgstr "فعالیت‌های تایم‌لاین مرتبط با داشبورد"
 
 #. js-lingui-id: HtdAll
+msgctxt "fieldMetadata.description"
 msgid "Timeline Activities linked to the note."
 msgstr "فعالیت‌های تایم‌لاین مرتبط با یادداشت."
 
 #. js-lingui-id: UkwlVE
+msgctxt "fieldMetadata.description"
 msgid "Timeline Activities linked to the opportunity."
 msgstr "فعالیت‌های تایم‌لاین مرتبط با فرصت."
 
 #. js-lingui-id: XXuJwA
+msgctxt "fieldMetadata.description"
 msgid "Timeline activities linked to the run"
 msgstr "فعالیت‌های تایم‌لاین مرتبط با اجرا"
 
 #. js-lingui-id: 54N0Kq
+msgctxt "fieldMetadata.description"
 msgid "Timeline Activities linked to the task."
 msgstr "فعالیت‌های تایم‌لاین مرتبط با وظیفه."
 
 #. js-lingui-id: klDmCR
+msgctxt "fieldMetadata.description"
 msgid "Timeline activities linked to the version"
 msgstr "فعالیت‌های تایم‌لاین مرتبط با نسخه"
 
 #. js-lingui-id: qNlIHQ
+msgctxt "fieldMetadata.description"
 msgid "Timeline activities linked to the workflow"
 msgstr "فعالیت‌های تایم‌لاین مرتبط با گردش‌کار"
 
 #. js-lingui-id: ApXfXx
+msgctxt "objectMetadata.labelSingular"
 msgid "Timeline Activity"
 msgstr "فعالیت تایم‌لاین"
 
 #. js-lingui-id: AOrWvh
+msgctxt "fieldMetadata.description"
 msgid "Timeline activity record position"
 msgstr "موقعیت رکورد فعالیت تایم‌لاین"
 
@@ -8495,6 +9348,7 @@ msgid "Timeline activity type conflicts with {0} for the same action, object, an
 msgstr "نوع فعالیت تایم‌لاین با {0} برای همان اقدام، شیء و رابطه هدف تداخل دارد"
 
 #. js-lingui-id: xFv7OI
+msgctxt "fieldMetadata.description"
 msgid "Timeline activity type describing this event"
 msgstr "نوع فعالیت تایم‌لاین توصیف‌کننده این رویداد"
 
@@ -8547,18 +9401,22 @@ msgid "Timeline activity type with name {0} already exists for this application"
 msgstr "نوع فعالیت تایم‌لاین با نام {0} از قبل برای این برنامه وجود دارد"
 
 #. js-lingui-id: o3xAcd
+msgctxt "fieldMetadata.description"
 msgid "Title"
 msgstr "عنوان"
 
 #. js-lingui-id: rB+mLn
+msgctxt "fieldMetadata.label"
 msgid "Title"
 msgstr "عنوان"
 
 #. js-lingui-id: n+KDCN
+msgctxt "fieldMetadata.label"
 msgid "To"
 msgstr "تا"
 
 #. js-lingui-id: I5zDPD
+msgctxt "fieldMetadata.label"
 msgid "To do"
 msgstr "برای انجام"
 
@@ -8587,90 +9445,112 @@ msgid "Too many workspace invitations sent. Please try again later."
 msgstr "تعداد دعوت‌نامه‌های فضای کاری ارسال‌شده بیش از حد است. لطفاً بعداً دوباره تلاش کنید."
 
 #. js-lingui-id: GT/+KO
+msgctxt "fieldMetadata.description"
 msgid "Tool Call ID"
 msgstr "شناسه فراخوانی ابزار"
 
 #. js-lingui-id: cZVMnI
+msgctxt "fieldMetadata.label"
 msgid "Tool Call ID"
 msgstr "شناسه فراخوانی ابزار"
 
 #. js-lingui-id: pns0OM
+msgctxt "fieldMetadata.description"
 msgid "Tool Input"
 msgstr "ورودی ابزار"
 
 #. js-lingui-id: Ko+3AZ
+msgctxt "fieldMetadata.label"
 msgid "Tool Input"
 msgstr "ورودی ابزار"
 
 #. js-lingui-id: LdSoAE
+msgctxt "fieldMetadata.description"
 msgid "Tool Name"
 msgstr "نام ابزار"
 
 #. js-lingui-id: 9SWflq
+msgctxt "fieldMetadata.label"
 msgid "Tool Name"
 msgstr "نام ابزار"
 
 #. js-lingui-id: K02ZIV
+msgctxt "fieldMetadata.description"
 msgid "Tool Output"
 msgstr "خروجی ابزار"
 
 #. js-lingui-id: tTJAE4
+msgctxt "fieldMetadata.label"
 msgid "Tool Output"
 msgstr "خروجی ابزار"
 
 #. js-lingui-id: on9AUZ
+msgctxt "fieldMetadata.description"
 msgid "Total Cache Creation Tokens"
 msgstr "مجموع توکن‌های ایجاد کش"
 
 #. js-lingui-id: iMvfZu
+msgctxt "fieldMetadata.label"
 msgid "Total Cache Creation Tokens"
 msgstr "مجموع توکن‌های ایجاد کش"
 
 #. js-lingui-id: wnDiV2
+msgctxt "fieldMetadata.description"
 msgid "Total Cache Read Tokens"
 msgstr "مجموع توکن‌های خواندن کش"
 
 #. js-lingui-id: Z+48gD
+msgctxt "fieldMetadata.label"
 msgid "Total Cache Read Tokens"
 msgstr "مجموع توکن‌های خواندن کش"
 
 #. js-lingui-id: oSHmRh
+msgctxt "fieldMetadata.description"
 msgid "Total Input Credits"
 msgstr "مجموع اعتبار ورودی"
 
 #. js-lingui-id: 0WCK4i
+msgctxt "fieldMetadata.label"
 msgid "Total Input Credits"
 msgstr "مجموع اعتبار ورودی"
 
 #. js-lingui-id: j6jCen
+msgctxt "fieldMetadata.description"
 msgid "Total Input Tokens"
 msgstr "مجموع توکن‌های ورودی"
 
 #. js-lingui-id: vcK9+n
+msgctxt "fieldMetadata.label"
 msgid "Total Input Tokens"
 msgstr "مجموع توکن‌های ورودی"
 
 #. js-lingui-id: Z3IqtP
+msgctxt "fieldMetadata.description"
 msgid "Total Output Credits"
 msgstr "مجموع اعتبار خروجی"
 
 #. js-lingui-id: jjlMIT
+msgctxt "fieldMetadata.label"
 msgid "Total Output Credits"
 msgstr "مجموع اعتبار خروجی"
 
 #. js-lingui-id: qc0WyQ
+msgctxt "fieldMetadata.description"
 msgid "Total Output Tokens"
 msgstr "مجموع توکن‌های خروجی"
 
 #. js-lingui-id: ej4Lb8
+msgctxt "fieldMetadata.label"
 msgid "Total Output Tokens"
 msgstr "مجموع توکن‌های خروجی"
 
 #. js-lingui-id: 4nPpGt
+msgctxt "fieldMetadata.label"
 msgid "Transcript"
 msgstr "رونوشت"
 
 #. js-lingui-id: TX9XHL
+msgctxt "pageLayoutWidget.title"
 msgid "Transcript"
 msgstr "رونوشت"
 
@@ -8699,18 +9579,22 @@ msgid "Tuesday"
 msgstr "سه‌شنبه"
 
 #. js-lingui-id: Ucgl3N
+msgctxt "fieldMetadata.description"
 msgid "Turn"
 msgstr "نوبت"
 
 #. js-lingui-id: VM2Yjp
+msgctxt "fieldMetadata.label"
 msgid "Turn"
 msgstr "نوبت"
 
 #. js-lingui-id: gpsyQ3
+msgctxt "fieldMetadata.description"
 msgid "Turns"
 msgstr "نوبت‌ها"
 
 #. js-lingui-id: HOvM2t
+msgctxt "fieldMetadata.label"
 msgid "Turns"
 msgstr "نوبت‌ها"
 
@@ -8731,10 +9615,12 @@ msgid "Two-factor authentication verification is required."
 msgstr "تأیید احراز هویت دو مرحله‌ای الزامی است."
 
 #. js-lingui-id: /OnFql
+msgctxt "fieldMetadata.description"
 msgid "Type"
 msgstr "نوع"
 
 #. js-lingui-id: qGjy2F
+msgctxt "fieldMetadata.label"
 msgid "Type"
 msgstr "نوع"
 
@@ -8779,22 +9665,27 @@ msgid "Unknown timeline activity action {0}"
 msgstr "اقدام فعالیت تایم‌لاین ناشناخته {0}"
 
 #. js-lingui-id: spJjXJ
+msgctxt "timelineActivityType.label"
 msgid "unlinked a related note"
 msgstr "یادداشت مرتبط را از پیوند خارج کرد"
 
 #. js-lingui-id: IYBfg3
+msgctxt "timelineActivityType.label"
 msgid "unlinked a related task"
 msgstr "وظیفه مرتبط را از پیوند خارج کرد"
 
 #. js-lingui-id: deE0XW
+msgctxt "fieldMetadata.label"
 msgid "Unsubscribe topic id"
 msgstr "شناسه موضوع لغو اشتراک"
 
 #. js-lingui-id: 93kbO/
+msgctxt "fieldMetadata.description"
 msgid "Unsubscribe Topic ID"
 msgstr "شناسه موضوع لغو اشتراک"
 
 #. js-lingui-id: z2qMOH
+msgctxt "fieldMetadata.label"
 msgid "Unsubscribe Topic ID"
 msgstr "شناسه موضوع لغو اشتراک"
 
@@ -8827,6 +9718,7 @@ msgid "Unsupported page layout widget type {widgetType}"
 msgstr "نوع ویجت چیدمان صفحه پشتیبانی‌نشده {widgetType}"
 
 #. js-lingui-id: kqw1qp
+msgctxt "pageLayoutWidget.title"
 msgid "Untitled Rich Text"
 msgstr "متن غنی بدون عنوان"
 
@@ -8835,18 +9727,22 @@ msgid "Update"
 msgstr "به‌روزرسانی"
 
 #. js-lingui-id: g+pbWz
+msgctxt "commandMenuItem.shortLabel"
 msgid "Update"
 msgstr "به‌روزرسانی"
 
 #. js-lingui-id: 0nxZr5
+msgctxt "commandMenuItem.label"
 msgid "Update {objectLabelPlural}"
 msgstr "به‌روزرسانی {objectLabelPlural}"
 
 #. js-lingui-id: QGupmf
+msgctxt "fieldMetadata.description"
 msgid "Update DateTime"
 msgstr "به‌روزرسانی تاریخ و زمان"
 
 #. js-lingui-id: 7Dcn9C
+msgctxt "fieldMetadata.label"
 msgid "Update DateTime"
 msgstr "به‌روزرسانی تاریخ و زمان"
 
@@ -8855,26 +9751,32 @@ msgid "Update field restrictions only apply to updatable objects."
 msgstr "محدودیت‌های به‌روزرسانی فیلد فقط برای اشیای قابل به‌روزرسانی اعمال می‌شود."
 
 #. js-lingui-id: 7YsDpr
+msgctxt "timelineActivityType.label"
 msgid "updated"
 msgstr "به‌روزرسانی‌شده"
 
 #. js-lingui-id: Hp+aAn
+msgctxt "timelineActivityType.label"
 msgid "updated a related note"
 msgstr "یادداشت مرتبط را به‌روز کرد"
 
 #. js-lingui-id: FoQjXC
+msgctxt "timelineActivityType.label"
 msgid "updated a related task"
 msgstr "وظیفه مرتبط را به‌روز کرد"
 
 #. js-lingui-id: zYS9b3
+msgctxt "fieldMetadata.description"
 msgid "Updated At"
 msgstr "به‌روزشده در"
 
 #. js-lingui-id: LuWQ3A
+msgctxt "fieldMetadata.label"
 msgid "Updated At"
 msgstr "به‌روزشده در"
 
 #. js-lingui-id: U8sfYC
+msgctxt "fieldMetadata.label"
 msgid "Updated by"
 msgstr "به‌روزشده توسط"
 
@@ -8903,10 +9805,12 @@ msgid "Usage quota exhausted for this period."
 msgstr "سهمیه مصرف برای این دوره تمام شده است."
 
 #. js-lingui-id: xwq0b4
+msgctxt "commandMenuItem.label"
 msgid "Use as Draft"
 msgstr "استفاده به‌عنوان پیش‌نویس"
 
 #. js-lingui-id: 4Pp2U8
+msgctxt "commandMenuItem.shortLabel"
 msgid "Use as Draft"
 msgstr "استفاده به‌عنوان پیش‌نویس"
 
@@ -8927,6 +9831,7 @@ msgid "User does not have permission."
 msgstr "کاربر مجوز ندارد."
 
 #. js-lingui-id: f0e8iZ
+msgctxt "fieldMetadata.label"
 msgid "User Email"
 msgstr "ایمیل کاربر"
 
@@ -8935,6 +9840,7 @@ msgid "User friendly error message"
 msgstr "پیام خطای کاربرپسند"
 
 #. js-lingui-id: wzW7ww
+msgctxt "fieldMetadata.label"
 msgid "User ID"
 msgstr "شناسه کاربر"
 
@@ -8951,6 +9857,7 @@ msgid "User not found. Please check the email or ID."
 msgstr "کاربر یافت نشد. لطفاً ایمیل یا شناسه را بررسی کنید."
 
 #. js-lingui-id: qAkbUE
+msgctxt "fieldMetadata.description"
 msgid "User time zone"
 msgstr "منطقه زمانی کاربر"
 
@@ -8959,10 +9866,12 @@ msgid "User was not created with email/password"
 msgstr "کاربر با ایمیل/رمز عبور ایجاد نشده است"
 
 #. js-lingui-id: 2S1QaS
+msgctxt "fieldMetadata.description"
 msgid "User Workspace ID"
 msgstr "شناسه فضای کاری کاربر"
 
 #. js-lingui-id: UBndQ2
+msgctxt "fieldMetadata.label"
 msgid "User Workspace ID"
 msgstr "شناسه فضای کاری کاربر"
 
@@ -8975,18 +9884,22 @@ msgid "User workspace role configuration not found."
 msgstr "پیکربندی نقش فضای کاری کاربر یافت نشد."
 
 #. js-lingui-id: CUICZ7
+msgctxt "fieldMetadata.description"
 msgid "User's preferred date format"
 msgstr "قالب تاریخ ترجیحی کاربر"
 
 #. js-lingui-id: Gy0Tk5
+msgctxt "fieldMetadata.description"
 msgid "User's preferred number format"
 msgstr "قالب عدد ترجیحی کاربر"
 
 #. js-lingui-id: Uadtry
+msgctxt "fieldMetadata.description"
 msgid "User's preferred start day of the week"
 msgstr "روز شروع هفته ترجیحی کاربر"
 
 #. js-lingui-id: ZIo8Cj
+msgctxt "fieldMetadata.description"
 msgid "User's preferred time format"
 msgstr "قالب زمان ترجیحی کاربر"
 
@@ -9019,30 +9932,37 @@ msgid "Verify your two-factor authentication before impersonating users in anoth
 msgstr "قبل از جعل هویت کاربران در فضای کاری دیگر، احراز هویت دو مرحله‌ای خود را تأیید کنید."
 
 #. js-lingui-id: q1On37
+msgctxt "fieldMetadata.label"
 msgid "Version status"
 msgstr "وضعیت نسخه"
 
 #. js-lingui-id: txhQne
+msgctxt "fieldMetadata.label"
 msgid "Version steps"
 msgstr "مراحل نسخه"
 
 #. js-lingui-id: FhKIiF
+msgctxt "fieldMetadata.label"
 msgid "Version trigger"
 msgstr "محرک نسخه"
 
 #. js-lingui-id: TesjoU
+msgctxt "fieldMetadata.label"
 msgid "Versions"
 msgstr "نسخه‌ها"
 
 #. js-lingui-id: tH32bu
+msgctxt "view.name"
 msgid "Versions"
 msgstr "نسخه‌ها"
 
 #. js-lingui-id: j8p0F8
+msgctxt "fieldMetadata.label"
 msgid "Video"
 msgstr "ویدیو"
 
 #. js-lingui-id: 5PQwBy
+msgctxt "fieldMetadata.description"
 msgid "Video recording"
 msgstr "ضبط ویدیو"
 
@@ -9203,6 +10123,7 @@ msgid "View not found for widget"
 msgstr "نما برای ویجت یافت نشد"
 
 #. js-lingui-id: pAoCL6
+msgctxt "commandMenuItem.label"
 msgid "View Previous AI Chats"
 msgstr "مشاهده گفتگوهای قبلی AI"
 
@@ -9275,22 +10196,27 @@ msgid "ViewId is required to create a view sort."
 msgstr "ViewId برای ایجاد مرتب‌سازی نما الزامی است."
 
 #. js-lingui-id: vuzFx0
+msgctxt "timelineActivityType.label"
 msgid "was created by"
 msgstr "ایجاد شد توسط"
 
 #. js-lingui-id: edc5Bh
+msgctxt "timelineActivityType.label"
 msgid "was deleted by"
 msgstr "حذف شد توسط"
 
 #. js-lingui-id: SfnmZe
+msgctxt "timelineActivityType.label"
 msgid "was linked by"
 msgstr "پیوند داده شد توسط"
 
 #. js-lingui-id: tKm/LA
+msgctxt "timelineActivityType.label"
 msgid "was restored by"
 msgstr "بازیابی شد توسط"
 
 #. js-lingui-id: 0i3MMx
+msgctxt "timelineActivityType.label"
 msgid "was unlinked by"
 msgstr "از پیوند خارج شد توسط"
 
@@ -9351,50 +10277,62 @@ msgid "Welcome to Twenty: Please Confirm Your Email"
 msgstr "به Twenty خوش آمدید: لطفاً ایمیل خود را تأیید کنید"
 
 #. js-lingui-id: lKboI8
+msgctxt "fieldMetadata.description"
 msgid "What the principal may do with the record"
 msgstr "آنچه اصل می‌تواند با رکورد انجام دهد"
 
 #. js-lingui-id: 80/6BQ
+msgctxt "fieldMetadata.description"
 msgid "What this list is for"
 msgstr "هدف این فهرست"
 
 #. js-lingui-id: ofdfh5
+msgctxt "fieldMetadata.description"
 msgid "When the campaign finished sending"
 msgstr "زمان پایان ارسال کمپین"
 
 #. js-lingui-id: +tMBha
+msgctxt "fieldMetadata.description"
 msgid "When the campaign is due to start sending"
 msgstr "زمان شروع ارسال کمپین"
 
 #. js-lingui-id: Kx3ltI
+msgctxt "fieldMetadata.description"
 msgid "Where records open for objects that follow the member's preference"
 msgstr "محل باز شدن رکوردها برای اشیایی که از ترجیح عضو پیروی می‌کنند"
 
 #. js-lingui-id: x9NQvE
+msgctxt "fieldMetadata.description"
 msgid "Whether a user explicitly assigned this target"
 msgstr "آیا کاربر این هدف را صراحتاً تخصیص داده است"
 
 #. js-lingui-id: YpNNWn
+msgctxt "fieldMetadata.description"
 msgid "Whether current participant rules justify this target"
 msgstr "آیا قوانین فعلی شرکت‌کننده این هدف را توجیه می‌کنند"
 
 #. js-lingui-id: shMrkl
+msgctxt "fieldMetadata.description"
 msgid "Whether the handle is blocked for a single workspace member or for the whole workspace"
 msgstr "آیا این شناسه برای یک عضو فضای کاری مسدود است یا برای کل فضای کاری"
 
 #. js-lingui-id: zSq4aO
+msgctxt "fieldMetadata.description"
 msgid "Whether this message is an unsent draft synced from the provider"
 msgstr "آیا این پیام پیش‌نویس ارسال‌نشده همگام‌شده از ارائه‌دهنده است"
 
 #. js-lingui-id: 5JE8rv
+msgctxt "objectMetadata.description"
 msgid "Who may read a record of a private object"
 msgstr "چه کسی می‌تواند رکورد یک شیء خصوصی را بخواند"
 
 #. js-lingui-id: 8pSHTA
+msgctxt "fieldMetadata.description"
 msgid "Who receives the access"
 msgstr "چه کسی دسترسی را دریافت می‌کند"
 
 #. js-lingui-id: /paixI
+msgctxt "fieldMetadata.description"
 msgid "Why the access was granted"
 msgstr "دلیل اعطای دسترسی"
 
@@ -9455,18 +10393,22 @@ msgid "Work"
 msgstr "کار"
 
 #. js-lingui-id: ArK4kh
+msgctxt "viewFieldGroup.name"
 msgid "Work"
 msgstr "کار"
 
 #. js-lingui-id: y8IlfM
+msgctxt "fieldMetadata.label"
 msgid "Workflow"
 msgstr "گردش‌کار"
 
 #. js-lingui-id: Ybs2Ml
+msgctxt "objectMetadata.labelSingular"
 msgid "Workflow"
 msgstr "گردش‌کار"
 
 #. js-lingui-id: 45baE2
+msgctxt "pageLayoutWidget.title"
 msgid "Workflow"
 msgstr "گردش‌کار"
 
@@ -9475,14 +10417,17 @@ msgid "Workflow already exists"
 msgstr "گردش‌کار از قبل وجود دارد"
 
 #. js-lingui-id: BwauV3
+msgctxt "objectMetadata.labelSingular"
 msgid "Workflow Automated Trigger"
 msgstr "محرک خودکار گردش‌کار"
 
 #. js-lingui-id: aANbrX
+msgctxt "objectMetadata.labelPlural"
 msgid "Workflow Automated Triggers"
 msgstr "محرک‌های خودکار گردش‌کار"
 
 #. js-lingui-id: np4/Yp
+msgctxt "fieldMetadata.description"
 msgid "Workflow automated triggers linked to the workflow."
 msgstr "محرک‌های خودکار گردش‌کار مرتبط با گردش‌کار."
 
@@ -9499,6 +10444,7 @@ msgid "Workflow is not correctly linked to its mirror"
 msgstr "گردش‌کار به‌درستی به آینه خود پیوند نشده است"
 
 #. js-lingui-id: Dpef1i
+msgctxt "fieldMetadata.description"
 msgid "Workflow linked to the run."
 msgstr "گردش‌کار مرتبط با اجرا."
 
@@ -9511,6 +10457,7 @@ msgid "Workflow not found."
 msgstr "گردش‌کار یافت نشد."
 
 #. js-lingui-id: OpiqiN
+msgctxt "fieldMetadata.description"
 msgid "Workflow record position"
 msgstr "موقعیت رکورد گردش‌کار"
 
@@ -9519,22 +10466,27 @@ msgid "Workflow root step not found."
 msgstr "مرحله ریشه گردش‌کار یافت نشد."
 
 #. js-lingui-id: hqdwCt
+msgctxt "objectMetadata.labelSingular"
 msgid "Workflow Run"
 msgstr "اجرای گردش‌کار"
 
 #. js-lingui-id: ftXaBy
+msgctxt "fieldMetadata.description"
 msgid "Workflow run ended at"
 msgstr "زمان پایان اجرای گردش‌کار"
 
 #. js-lingui-id: 3a4HHd
+msgctxt "fieldMetadata.label"
 msgid "Workflow run ended at"
 msgstr "زمان پایان اجرای گردش‌کار"
 
 #. js-lingui-id: 4tP6XL
+msgctxt "fieldMetadata.description"
 msgid "Workflow run enqueued at"
 msgstr "زمان قرارگیری اجرای گردش‌کار در صف"
 
 #. js-lingui-id: vX8fN0
+msgctxt "fieldMetadata.label"
 msgid "Workflow run enqueued at"
 msgstr "زمان قرارگیری اجرای گردش‌کار در صف"
 
@@ -9547,34 +10499,42 @@ msgid "Workflow run not found."
 msgstr "اجرای گردش‌کار یافت نشد."
 
 #. js-lingui-id: f3HJCK
+msgctxt "fieldMetadata.description"
 msgid "Workflow run position"
 msgstr "موقعیت اجرای گردش‌کار"
 
 #. js-lingui-id: bLsIZe
+msgctxt "fieldMetadata.description"
 msgid "Workflow run started at"
 msgstr "زمان شروع اجرای گردش‌کار"
 
 #. js-lingui-id: CHUa/x
+msgctxt "fieldMetadata.label"
 msgid "Workflow run started at"
 msgstr "زمان شروع اجرای گردش‌کار"
 
 #. js-lingui-id: Sndqu7
+msgctxt "fieldMetadata.description"
 msgid "Workflow run status"
 msgstr "وضعیت اجرای گردش‌کار"
 
 #. js-lingui-id: TO+8/Z
+msgctxt "fieldMetadata.label"
 msgid "Workflow run status"
 msgstr "وضعیت اجرای گردش‌کار"
 
 #. js-lingui-id: Tinlvs
+msgctxt "objectMetadata.labelPlural"
 msgid "Workflow Runs"
 msgstr "اجراهای گردش‌کار"
 
 #. js-lingui-id: KO7j/3
+msgctxt "fieldMetadata.description"
 msgid "Workflow runs linked to the version."
 msgstr "اجراهای گردش‌کار مرتبط با نسخه."
 
 #. js-lingui-id: T71oyd
+msgctxt "fieldMetadata.description"
 msgid "Workflow runs linked to the workflow."
 msgstr "اجراهای گردش‌کار مرتبط با گردش‌کار."
 
@@ -9583,10 +10543,12 @@ msgid "Workflow step not found."
 msgstr "مرحله گردش‌کار یافت نشد."
 
 #. js-lingui-id: sjVenv
+msgctxt "fieldMetadata.label"
 msgid "Workflow version"
 msgstr "نسخه گردش‌کار"
 
 #. js-lingui-id: 0w608/
+msgctxt "objectMetadata.labelSingular"
 msgid "Workflow Version"
 msgstr "نسخه گردش‌کار"
 
@@ -9635,6 +10597,7 @@ msgid "Workflow version is required for workflow trigger items"
 msgstr "نسخه گردش‌کار برای آیتم‌های محرک گردش‌کار الزامی است"
 
 #. js-lingui-id: uVOjgA
+msgctxt "fieldMetadata.description"
 msgid "Workflow version linked to the run."
 msgstr "نسخه گردش‌کار مرتبط با اجرا."
 
@@ -9655,6 +10618,7 @@ msgid "Workflow version not found."
 msgstr "نسخه گردش‌کار یافت نشد."
 
 #. js-lingui-id: XoKTtx
+msgctxt "fieldMetadata.description"
 msgid "Workflow version position"
 msgstr "موقعیت نسخه گردش‌کار"
 
@@ -9663,38 +10627,47 @@ msgid "Workflow version to copy not found"
 msgstr "نسخه گردش‌کار برای کپی یافت نشد"
 
 #. js-lingui-id: lrTHGl
+msgctxt "objectMetadata.labelPlural"
 msgid "Workflow Versions"
 msgstr "نسخه‌های گردش‌کار"
 
 #. js-lingui-id: pa3yzc
+msgctxt "fieldMetadata.description"
 msgid "Workflow versions linked to the workflow."
 msgstr "نسخه‌های گردش‌کار مرتبط با گردش‌کار."
 
 #. js-lingui-id: 1fxsyJ
+msgctxt "fieldMetadata.description"
 msgid "WorkflowAutomatedTrigger record position"
 msgstr "موقعیت رکورد WorkflowAutomatedTrigger"
 
 #. js-lingui-id: 4ffNty
+msgctxt "fieldMetadata.description"
 msgid "WorkflowAutomatedTrigger workflow"
 msgstr "گردش‌کار WorkflowAutomatedTrigger"
 
 #. js-lingui-id: oxqc8m
+msgctxt "fieldMetadata.label"
 msgid "WorkflowRun"
 msgstr "WorkflowRun"
 
 #. js-lingui-id: zSsbOe
+msgctxt "navigationMenuItem.name"
 msgid "Workflows"
 msgstr "گردش‌کارها"
 
 #. js-lingui-id: O0tztx
+msgctxt "objectMetadata.labelPlural"
 msgid "Workflows"
 msgstr "گردش‌کارها"
 
 #. js-lingui-id: W5Wgz6
+msgctxt "fieldMetadata.label"
 msgid "WorkflowVersion"
 msgstr "WorkflowVersion"
 
 #. js-lingui-id: mhEqo/
+msgctxt "fieldMetadata.description"
 msgid "WorkflowVersion workflow"
 msgstr "گردش‌کار WorkflowVersion"
 
@@ -9711,6 +10684,7 @@ msgid "workflowVersionId must not be set when engineComponentKey is FRONT_COMPON
 msgstr "وقتی engineComponentKey برابر FRONT_COMPONENT_RENDERER است، workflowVersionId نباید تنظیم شود"
 
 #. js-lingui-id: kRP73e
+msgctxt "fieldMetadata.label"
 msgid "Workspace"
 msgstr "فضای کاری"
 
@@ -9747,26 +10721,32 @@ msgid "Workspace limit reached. A valid Organization key is required to create m
 msgstr "محدودیت فضای کاری رسید. برای ایجاد فضای کاری بیشتر، یک کلید Organization معتبر لازم است."
 
 #. js-lingui-id: foYipq
+msgctxt "fieldMetadata.description"
 msgid "Workspace member"
 msgstr "عضو فضای کاری"
 
 #. js-lingui-id: gfOHib
+msgctxt "fieldMetadata.label"
 msgid "Workspace member"
 msgstr "عضو فضای کاری"
 
 #. js-lingui-id: pwKAVz
+msgctxt "fieldMetadata.description"
 msgid "Workspace Member"
 msgstr "عضو فضای کاری"
 
 #. js-lingui-id: tz4ASG
+msgctxt "fieldMetadata.label"
 msgid "Workspace Member"
 msgstr "عضو فضای کاری"
 
 #. js-lingui-id: j3uenD
+msgctxt "objectMetadata.labelSingular"
 msgid "Workspace Member"
 msgstr "عضو فضای کاری"
 
 #. js-lingui-id: EVUobL
+msgctxt "fieldMetadata.description"
 msgid "Workspace member avatar"
 msgstr "آواتار عضو فضای کاری"
 
@@ -9783,10 +10763,12 @@ msgid "Workspace member field metadata not found"
 msgstr "فراداده فیلد عضو فضای کاری یافت نشد"
 
 #. js-lingui-id: YvE7G6
+msgctxt "fieldMetadata.description"
 msgid "Workspace member job title"
 msgstr "عنوان شغلی عضو فضای کاری"
 
 #. js-lingui-id: xTE+26
+msgctxt "fieldMetadata.description"
 msgid "Workspace member name"
 msgstr "نام عضو فضای کاری"
 
@@ -9795,10 +10777,12 @@ msgid "Workspace member not found."
 msgstr "عضو فضای کاری یافت نشد."
 
 #. js-lingui-id: tw1ElT
+msgctxt "fieldMetadata.description"
 msgid "Workspace member position"
 msgstr "موقعیت عضو فضای کاری"
 
 #. js-lingui-id: scar7N
+msgctxt "objectMetadata.labelPlural"
 msgid "Workspace Members"
 msgstr "اعضای فضای کاری"
 
@@ -9863,10 +10847,12 @@ msgid "WorkspaceId is required to create a view."
 msgstr "WorkspaceId برای ایجاد نما الزامی است."
 
 #. js-lingui-id: UNOnO7
+msgctxt "fieldMetadata.description"
 msgid "WorkspaceMember"
 msgstr "WorkspaceMember"
 
 #. js-lingui-id: 1dgupQ
+msgctxt "fieldMetadata.label"
 msgid "WorkspaceMember"
 msgstr "WorkspaceMember"
 
@@ -9887,6 +10873,7 @@ msgid "Wrong password."
 msgstr "رمز عبور نادرست."
 
 #. js-lingui-id: a7ym1l
+msgctxt "fieldMetadata.label"
 msgid "Year First"
 msgstr "ابتدا سال"
 
@@ -10099,6 +11086,7 @@ msgid "Your role in this workspace could not be found. Please contact your works
 msgstr "نقش شما در این فضای کاری یافت نشد. لطفاً با ادمین فضای کاری تماس بگیرید."
 
 #. js-lingui-id: 9T+AIN
+msgctxt "fieldMetadata.description"
 msgid "Your team member responsible for managing the company account"
 msgstr "عضو تیم شما مسئول مدیریت حساب شرکت"
 

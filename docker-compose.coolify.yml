@@ -1,0 +1,87 @@
+# Coolify: Docker Compose, base directory = repository root, file = docker-compose.coolify.yml
+# Point the public domain at the server service, port 3000.
+# Coolify fills empty SERVICE_PASSWORD_* values and keeps them across deploys.
+
+name: twenty
+
+services:
+  server:
+    build:
+      context: .
+      dockerfile: packages/twenty-docker/twenty/Dockerfile
+      target: twenty
+    environment:
+      NODE_PORT: 3000
+      SERVER_URL: ${SERVICE_URL_SERVER}
+      PG_DATABASE_URL: postgres://postgres:${SERVICE_PASSWORD_POSTGRES}@db:5432/default
+      REDIS_URL: redis://redis:6379
+      STORAGE_TYPE: local
+      ENCRYPTION_KEY: ${SERVICE_PASSWORD_ENCRYPTION}
+      DISABLE_DB_MIGRATIONS: "false"
+      DISABLE_CRON_JOBS_REGISTRATION: "false"
+    volumes:
+      - server-local-data:/app/packages/twenty-server/.local-storage
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: curl --fail http://localhost:3000/healthz
+      interval: 10s
+      timeout: 5s
+      retries: 20
+      start_period: 60s
+    restart: always
+
+  worker:
+    build:
+      context: .
+      dockerfile: packages/twenty-docker/twenty/Dockerfile
+      target: twenty
+    command: ["yarn", "worker:prod"]
+    environment:
+      SERVER_URL: ${SERVICE_URL_SERVER}
+      PG_DATABASE_URL: postgres://postgres:${SERVICE_PASSWORD_POSTGRES}@db:5432/default
+      REDIS_URL: redis://redis:6379
+      STORAGE_TYPE: local
+      ENCRYPTION_KEY: ${SERVICE_PASSWORD_ENCRYPTION}
+      DISABLE_DB_MIGRATIONS: "true"
+      DISABLE_CRON_JOBS_REGISTRATION: "true"
+    volumes:
+      - server-local-data:/app/packages/twenty-server/.local-storage
+    depends_on:
+      db:
+        condition: service_healthy
+      server:
+        condition: service_healthy
+    restart: always
+
+  db:
+    image: postgres:16
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: default
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${SERVICE_PASSWORD_POSTGRES}
+    healthcheck:
+      test: pg_isready -U postgres -h localhost -d postgres
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    restart: always
+
+  redis:
+    image: redis:7
+    command: ["--maxmemory-policy", "noeviction"]
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    restart: always
+
+volumes:
+  db-data:
+  server-local-data:

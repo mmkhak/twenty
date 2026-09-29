@@ -1,14 +1,14 @@
 import { isEntitlementActive } from 'src/engine/core-modules/billing/utils/is-entitlement-active.util';
 
 describe('isEntitlementActive', () => {
-  it('is false without a valid Organization license, whatever billing says', () => {
+  it('is true without a valid Organization license while the temporary bypass is on', () => {
     expect(
       isEntitlementActive({
         hasValidEnterprisePlan: false,
         isBillingEnabled: false,
         stripeEntitlementValue: true,
       }),
-    ).toBe(false);
+    ).toBe(true);
   });
 
   it('is true on a licensed instance with billing disabled (self-host)', () => {
@@ -36,6 +36,6 @@ describe('isEntitlementActive', () => {
         isBillingEnabled: true,
         stripeEntitlementValue: false,
       }),
-    ).toBe(false);
+    ).toBe(true);
   });
 });

@@ -200,25 +200,13 @@ export class EnterprisePlanService implements OnModuleInit {
   }
 
   async isValidWithFreshToken(): Promise<boolean> {
-    if (this.isCachedValidityPayloadValid()) {
-      return true;
-    }
-
-    if (
-      isValidityTokenReloadDue({
-        lastLoadStartedAt: this.lastValidityTokenLoadStartedAt,
-        didLastLoadFail: this.didLastValidityTokenLoadFail,
-        now: Date.now(),
-      })
-    ) {
-      await this.loadValidityToken();
-    }
-
-    return this.isCachedValidityPayloadValid();
+    // Temporary: Organization license check is bypassed.
+    return true;
   }
 
   isValid(): boolean {
-    return this.hasValidEnterpriseValidityToken();
+    // Temporary: Organization license check is bypassed.
+    return true;
   }
 
   isValidEnterpriseKeyFormat(key: string): boolean {

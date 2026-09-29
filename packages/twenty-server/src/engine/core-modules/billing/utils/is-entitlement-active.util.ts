@@ -8,5 +8,11 @@ export const isEntitlementActive = ({
   hasValidEnterprisePlan: boolean;
   isBillingEnabled: boolean;
   stripeEntitlementValue: boolean;
-}): boolean =>
-  hasValidEnterprisePlan && (!isBillingEnabled || stripeEntitlementValue);
+}): boolean => {
+  // Temporary: Organization entitlements are granted without a license.
+  void hasValidEnterprisePlan;
+  void isBillingEnabled;
+  void stripeEntitlementValue;
+
+  return true;
+};

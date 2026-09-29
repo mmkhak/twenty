@@ -77,16 +77,11 @@ export class BillingService {
     workspaceId: string,
     entitlementKey: BillingEntitlementKey,
   ) {
-    const isBillingEnabled = this.isBillingEnabled();
+    // Temporary: Organization entitlements are granted without a license.
+    void workspaceId;
+    void entitlementKey;
 
-    if (!isBillingEnabled) {
-      return true;
-    }
-
-    return this.billingSubscriptionService.getWorkspaceEntitlementByKey(
-      workspaceId,
-      entitlementKey,
-    );
+    return true;
   }
 
   async isPayingCustomer(workspaceId: string) {
